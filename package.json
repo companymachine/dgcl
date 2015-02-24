@@ -9,6 +9,7 @@
   },
   "scripts": {
     "pre-commit": "mocha",
-    "test": "mocha"
+    "test": "mocha",
+    "travis-ci": "npm run pre-commit"
   }
 }
