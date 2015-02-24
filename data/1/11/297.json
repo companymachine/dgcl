@@ -1,0 +1,31 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "XI"
+    },
+    {
+      "subdivision": "section",
+      "number": "297"
+    }
+  ],
+  "heading": "Sale of perishable or deteriorating property.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Whenever the property of a corporation is at the time of the appointment of a receiver or trustee encumbered with liens of any character, and the validity, extent or legality of any lien is disputed or brought in question, and the property of the corporation is of a character which will deteriorate in value pending the litigation respecting the lien, the Court of Chancery may order the receiver or trustee to sell the property of the corporation, clear of all encumbrances, at public or private sale, for the best price that can be obtained therefor, and pay the net proceeds arising from the sale thereof after deducting the costs of the sale into the Court, there to remain subject to the order of the Court, and to be disposed of as the Court shall direct."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 297",
+    "56 Del. Laws, c. 50"
+  ]
+}

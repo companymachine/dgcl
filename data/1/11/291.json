@@ -1,0 +1,31 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "XI"
+    },
+    {
+      "subdivision": "section",
+      "number": "291"
+    }
+  ],
+  "heading": "Receivers for insolvent corporations; appointment and powers.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Whenever a corporation shall be insolvent, the Court of Chancery, on the application of any creditor or stockholder thereof, may, at any time, appoint 1 or more persons to be receivers of and for the corporation, to take charge of its assets, estate, effects, business and affairs, and to collect the outstanding debts, claims, and property due and belonging to the corporation, with power to prosecute and defend, in the name of the corporation or otherwise, all claims or suits, to appoint an agent or agents under them, and to do all other acts which might be done by the corporation and which may be necessary or proper. The powers of the receivers shall be such and shall continue so long as the Court shall deem necessary."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 291",
+    "56 Del. Laws, c. 50"
+  ]
+}

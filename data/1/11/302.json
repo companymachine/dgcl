@@ -1,0 +1,35 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "XI"
+    },
+    {
+      "subdivision": "section",
+      "number": "302"
+    }
+  ],
+  "heading": "Compromise or arrangement between corporation and creditors or stockholders.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": "Whenever the provision permitted by § 102(b)(2) of this title is included in the original certificate of incorporation of any corporation, all persons who become creditors or stockholders thereof shall be deemed to have become such creditors or stockholders subject in all respects to that provision and the same shall be absolutely binding upon them. Whenever that provision is inserted in the certificate of incorporation of any such corporation by an amendment of its certificate all persons who become creditors or stockholders of such corporation after such amendment shall be deemed to have become such creditors or stockholders subject in all respects to that provision and the same shall be absolutely binding upon them."
+    },
+    {
+      "number": "(b)",
+      "content": "The Court of Chancery may administer and enforce any compromise or arrangement made pursuant to the provision contained in § 102(b)(2) of this title and may restrain, pendente lite, all actions and proceedings against any corporation with respect to which the Court shall have begun the administration and enforcement of that provision and may appoint a temporary receiver for such corporation and may grant the receiver such powers as it deems proper, and may make and enforce such rules as it deems necessary for the exercise of such jurisdiction."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 302",
+    "56 Del. Laws, c. 50"
+  ]
+}

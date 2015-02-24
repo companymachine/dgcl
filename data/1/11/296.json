@@ -1,0 +1,36 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "XI"
+    },
+    {
+      "subdivision": "section",
+      "number": "296"
+    }
+  ],
+  "heading": "Adjudication of claims; appeal.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": "The Register in Chancery, immediately upon the expiration of the time fixed for the filing of claims, in compliance with § 295 of this title, shall notify the trustee or receiver of the filing of the claims, and the trustee or receiver, within 30 days after receiving the notice, shall inspect the claims, and if the trustee or receiver or any creditor shall not be satisfied with the validity or correctness of the same, or any of them, the trustee or receiver shall forthwith notify the creditors whose claims are disputed of such trustee's or receiver's decision. The trustee or receiver shall require all creditors whose claims are disputed to submit themselves to such examination in relation to their claims as the trustee or receiver shall direct, and the creditors shall produce such books and papers relating to their claims as shall be required. The trustee or receiver shall have power to examine, under oath or affirmation, all witnesses produced before such trustee or receiver touching the claims, and shall pass upon and allow or disallow the claims, or any part thereof, and notify the claimants of such trustee's or receiver's determination."
+    },
+    {
+      "number": "(b)",
+      "content": "Every creditor or claimant who shall have received notice from the receiver or trustee that such creditor's or claimant's claim has been disallowed in whole or in part may appeal to the Court of Chancery within 30 days thereafter. The Court, after hearing, shall determine the rights of the parties."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 296",
+    "56 Del. Laws, c. 50",
+    "71 Del. Laws, c. 339, §§ 60, 61"
+  ]
+}

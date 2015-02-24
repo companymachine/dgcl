@@ -1,0 +1,39 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "XI"
+    },
+    {
+      "subdivision": "section",
+      "number": "292"
+    }
+  ],
+  "heading": "Title to property; filing order of appointment; exception.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": "Trustees or receivers appointed by the Court of Chancery of and for any corporation, and their respective survivors and successors, shall, upon their appointment and qualification or upon the death, resignation or discharge of any co-trustee or co-receiver, be vested by operation of law and without any act or deed, with the title of the corporation to all of its property, real, personal or mixed of whatsoever nature, kind, class or description, and wheresoever situate, except real estate situate outside this State."
+    },
+    {
+      "number": "(b)",
+      "content": "Trustees or receivers appointed by the Court of Chancery shall, within 20 days from the date of their qualification, file in the office of the recorder in each county in this State, in which any real estate belonging to the corporation may be situated, a certified copy of the order of their appointment and evidence of their qualification."
+    },
+    {
+      "number": "(c)",
+      "content": "This section shall not apply to receivers appointed pendente lite."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 292",
+    "56 Del. Laws, c. 50"
+  ]
+}

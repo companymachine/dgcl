@@ -1,0 +1,32 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "XI"
+    },
+    {
+      "subdivision": "section",
+      "number": "298"
+    }
+  ],
+  "heading": "Compensation, costs and expenses of receiver or trustee.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The Court of Chancery, before making distribution of the assets of a corporation among the creditors or stockholders thereof, shall allow a reasonable compensation to the receiver or trustee for such receiver's or trustee's services, and the costs and expenses incurred in and about the execution of such receiver's or trustee's trust, and the costs of the proceedings in the Court, to be first paid out of the assets."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 298",
+    "56 Del. Laws, c. 50",
+    "71 Del. Laws, c. 339, § 62"
+  ]
+}

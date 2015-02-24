@@ -1,0 +1,31 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "XI"
+    },
+    {
+      "subdivision": "section",
+      "number": "293"
+    }
+  ],
+  "heading": "Notices to stockholders and creditors.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "All notices required to be given to stockholders and creditors in any action in which a receiver or trustee for a corporation was appointed shall be given by the Register in Chancery, unless otherwise ordered by the Court of Chancery."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 293",
+    "56 Del. Laws, c. 50"
+  ]
+}

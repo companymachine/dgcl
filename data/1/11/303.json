@@ -1,0 +1,50 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "XI"
+    },
+    {
+      "subdivision": "section",
+      "number": "303"
+    }
+  ],
+  "heading": "Proceeding under the Federal Bankruptcy Code of the United States; effectuation.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": "Any corporation of this State, an order for relief with respect to which has been entered pursuant to the Federal Bankruptcy Code, 11 U.S.C. § 101 et seq., or any successor statute, may put into effect and carry out any decrees and orders of the court or judge in such bankruptcy proceeding and may take any corporate action provided or directed by such decrees and orders, without further action by its directors or stockholders. Such power and authority may be exercised, and such corporate action may be taken, as may be directed by such decrees or orders, by the trustee or trustees of such corporation appointed or elected in the bankruptcy proceeding (or a majority thereof), or if none be appointed or elected and acting, by designated officers of the corporation, or by a representative appointed by the court or judge, with like effect as if exercised and taken by unanimous action of the directors and stockholders of the corporation."
+    },
+    {
+      "number": "(b)",
+      "content": "Such corporation may, in the manner provided in subsection (a) of this section, but without limiting the generality or effect of the foregoing, alter, amend or repeal its bylaws; constitute or reconstitute and classify or reclassify its board of directors, and name, constitute or appoint directors and officers in place of or in addition to all or some of the directors or officers then in office; amend its certificate of incorporation, and make any change in its capital or capital stock, or any other amendment, change, or alteration, or provision, authorized by this chapter; be dissolved, transfer all or part of its assets, merge or consolidate as permitted by this chapter, in which case, however, no stockholder shall have any statutory right of appraisal of such stockholder's stock; change the location of its registered office, change its registered agent, and remove or appoint any agent to receive service of process; authorize and fix the terms, manner and conditions of, the issuance of bonds, debentures or other obligations, whether or not convertible into stock of any class, or bearing warrants or other evidences of optional rights to purchase or subscribe for stock of any class; or lease its property and franchises to any corporation, if permitted by law."
+    },
+    {
+      "number": "(c)",
+      "content": "A certificate of any amendment, change or alteration, or of dissolution, or any agreement of merger or consolidation, made by such corporation pursuant to the foregoing provisions, shall be filed with the Secretary of State in accordance with § 103 of this title, and, subject to § 103(d) of this title, shall thereupon become effective in accordance with its terms and the provisions hereof. Such certificate, agreement of merger or other instrument shall be made, executed and acknowledged, as may be directed by such decrees or orders, by the trustee or trustees appointed or elected in the bankruptcy proceeding (or a majority thereof), or, if none be appointed or elected and acting, by the officers of the corporation, or by a representative appointed by the court or judge, and shall certify that provision for the making of such certificate, agreement or instrument is contained in a decree or order of a court or judge having jurisdiction of a proceeding under such Federal Bankruptcy Code or successor statute."
+    },
+    {
+      "number": "(d)",
+      "content": "This section shall cease to apply to such corporation upon the entry of a final decree in the bankruptcy proceeding closing the case and discharging the trustee or trustees, if any; provided however, that the closing of a case and discharge of trustee or trustees, if any, will not affect the validity of any act previously performed pursuant to subsections (a) through (c) of this section."
+    },
+    {
+      "number": "(e)",
+      "content": "On filing any certificate, agreement, report or other paper made or executed pursuant to this section, there shall be paid to the Secretary of State for the use of the State the same fees as are payable by corporations not in bankruptcy upon the filing of like certificates, agreements, reports or other papers."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 303",
+    "56 Del. Laws, c. 50",
+    "70 Del. Laws, c. 587, § 27",
+    "71 Del. Laws, c. 339, § 64",
+    "74 Del. Laws, c. 326, § 8"
+  ]
+}
