@@ -1,0 +1,35 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "II"
+    },
+    {
+      "subdivision": "section",
+      "number": "121"
+    }
+  ],
+  "heading": "General powers.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": "In addition to the powers enumerated in § 122 of this title, every corporation, its officers, directors and stockholders shall possess and may exercise all the powers and privileges granted by this chapter or by any other law or by its certificate of incorporation, together with any powers incidental thereto, so far as such powers and privileges are necessary or convenient to the conduct, promotion or attainment of the business or purposes set forth in its certificate of incorporation."
+    },
+    {
+      "number": "(b)",
+      "content": "Every corporation shall be governed by the provisions and be subject to the restrictions and liabilities contained in this chapter."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 121",
+    "56 Del. Laws, c. 50"
+  ]
+}

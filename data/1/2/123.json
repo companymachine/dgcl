@@ -1,0 +1,31 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "II"
+    },
+    {
+      "subdivision": "section",
+      "number": "123"
+    }
+  ],
+  "heading": "Powers respecting securities of other corporations or entities.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Any corporation organized under the laws of this State may guarantee, purchase, take, receive, subscribe for or otherwise acquire; own, hold, use or otherwise employ; sell, lease, exchange, transfer or otherwise dispose of; mortgage, lend, pledge or otherwise deal in and with, bonds and other obligations of, or shares or other securities or interests in, or issued by, any other domestic or foreign corporation, partnership, association or individual, or by any government or agency or instrumentality thereof. A corporation while owner of any such securities may exercise all the rights, powers and privileges of ownership, including the right to vote."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 123",
+    "56 Del. Laws, c. 50"
+  ]
+}
