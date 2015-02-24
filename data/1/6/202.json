@@ -1,0 +1,105 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "VI"
+    },
+    {
+      "subdivision": "section",
+      "number": "202"
+    }
+  ],
+  "heading": "Restrictions on transfer and ownership of securities",
+  "content": [
+    {
+      "number": "(a)",
+      "content": "A written restriction or restrictions on the transfer or registration of transfer of a security of a corporation, or on the amount of the corporation's securities that may be owned by any person or group of persons, if permitted by this section and noted conspicuously on the certificate or certificates representing the security or securities so restricted or, in the case of uncertificated shares, contained in the notice or notices sent pursuant to § 151(f) of this title, may be enforced against the holder of the restricted security or securities or any successor or transferee of the holder including an executor, administrator, trustee, guardian or other fiduciary entrusted with like responsibility for the person or estate of the holder. Unless noted conspicuously on the certificate or certificates representing the security or securities so restricted or, in the case of uncertificated shares, contained in the notice or notices sent pursuant to § 151(f) of this title, a restriction, even though permitted by this section, is ineffective except against a person with actual knowledge of the restriction."
+    },
+    {
+      "number": "(b)",
+      "content": "A restriction on the transfer or registration of transfer of securities of a corporation, or on the amount of a corporation's securities that may be owned by any person or group of persons, may be imposed by the certificate of incorporation or by the bylaws or by an agreement among any number of security holders or among such holders and the corporation. No restrictions so imposed shall be binding with respect to securities issued prior to the adoption of the restriction unless the holders of the securities are parties to an agreement or voted in favor of the restriction."
+    },
+    {
+      "number": "(c)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A restriction on the transfer or registration of transfer of securities of a corporation or on the amount of such securities that may be owned by any person or group of persons is permitted by this section if it:"
+        },
+        {
+          "number": "(1)",
+          "content": "Obligates the holder of the restricted securities to offer to the corporation or to any other holders of securities of the corporation or to any other person or to any combination of the foregoing, a prior opportunity, to be exercised within a reasonable time, to acquire the restricted securities; or"
+        },
+        {
+          "number": "(2)",
+          "content": "Obligates the corporation or any holder of securities of the corporation or any other person or any combination of the foregoing, to purchase the securities which are the subject of an agreement respecting the purchase and sale of the restricted securities; or"
+        },
+        {
+          "number": "(3)",
+          "content": "Requires the corporation or the holders of any class or series of securities of the corporation to consent to any proposed transfer of the restricted securities or to approve the proposed transferee of the restricted securities, or to approve the amount of securities of the corporation that may be owned by any person or group of persons; or"
+        },
+        {
+          "number": "(4)",
+          "content": "Obligates the holder of the restricted securities to sell or transfer an amount of restricted securities to the corporation or to any other holders of securities of the corporation or to any other person or to any combination of the foregoing, or causes or results in the automatic sale or transfer of an amount of restricted securities to the corporation or to any other holders of securities of the corporation or to any other person or to any combination of the foregoing; or"
+        },
+        {
+          "number": "(5)",
+          "content": "Prohibits or restricts the transfer of the restricted securities to, or the ownership of restricted securities by, designated persons or classes of persons or groups of persons, and such designation is not manifestly unreasonable."
+        }
+      ]
+    },
+    {
+      "number": "(d)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Any restriction on the transfer or the registration of transfer of the securities of a corporation, or on the amount of securities of a corporation that may be owned by a person or group of persons, for any of the following purposes shall be conclusively presumed to be for a reasonable purpose:"
+        },
+        {
+          "number": "(1)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Maintaining any local, state, federal or foreign tax advantage to the corporation or its stockholders, including without limitation:"
+            },
+            {
+              "number": "a.",
+              "content": "Maintaining the corporation's status as an electing small business corporation under subchapter S of the United States Internal Revenue Code [26 U.S.C. § 1371 et seq.], or"
+            },
+            {
+              "number": "b.",
+              "content": "Maintaining or preserving any tax attribute (including without limitation net operating losses), or"
+            },
+            {
+              "number": "c.",
+              "content": "Qualifying or maintaining the qualification of the corporation as a real estate investment trust pursuant to the United States Internal Revenue Code or regulations adopted pursuant to the United States Internal Revenue Code, or"
+            }
+          ]
+        },
+        {
+          "number": "(2)",
+          "content": "Maintaining any statutory or regulatory advantage or complying with any statutory or regulatory requirements under applicable local, state, federal or foreign law."
+        }
+      ]
+    },
+    {
+      "number": "(e)",
+      "content": "Any other lawful restriction on transfer or registration of transfer of securities, or on the amount of securities that may be owned by any person or group of persons, is permitted by this section."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 202",
+    "56 Del. Laws, c. 50",
+    "56 Del. Laws, c. 186, § 11",
+    "64 Del. Laws, c. 112, §§ 19, 20",
+    "72 Del. Laws, c. 123, § 4"
+  ]
+}

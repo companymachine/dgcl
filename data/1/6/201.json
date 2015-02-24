@@ -1,0 +1,32 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "VI"
+    },
+    {
+      "subdivision": "section",
+      "number": "201"
+    }
+  ],
+  "heading": "Transfer of stock, stock certificates and uncertificated stock.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Except as otherwise provided in this chapter, the transfer of stock and the certificates of stock which represent the stock or uncertificated stock shall be governed by Article 8 of subtitle I of Title 6. To the extent that any provision of this chapter is inconsistent with any provision of subtitle I of Title 6, this chapter shall be controlling."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 201",
+    "56 Del. Laws, c. 50",
+    "64 Del. Laws, c. 112, § 18"
+  ]
+}

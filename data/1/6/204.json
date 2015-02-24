@@ -1,0 +1,227 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "II"
+    },
+    {
+      "subdivision": "section",
+      "number": "204"
+    }
+  ],
+  "heading": "Ratification of defective corporate acts and stock.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": "Subject to subsection (f) of this section, no defective corporate act or putative stock shall be void or voidable solely as a result of a failure of authorization if ratified as provided in this section or validated by the Court of Chancery in a proceeding brought under § 205 of this title."
+    },
+    {
+      "number": "(b)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In order to ratify a defective corporate act pursuant to this section, the board of directors of the corporation shall adopt a resolution stating:"
+        },
+        {
+          "number": "(1)",
+          "content": "The defective corporate act to be ratified;"
+        },
+        {
+          "number": "(2)",
+          "content": "The time of the defective corporate act;"
+        },
+        {
+          "number": "(3)",
+          "content": "If such defective corporate act involved the issuance of shares of putative stock, the number and type of shares of putative stock issued and the date or dates upon which such putative shares were purported to have been issued;"
+        },
+        {
+          "number": "(4)",
+          "content": "The nature of the failure of authorization in respect of the defective corporate act to be ratified; and"
+        },
+        {
+          "number": "(5)",
+          "content": "That the board of directors approves the ratification of the defective corporate act."
+        },
+        {
+          "type": "paragraph",
+          "text": "The resolution may also provide that, at any time before the validation effective time, notwithstanding adoption of the resolution by stockholders, the board of directors may abandon the resolution without further action of the stockholders. The quorum and voting requirements applicable to the adoption of such resolution by the board of directors shall be the quorum and voting requirements applicable at the time of such adoption for the type of defective corporate act proposed to be ratified; provided that if the certificate of incorporation or bylaws of the corporation, any plan or agreement to which the corporation was a party or any provision of this title, in each case as in effect as of the time of the defective corporate act, would have required a larger number or portion of directors or of specified directors for a quorum to be present or to approve the defective corporate act, such larger number or portion of such directors or such specified directors shall be required for a quorum to be present or to adopt the resolution, as applicable, except that the presence or approval of any director elected, appointed or nominated by holders of any class or series of which no shares are then outstanding, or by any person that is no longer a stockholder, shall not be required."
+        }
+      ]
+    },
+    {
+      "number": "(c)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The resolution adopted pursuant to subsection (b) of this section shall be submitted to stockholders for adoption as provided in subsection (d) of this section, unless:"
+        },
+        {
+          "number": "(1)",
+          "content": "No other provision of this title, and no provision of the certificate of incorporation or bylaws of the corporation, or of any plan or agreement to which the corporation is a party, would have required stockholder approval of the defective corporate act to be ratified, either at the time of the defective corporate act or at the time when the resolution required by subsection (b) of this section is adopted; and"
+        },
+        {
+          "number": "(2)",
+          "content": "The defective corporate act to be ratified did not result from a failure to comply with § 203 of this title."
+        }
+      ]
+    },
+    {
+      "number": "(d)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "If subsection (c) of this section requires that the resolution be submitted to stockholders, due notice of the time, place, if any, and purpose of the meeting shall be given at least 20 days before the date of the meeting to each holder of valid stock and putative stock, whether voting or nonvoting, at the address of such holder as it appears or most recently appeared, as appropriate, on the records of the corporation. The notice shall also be given to the holders of record of valid stock and putative stock, whether voting or nonvoting, as of the time of the defective corporate act, other than holders whose identities or addresses cannot be determined from the records of the corporation. The notice shall contain a copy of the resolution and a statement that any claim that the defective corporate act or putative stock ratified hereunder is void or voidable due to the identified failure of authorization, or that the Court of Chancery should declare in its discretion that a ratification in accordance with this section not be effective or be effective only on certain conditions must be brought within 120 days from the validation effective time. At such meeting the quorum and voting requirements applicable to the adoption of such resolution by the stockholders shall be the quorum and voting requirements applicable at the time of such adoption for the type of defective corporate act to be ratified, except that:"
+        },
+        {
+          "number": "(1)",
+          "content": "If the certificate of incorporation or bylaws of the corporation, any plan or agreement to which the corporation was a party or any provision of this title in effect as of the time of the defective corporate act would have required a larger number or portion of stock or of any class or series thereof or of specified stockholders for a quorum to be present or to approve the defective corporate act, the presence or approval of such larger number or portion of stock or of such class or series thereof or of such specified stockholders shall be required for a quorum to be present or to adopt the resolution, as applicable, except that the presence or approval of shares of any class or series of which no shares are then outstanding, or of any person that is no longer a stockholder, shall not be required;"
+        },
+        {
+          "number": "(2)",
+          "content": "The adoption of a resolution to ratify the election of a director shall require the affirmative vote of the majority of shares present at the meeting and entitled to vote on the election of such director, except that if the certificate of incorporation or bylaws of the corporation then in effect or in effect at the time of the defective election require or required a larger number or portion of stock to elect such director, the affirmative vote of such larger number or portion of stock shall be required to ratify the election of such director; and"
+        },
+        {
+          "number": "(3)",
+          "content": "In the event of a failure of authorization resulting from failure to comply with the provisions of § 203 of this title, the ratification of the defective corporate act shall require the vote set forth in § 203(a)(3) of this title, regardless of whether such vote would have otherwise been required."
+        }
+      ]
+    },
+    {
+      "number": "(e)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "If the defective corporate act ratified pursuant to this section would have required under any other section of this title the filing of a certificate in accordance with § 103 of this title, then, whether or not a certificate was previously filed in respect of such defective corporate act and in lieu of filing the certificate otherwise required by this title, the corporation shall file a certificate of validation in accordance with § 103 of this title. The certificate of validation shall set forth:"
+        },
+        {
+          "number": "(1)",
+          "content": "The resolution adopted in accordance with subsection (b) of this section, the date of adoption of such resolution by the board of directors and, if applicable, by the stockholders and a statement that such resolution was duly adopted in accordance with this section;"
+        },
+        {
+          "number": "(2)",
+          "content": "If a certificate was previously filed under § 103 of this title in respect of the defective corporate act, the title and date of filing of such prior certificate and any certificates of correction thereto; and"
+        },
+        {
+          "number": "(3)",
+          "content": "Such provisions as would be required under any other section of this title to be included in the certificate that otherwise would have been required to be filed pursuant to this title with respect to such defective corporate act."
+        }
+      ]
+    },
+    {
+      "number": "(f)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "From and after the validation effective time, unless otherwise determined in an action brought pursuant to § 205 of this title:"
+        },
+        {
+          "number": "(1)",
+          "content": "Each defective corporate act set forth in the resolution adopted pursuant to subsection (b) of this section shall no longer be deemed void or voidable as a result of a failure of authorization identified in such resolution and such effect shall be retroactive to the time of the defective corporate act; and"
+        },
+        {
+          "number": "(2)",
+          "content": "Each share or fraction of a share of putative stock issued or purportedly issued pursuant to such defective corporate act and identified in the resolution required by subsection (b) of this section shall no longer be deemed void or voidable as a result of a failure of authorization identified in such resolution and, in the absence of any failure of authorization not ratified, shall be deemed to be an identical share or fraction of a share of outstanding stock as of the time it was purportedly issued."
+        }
+      ]
+    },
+    {
+      "number": "(g)",
+      "content": "Prompt notice of the adoption of a resolution pursuant to this section shall be given to all holders of valid stock and putative stock, whether voting or nonvoting, as of the date of adoption of such resolution by the board of directors, or as of a date within 60 days after the date of adoption of such resolution, as established by the board of directors, at the address of such holder as it appears or most recently appeared, as appropriate, on the records of the corporation. The notice shall also be given to the holders of record of valid stock and putative stock, whether voting or nonvoting, as of the time of the defective corporate act, other than holders whose identities or addresses cannot be determined from the records of the corporation. The notice shall contain a copy of the resolution and a statement that any claim that the defective corporate act or putative stock ratified hereunder is void or voidable due to the identified failure of authorization, or that the Court of Chancery should declare in its discretion that a ratification in accordance with this section not be effective or be effective only on certain conditions must be brought within 120 days from the validation effective time. Notwithstanding the foregoing, no such notice shall be required if notice of the resolution is to be given in accordance with subsection (d) of this section. Solely for purposes of subsections (d) and (g) of this section, notice to holders of putative stock, and notice to holders of valid stock and putative stock as of the time of the defective corporate act, shall be treated as notice to holders of valid stock for purposes of § 222 and §§ 229, 230, 232 and 233 of this title."
+    },
+    {
+      "number": "(h)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "As used in this section and in § 205 of this title only, the term:"
+        },
+        {
+          "number": "(1)",
+          "content": "\"Defective corporate act\" means an overissue, an election or appointment of directors that is void or voidable due to a failure of authorization, or any act or transaction purportedly taken by or on behalf of the corporation that is, and at the time such act or transaction was purportedly taken would have been, within the power of a corporation under subchapter II of this chapter, but is void or voidable due to a failure of authorization;"
+        },
+        {
+          "number": "(2)",
+          "content": "\"Failure of authorization\" means the failure to authorize or effect an act or transaction in compliance with the provisions of this title, the certificate of incorporation or bylaws of the corporation, or any plan or agreement to which the corporation is a party, if and to the extent such failure would render such act or transaction void or voidable;"
+        },
+        {
+          "number": "(3)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "\"Overissue\" means the purported issuance of:"
+            },
+            {
+              "number": "a.",
+              "content": "Shares of capital stock of a class or series in excess of the number of shares of such class or series the corporation has the power to issue under § 161 of this title at the time of such issuance; or"
+            },
+            {
+              "number": "b.",
+              "content": "Shares of any class or series of capital stock that is not then authorized for issuance by the certificate of incorporation of the corporation;"
+            }
+          ]
+        },
+        {
+          "number": "(4)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "\"Putative stock\" means the shares of any class or series of capital stock of the corporation (including shares issued upon exercise of options, rights, warrants or other securities convertible into shares of capital stock of the corporation, or interests with respect thereto that were created or issued pursuant to a defective corporate act) that:"
+            },
+            {
+              "number": "a.",
+              "content": "But for any failure of authorization, would constitute valid stock; or"
+            },
+            {
+              "number": "b.",
+              "content": "Cannot be determined by the board of directors to be valid stock;"
+            }
+          ]
+        },
+        {
+          "number": "(5)",
+          "content": "\"Time of the defective corporate act\" means the date and time the defective corporate act was purported to have been taken;"
+        },
+        {
+          "number": "(6)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "\"Validation effective time\" with respect to any defective corporate act ratified pursuant to this section means the later of:"
+            },
+            {
+              "number": "a.",
+              "content": "The time at which the resolution submitted to the stockholders for adoption pursuant to subsection (c) of this section is adopted by such stockholders, or if no such vote of stockholders is required to adopt the resolution, the time at which the notice required by subsection (g) of this section is given; and"
+            },
+            {
+              "number": "b.",
+              "content": "The time at which any certificate of validation filed pursuant to subsection (e) of this section shall become effective in accordance with § 103 of this title."
+            }
+          ]
+        },
+        {
+          "number": "(7)",
+          "content": "\"Valid stock\" means the shares of any class or series of capital stock of the corporation that have been duly authorized and validly issued in accordance with this title;"
+        },
+        {
+          "type": "paragraph",
+          "text": "In the absence of actual fraud in the transaction, the judgment of the board of directors that shares of stock are valid stock or putative stock shall be conclusive, unless otherwise determined by the Court of Chancery in a proceeding brought pursuant to § 205 of this title."
+        }
+      ]
+    },
+    {
+      "number": "(i)",
+      "content": "Ratification under this section or validation under § 205 of this title shall not be deemed to be the exclusive means of ratifying or validating any act or transaction taken by or on behalf of the corporation, including any defective corporate act, or any issuance of stock, including any putative stock, and the absence or failure of ratification in accordance with either this section or validation under § 205 of this title shall not, of itself, affect the validity or effectiveness of any act or transaction or the issuance of any stock properly ratified under common law or otherwise, nor shall it create a presumption that any such act or transaction is or was a defective corporate act or that such stock is void or voidable."
+    }
+  ],
+  "history": [
+    "79 Del. Laws, c. 72, § 4"
+  ]
+}

@@ -1,0 +1,389 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "II"
+    },
+    {
+      "subdivision": "section",
+      "number": "203"
+    }
+  ],
+  "heading": "Business combinations with interested stockholders.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Notwithstanding any other provisions of this chapter, a corporation shall not engage in any business combination with any interested stockholder for a period of 3 years following the time that such stockholder became an interested stockholder, unless:"
+        },
+        {
+          "number": "(1)",
+          "content": "Prior to such time the board of directors of the corporation approved either the business combination or the transaction which resulted in the stockholder becoming an interested stockholder;"
+        },
+        {
+          "number": "(2)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Upon consummation of the transaction which resulted in the stockholder becoming an interested stockholder, the interested stockholder owned at least 85% of the voting stock of the corporation outstanding at the time the transaction commenced, excluding for purposes of determining the voting stock outstanding (but not the outstanding voting stock owned by the interested stockholder) those shares owned"
+            },
+            {
+              "number": "(i)",
+              "content": "by persons who are directors and also officers and"
+            },
+            {
+              "number": "(ii)",
+              "content": "employee stock plans in which employee participants do not have the right to determine confidentially whether shares held subject to the plan will be tendered in a tender or exchange offer; or"
+            }
+          ]
+        },
+        {
+          "number": "(3)",
+          "content": "At or subsequent to such time the business combination is approved by the board of directors and authorized at an annual or special meeting of stockholders, and not by written consent, by the affirmative vote of at least 66 2/3% of the outstanding voting stock which is not owned by the interested stockholder."
+        }
+      ]
+    },
+    {
+      "number": "(b)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The restrictions contained in this section shall not apply if:"
+        },
+        {
+          "number": "(1)",
+          "content": "The corporation's original certificate of incorporation contains a provision expressly electing not to be governed by this section;"
+        },
+        {
+          "number": "(2)",
+          "content": "The corporation, by action of its board of directors, adopts an amendment to its bylaws within 90 days of February 2, 1988, expressly electing not to be governed by this section, which amendment shall not be further amended by the board of directors;"
+        },
+        {
+          "number": "(3)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The corporation, by action of its stockholders, adopts an amendment to its certificate of incorporation or bylaws expressly electing not to be governed by this section; provided that, in addition to any other vote required by law, such amendment to the certificate of incorporation or bylaws must be approved by the affirmative vote of a majority of the shares entitled to vote. An amendment adopted pursuant to this paragraph shall be effective immediately in the case of a corporation that both"
+            },
+            {
+              "number": "(i)",
+              "content": "has never had a class of voting stock that falls within any of the 2 categories set out in paragraph (b)(4) of this section, and"
+            },
+            {
+              "number": "(ii)",
+              "content": "has not elected by a provision in its original certificate of incorporation or any amendment thereto to be governed by this section. In all other cases, an amendment adopted pursuant to this paragraph shall not be effective until 12 months after the adoption of such amendment and shall not apply to any business combination between such corporation and any person who became an interested stockholder of such corporation on or prior to such adoption. A bylaw amendment adopted pursuant to this paragraph shall not be further amended by the board of directors;"
+            }
+          ]
+        },
+        {
+          "number": "(4)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The corporation does not have a class of voting stock that is:"
+            },
+            {
+              "number": "(i)",
+              "content": "Listed on a national securities exchange; or"
+            },
+            {
+              "number": "(ii)",
+              "content": "held of record by more than 2,000 stockholders, unless any of the foregoing results from action taken, directly or indirectly, by an interested stockholder or from a transaction in which a person becomes an interested stockholder;"
+            }
+          ]
+        },
+        {
+          "number": "(5)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A stockholder becomes an interested stockholder inadvertently and"
+            },
+            {
+              "number": "(i)",
+              "content": "as soon as practicable divests itself of ownership of sufficient shares so that the stockholder ceases to be an interested stockholder; and"
+            },
+            {
+              "number": "(ii)",
+              "content": "would not, at any time within the 3-year period immediately prior to a business combination between the corporation and such stockholder, have been an interested stockholder but for the inadvertent acquisition of ownership;"
+            }
+          ]
+        },
+        {
+          "number": "(6)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The business combination is proposed prior to the consummation or abandonment of and subsequent to the earlier of the public announcement or the notice required hereunder of a proposed transaction which"
+            },
+            {
+              "number": "(i)",
+              "content": "constitutes 1 of the transactions described in the second sentence of this paragraph;"
+            },
+            {
+              "number": "(ii)",
+              "content": "is with or by a person who either was not an interested stockholder during the previous 3 years or who became an interested stockholder with the approval of the corporation's board of directors or during the period described in paragraph (b)(7) of this section; and"
+            },
+            {
+              "number": "(iii)",
+              "content": "is approved or not opposed by a majority of the members of the board of directors then in office (but not less than 1) who were directors prior to any person becoming an interested stockholder during the previous 3 years or were recommended for election or elected to succeed such directors by a majority of such directors. The proposed transactions referred to in the preceding sentence are limited to"
+            },
+            {
+              "number": "(x)",
+              "content": "a merger or consolidation of the corporation (except for a merger in respect of which, pursuant to § 251(f) of this title, no vote of the stockholders of the corporation is required);"
+            },
+            {
+              "number": "(y)",
+              "content": "a sale, lease, exchange, mortgage, pledge, transfer or other disposition (in 1 transaction or a series of transactions), whether as part of a dissolution or otherwise, of assets of the corporation or of any direct or indirect majority-owned subsidiary of the corporation (other than to any direct or indirect wholly-owned subsidiary or to the corporation) having an aggregate market value equal to 50% or more of either that aggregate market value of all of the assets of the corporation determined on a consolidated basis or the aggregate market value of all the outstanding stock of the corporation; or"
+            },
+            {
+              "number": "(z)",
+              "content": "a proposed tender or exchange offer for 50% or more of the outstanding voting stock of the corporation."
+            },
+            {
+              "type": "paragraph",
+              "text": "The corporation shall give not less than 20 days' notice to all interested stockholders prior to the consummation of any of the transactions described in clause (x) or (y) of the second sentence of this paragraph; or"
+            }
+          ]
+        },
+        {
+          "number": "(7)",
+          "content": "The business combination is with an interested stockholder who became an interested stockholder at a time when the restrictions contained in this section did not apply by reason of any of paragraphs (b)(1) through (4) of this section, provided, however, that this paragraph (b)(7) shall not apply if, at the time such interested stockholder became an interested stockholder, the corporation's certificate of incorporation contained a provision authorized by the last sentence of this subsection (b)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Notwithstanding paragraphs (b)(1), (2), (3) and (4) of this section, a corporation may elect by a provision of its original certificate of incorporation or any amendment thereto to be governed by this section; provided that any such amendment to the certificate of incorporation shall not apply to restrict a business combination between the corporation and an interested stockholder of the corporation if the interested stockholder became such prior to the effective date of the amendment."
+        }
+      ]
+    },
+    {
+      "number": "(c)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "As used in this section only, the term:"
+        },
+        {
+          "number": "(1)",
+          "content": "\"Affiliate\" means a person that directly, or indirectly through 1 or more intermediaries, controls, or is controlled by, or is under common control with, another person."
+        },
+        {
+          "number": "(2)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "\"Associate,\" when used to indicate a relationship with any person, means:"
+            },
+            {
+              "number": "(i)",
+              "content": "Any corporation, partnership, unincorporated association or other entity of which such person is a director, officer or partner or is, directly or indirectly, the owner of 20% or more of any class of voting stock;"
+            },
+            {
+              "number": "(ii)",
+              "content": "any trust or other estate in which such person has at least a 20% beneficial interest or as to which such person serves as trustee or in a similar fiduciary capacity; and"
+            },
+            {
+              "number": "(iii)",
+              "content": "any relative or spouse of such person, or any relative of such spouse, who has the same residence as such person."
+            }
+          ]
+        },
+        {
+          "number": "(3)",
+          "content": "\"Business combination,\" when used in reference to any corporation and any interested stockholder of such corporation, means:"
+        },
+        {
+          "number": "(i)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Any merger or consolidation of the corporation or any direct or indirect majority-owned subsidiary of the corporation with"
+            },
+            {
+              "number": "(A)",
+              "content": "the interested stockholder, or"
+            },
+            {
+              "number": "(B)",
+              "content": "with any other corporation, partnership, unincorporated association or other entity if the merger or consolidation is caused by the interested stockholder and as a result of such merger or consolidation subsection (a) of this section is not applicable to the surviving entity;"
+            }
+          ]
+        },
+        {
+          "number": "(ii)",
+          "content": "Any sale, lease, exchange, mortgage, pledge, transfer or other disposition (in 1 transaction or a series of transactions), except proportionately as a stockholder of such corporation, to or with the interested stockholder, whether as part of a dissolution or otherwise, of assets of the corporation or of any direct or indirect majority-owned subsidiary of the corporation which assets have an aggregate market value equal to 10% or more of either the aggregate market value of all the assets of the corporation determined on a consolidated basis or the aggregate market value of all the outstanding stock of the corporation;"
+        },
+        {
+          "number": "(iii)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Any transaction which results in the issuance or transfer by the corporation or by any direct or indirect majority-owned subsidiary of the corporation of any stock of the corporation or of such subsidiary to the interested stockholder, except:"
+            },
+            {
+              "number": "(A)",
+              "content": "Pursuant to the exercise, exchange or conversion of securities exercisable for, exchangeable for or convertible into stock of such corporation or any such subsidiary which securities were outstanding prior to the time that the interested stockholder became such;"
+            },
+            {
+              "number": "(B)",
+              "content": "pursuant to a merger under § 251(g) of this title;"
+            },
+            {
+              "number": "(C)",
+              "content": "pursuant to a dividend or distribution paid or made, or the exercise, exchange or conversion of securities exercisable for, exchangeable for or convertible into stock of such corporation or any such subsidiary which security is distributed, pro rata to all holders of a class or series of stock of such corporation subsequent to the time the interested stockholder became such;"
+            },
+            {
+              "number": "(D)",
+              "content": "pursuant to an exchange offer by the corporation to purchase stock made on the same terms to all holders of said stock; or"
+            },
+            {
+              "number": "(E)",
+              "content": "any issuance or transfer of stock by the corporation;"
+            },
+            {
+              "type": "paragraph",
+              "text": "provided however, that in no case under items (C)-(E) of this subparagraph shall there be an increase in the interested stockholder's proportionate share of the stock of any class or series of the corporation or of the voting stock of the corporation;"
+            }
+          ]
+        },
+        {
+          "number": "(iv)",
+          "content": "Any transaction involving the corporation or any direct or indirect majority-owned subsidiary of the corporation which has the effect, directly or indirectly, of increasing the proportionate share of the stock of any class or series, or securities convertible into the stock of any class or series, of the corporation or of any such subsidiary which is owned by the interested stockholder, except as a result of immaterial changes due to fractional share adjustments or as a result of any purchase or redemption of any shares of stock not caused, directly or indirectly, by the interested stockholder; or"
+        },
+        {
+          "number": "(v)",
+          "content": "Any receipt by the interested stockholder of the benefit, directly or indirectly (except proportionately as a stockholder of such corporation), of any loans, advances, guarantees, pledges or other financial benefits (other than those expressly permitted in paragraphs (c)(3)(i)-(iv) of this section) provided by or through the corporation or any direct or indirect majority-owned subsidiary."
+        },
+        {
+          "number": "(4)",
+          "content": "\"Control,\" including the terms \"controlling,\" \"controlled by\" and \"under common control with,\" means the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of a person, whether through the ownership of voting stock, by contract or otherwise. A person who is the owner of 20% or more of the outstanding voting stock of any corporation, partnership, unincorporated association or other entity shall be presumed to have control of such entity, in the absence of proof by a preponderance of the evidence to the contrary; Notwithstanding the foregoing, a presumption of control shall not apply where such person holds voting stock, in good faith and not for the purpose of circumventing this section, as an agent, bank, broker, nominee, custodian or trustee for 1 or more owners who do not individually or as a group have control of such entity."
+        },
+        {
+          "number": "(5)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "\"Interested stockholder\" means any person (other than the corporation and any direct or indirect majority-owned subsidiary of the corporation) that"
+            },
+            {
+              "number": "(i)",
+              "content": "is the owner of 15% or more of the outstanding voting stock of the corporation, or"
+            },
+            {
+              "number": "(ii)",
+              "content": "is an affiliate or associate of the corporation and was the owner of 15% or more of the outstanding voting stock of the corporation at any time within the 3-year period immediately prior to the date on which it is sought to be determined whether such person is an interested stockholder, and the affiliates and associates of such person;"
+            },
+            {
+              "type": "paragraph",
+              "text": "provided, however, that the term \"interested stockholder\" shall not include"
+            },
+            {
+              "number": "(x)",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "any person who"
+                },
+                {
+                  "number": "(A)",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "owned shares in excess of the 15% limitation set forth herein as of, or acquired such shares pursuant to a tender offer commenced prior to, December 23, 1987, or pursuant to an exchange offer announced prior to the aforesaid date and commenced within 90 days thereafter and either"
+                    },
+                    {
+                      "number": "(I)",
+                      "content": "continued to own shares in excess of such 15% limitation or would have but for action by the corporation or"
+                    },
+                    {
+                      "number": "(II)",
+                      "content": "is an affiliate or associate of the corporation and so continued (or so would have continued but for action by the corporation) to be the owner of 15% or more of the outstanding voting stock of the corporation at any time within the 3-year period immediately prior to the date on which it is sought to be determined whether such a person is an interested stockholder or"
+                    }
+                  ]
+                },
+                {
+                  "number": "(B)",
+                  "content": "acquired said shares from a person described in item (A) of this paragraph by gift, inheritance or in a transaction in which no consideration was exchanged; or"
+                }
+              ]
+            },
+            {
+              "number": "(y)",
+              "content": "any person whose ownership of shares in excess of the 15% limitation set forth herein is the result of action taken solely by the corporation; provided that such person shall be an interested stockholder if thereafter such person acquires additional shares of voting stock of the corporation, except as a result of further corporate action not caused, directly or indirectly, by such person. For the purpose of determining whether a person is an interested stockholder, the voting stock of the corporation deemed to be outstanding shall include stock deemed to be owned by the person through application of paragraph (9) of this subsection but shall not include any other unissued stock of such corporation which may be issuable pursuant to any agreement, arrangement or understanding, or upon exercise of conversion rights, warrants or options, or otherwise."
+            }
+          ]
+        },
+        {
+          "number": "(6)",
+          "content": "\"Person\" means any individual, corporation, partnership, unincorporated association or other entity."
+        },
+        {
+          "number": "(7)",
+          "content": "\"Stock\" means, with respect to any corporation, capital stock and, with respect to any other entity, any equity interest."
+        },
+        {
+          "number": "(8)",
+          "content": "\"Voting stock\" means, with respect to any corporation, stock of any class or series entitled to vote generally in the election of directors and, with respect to any entity that is not a corporation, any equity interest entitled to vote generally in the election of the governing body of such entity. Every reference to a percentage of voting stock shall refer to such percentage of the votes of such voting stock."
+        },
+        {
+          "number": "(9)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "\"Owner,\" including the terms \"own\" and \"owned,\" when used with respect to any stock, means a person that individually or with or through any of its affiliates or associates:"
+            },
+            {
+              "number": "(i)",
+              "content": "Beneficially owns such stock, directly or indirectly; or"
+            },
+            {
+              "number": "(ii)",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "Has"
+                },
+                {
+                  "number": "(A)",
+                  "content": "the right to acquire such stock (whether such right is exercisable immediately or only after the passage of time) pursuant to any agreement, arrangement or understanding, or upon the exercise of conversion rights, exchange rights, warrants or options, or otherwise; provided, however, that a person shall not be deemed the owner of stock tendered pursuant to a tender or exchange offer made by such person or any of such person's affiliates or associates until such tendered stock is accepted for purchase or exchange; or"
+                },
+                {
+                  "number": "(B)",
+                  "content": "the right to vote such stock pursuant to any agreement, arrangement or understanding; provided, however, that a person shall not be deemed the owner of any stock because of such person's right to vote such stock if the agreement, arrangement or understanding to vote such stock arises solely from a revocable proxy or consent given in response to a proxy or consent solicitation made to 10 or more persons; or"
+                }
+              ]
+            },
+            {
+              "number": "(iii)",
+              "content": "Has any agreement, arrangement or understanding for the purpose of acquiring, holding, voting (except voting pursuant to a revocable proxy or consent as described in item (B) of subparagraph (ii) of this paragraph), or disposing of such stock with any other person that beneficially owns, or whose affiliates or associates beneficially own, directly or indirectly, such stock."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "(d)",
+      "content": "No provision of a certificate of incorporation or bylaw shall require, for any vote of stockholders required by this section, a greater vote of stockholders than that specified in this section."
+    },
+    {
+      "number": "(e)",
+      "content": "The Court of Chancery is hereby vested with exclusive jurisdiction to hear and determine all matters with respect to this section."
+    }
+  ],
+  "history": [
+    "66 Del. Laws, c. 204, § 1",
+    "70 Del. Laws, c. 79, §§ 8-10",
+    "73 Del. Laws, c. 298, §§ 4-6",
+    "76 Del. Laws, c. 145, § 2"
+  ]
+}
