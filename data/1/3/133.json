@@ -1,0 +1,33 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "III"
+    },
+    {
+      "subdivision": "section",
+      "number": "133"
+    }
+  ],
+  "heading": "Change of location of registered office; change of registered agent.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Any corporation may, by resolution of its board of directors, change the location of its registered office in this State to any other place in this State. By like resolution, the registered agent of a corporation may be changed to any other person or corporation including itself. In either such case, the resolution shall be as detailed in its statement as is required by § 102(a)(2) of this title. Upon the adoption of such a resolution, a certificate certifying the change shall be executed, acknowledged, and filed in accordance with § 103 of this title."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 133",
+    "56 Del. Laws, c. 50",
+    "69 Del. Laws, c. 235, § 4",
+    "70 Del. Laws, c. 587, § 8.;"
+  ]
+}

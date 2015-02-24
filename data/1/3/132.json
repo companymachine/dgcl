@@ -1,0 +1,204 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "III"
+    },
+    {
+      "subdivision": "section",
+      "number": "132"
+    }
+  ],
+  "heading": "Registered agent in State; resident agent.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Every corporation shall have and maintain in this State a registered agent, which agent may be any of:"
+        },
+        {
+          "number": "(1)",
+          "content": "The corporation itself;"
+        },
+        {
+          "number": "(2)",
+          "content": "An individual resident in this State;"
+        },
+        {
+          "number": "(3)",
+          "content": "A domestic corporation (other than the corporation itself), a domestic partnership (whether general (including a limited liability partnership) or limited (including a limited liability limited partnership)), a domestic limited liability company or a domestic statutory trust; or"
+        },
+        {
+          "number": "(4)",
+          "content": "A foreign corporation, a foreign partnership (whether general (including a limited liability partnership) or limited (including a limited liability limited partnership)), a foreign limited liability company or a foreign statutory trust."
+        }
+      ]
+    },
+    {
+      "number": "(b)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Every registered agent for a domestic corporation or a foreign corporation shall:"
+        },
+        {
+          "number": "(1)",
+          "content": "If an entity, maintain a business office in this State which is generally open, or if an individual, be generally present at a designated location in this State, at sufficiently frequent times to accept service of process and otherwise perform the functions of a registered agent;"
+        },
+        {
+          "number": "(2)",
+          "content": "If a foreign entity, be authorized to transact business in this State;"
+        },
+        {
+          "number": "(3)",
+          "content": "Accept service of process and other communications directed to the corporations for which it serves as registered agent and forward same to the corporation to which the service or communication is directed; and"
+        },
+        {
+          "number": "(4)",
+          "content": "Forward to the corporations for which it serves as registered agent the annual report required by § 502 of this title or an electronic notification of same in a form satisfactory to the Secretary of State (\"Secretary\")."
+        }
+      ]
+    },
+    {
+      "number": "(c)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Any registered agent who at any time serves as registered agent for more than 50 entities (a \"commercial registered agent\"), whether domestic or foreign, shall satisfy and comply with the following qualifications."
+        },
+        {
+          "number": "(1)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A natural person serving as a commercial registered agent shall:"
+            },
+            {
+              "number": "a.",
+              "content": "Maintain a principal residence or a principal place of business in this State;"
+            },
+            {
+              "number": "b.",
+              "content": "Maintain a Delaware business license;"
+            },
+            {
+              "number": "c.",
+              "content": "Be generally present at a designated location within this State during normal business hours to accept service of process and otherwise perform the functions of a registered agent as specified in subsection (b) of this section; and"
+            },
+            {
+              "number": "d.",
+              "content": "Provide the Secretary upon request with such information identifying and enabling communication with such commercial registered agent as the Secretary shall require;"
+            }
+          ]
+        },
+        {
+          "number": "(2)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": " A domestic or foreign corporation, a domestic or foreign partnership (whether general (including a limited liability partnership) or limited (including a limited liability limited partnership)), a domestic or foreign limited liability company, or a domestic or foreign statutory trust serving as a commercial registered agent shall:"
+            },
+            {
+              "number": "a.",
+              "content": "Have a business office within this State which is generally open during normal business hours to accept service of process and otherwise perform the functions of a registered agent as specified in subsection (b) of this section;"
+            },
+            {
+              "number": "b.",
+              "content": "Maintain a Delaware business license;"
+            },
+            {
+              "number": "c.",
+              "content": "Have generally present at such office during normal business hours an officer, director or managing agent who is a natural person; and"
+            },
+            {
+              "number": "d.",
+              "content": "Provide the Secretary upon request with such information identifying and enabling communication with such commercial registered agent as the Secretary shall require."
+            }
+          ]
+        },
+        {
+          "number": "(3)",
+          "content": "For purposes of this subsection and paragraph (f)(2)a. of this section, a commercial registered agent shall also include any registered agent which has an officer, director or managing agent in common with any other registered agent or agents if such registered agents at any time during such common service as officer, director or managing agent collectively served as registered agents for more than 50 entities, whether domestic or foreign."
+        }
+      ]
+    },
+    {
+      "number": "(d)",
+      "content": "Every corporation formed under the laws of this State or qualified to do business in this State shall provide to its registered agent and update from time to time as necessary the name, business address and business telephone number of a natural person who is an officer, director, employee, or designated agent of the corporation, who is then authorized to receive communications from the registered agent. Such person shall be deemed the communications contact for the corporation. Every registered agent shall retain (in paper or electronic form) the above information concerning the current communications contact for each corporation for which he, she or it serves as a registered agent. If the corporation fails to provide the registered agent with a current communications contact, the registered agent may resign as the registered agent for such corporation pursuant to § 136 of this title."
+    },
+    {
+      "number": "(e)",
+      "content": "The Secretary is authorized to issue such rules and regulations as may be necessary or appropriate to carry out the enforcement of subsections (b), (c) and (d) of this section, and to take actions reasonable and necessary to assure registered agents' compliance with subsections (b), (c) and (d) of this section. Such actions may include refusal to file documents submitted by a registered agent."
+    },
+    {
+      "number": "(f)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Upon application of the Secretary, the Court of Chancery may enjoin any person or entity from serving as a registered agent or as an officer, director or managing agent of a registered agent."
+        },
+        {
+          "number": "(1)",
+          "content": "Upon the filing of a complaint by the Secretary pursuant to this section, the Court may make such orders respecting such proceeding as it deems appropriate, and may enter such orders granting interim or final relief as it deems proper under the circumstances."
+        },
+        {
+          "number": "(2)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Any one or more of the following grounds shall be a sufficient basis to grant an injunction pursuant to this section:"
+            },
+            {
+              "number": "a.",
+              "content": "With respect to any registered agent who at any time within 1 year immediately prior to the filing of the Secretary's complaint is a commercial registered agent, failure after notice and warning to comply with the qualifications set forth in subsection (b) of this section and/or the requirements of subsection (c) or (d) of this section above;"
+            },
+            {
+              "number": "b.",
+              "content": "The person serving as a registered agent, or any person who is an officer, director or managing agent of an entity registered agent, has been convicted of a felony or any crime which includes an element of dishonesty or fraud or involves moral turpitude;"
+            },
+            {
+              "number": "c.",
+              "content": "The registered agent has engaged in conduct in connection with acting as a registered agent that is intended to or likely to deceive or defraud the public."
+            }
+          ]
+        },
+        {
+          "number": "(3)",
+          "content": "With respect to any order the court enters pursuant to this section with respect to an entity that has acted as a registered agent, the court may also direct such order to any person who has served as an officer, director, or managing agent of such registered agent. Any person who, on or after January 1, 2007, serves as an officer, director, or managing agent of an entity acting as a registered agent in this State shall be deemed thereby to have consented to the appointment of such registered agent as agent upon whom service of process may be made in any action brought pursuant to this section, and service as an officer, director, or managing agent of an entity acting as a registered agent in this State shall be a signification of the consent of such person that any process when so served shall be of the same legal force and validity as if served upon such person within this State, and such appointment of the registered agent shall be irrevocable."
+        },
+        {
+          "number": "(4)",
+          "content": "Upon the entry of an order by the Court enjoining any person or entity from acting as a registered agent, the Secretary shall mail or deliver notice of such order to each affected corporation at the address of its principal place of business as specified in its most recent franchise tax report or other record of the Secretary. If such corporation is a domestic corporation and fails to obtain and designate a new registered agent within 30 days after such notice is given, the Secretary shall declare the charter of such corporation forfeited. If such corporation is a foreign corporation, and fails to obtain and designate a new registered agent within 30 days after such notice is given, the Secretary shall forfeit its qualification to do business in this State. If the court enjoins a person or entity from acting as a registered agent as provided in this section and no new registered agent shall have been obtained and designated in the time and manner aforesaid, service of legal process against the corporation for which the registered agent had been acting shall thereafter be upon the Secretary in accordance with § 321 of this title. The Court of Chancery may, upon application of the Secretary on notice to the former registered agent, enter such orders as it deems appropriate to give the Secretary access to information in the former registered agent's possession in order to facilitate communication with the corporations the former registered agent served."
+        }
+      ]
+    },
+    {
+      "number": "(g)",
+      "content": "The Secretary is authorized to make a list of registered agents available to the public, and to establish such qualifications and issue such rules and regulations with respect to such listing as the Secretary deems necessary or appropriate."
+    },
+    {
+      "number": "(h)",
+      "content": "Whenever the term \"resident agent\" or \"resident agent in charge of a corporation's principal office or place of business in this State,\" or other term of like import which refers to a corporation's agent required by statute to be located in this State, is or has been used in a corporation's certificate of incorporation, or in any other document, or in any statute, it shall be deemed to mean and refer to, unless the context indicates otherwise, the corporation's registered agent required by this section; and it shall not be necessary for any corporation to amend its certificate of incorporation or any other document to comply with this section."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 132",
+    "56 Del. Laws, c. 50",
+    "70 Del. Laws, c. 186, § 1",
+    "71 Del. Laws, c. 120, § 2",
+    "71 Del. Laws, c. 339, § 10",
+    "73 Del. Laws, c. 329, § 44",
+    "75 Del. Laws, c. 306, §§ 9, 10",
+    "77 Del. Laws, c. 290, § 4.;"
+  ]
+}
