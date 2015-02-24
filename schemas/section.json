@@ -1,10 +1,27 @@
 {
-  "title": "Company Machine Delaware Code Section",
+  "title": "Section",
   "type": "object",
   "properties": {
-    "section": {
-      "type": "string",
-      "minLength": 1
+    "provision": {
+      "type": "array",
+      "minLength": 1,
+      "items": {
+        "type": "object",
+        "properties": {
+          "subdivision": {
+            "type": "string",
+            "minLength": 1
+          },
+          "number": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "subdivision",
+          "number"
+        ]
+      }
     },
     "heading": {
       "type": "string",
@@ -35,9 +52,9 @@
     }
   },
   "required": [
-    "section",
-    "heading",
     "content",
-    "history"
+    "heading",
+    "history",
+    "provision"
   ]
 }

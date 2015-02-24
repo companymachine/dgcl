@@ -1,5 +1,22 @@
 {
-  "section": "104",
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "I"
+    },
+    {
+      "subdivision": "section",
+      "number": "104"
+    }
+  ],
   "heading": "Certificate of incorporation; definition",
   "content": [
     {

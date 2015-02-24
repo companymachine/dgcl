@@ -1,5 +1,22 @@
 {
-  "section": "102",
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "I"
+    },
+    {
+      "subdivision": "section",
+      "number": "102"
+    }
+  ],
   "heading": "Contents of certificate of incorporation",
   "content": [
     {

@@ -1,5 +1,22 @@
 {
-  "section": "114",
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "I"
+    },
+    {
+      "subdivision": "section",
+      "number": "114"
+    }
+  ],
   "heading": "Application of chapter to nonstock corporations.",
   "content": [
     {

@@ -1,5 +1,22 @@
 {
-  "section": "111",
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "I"
+    },
+    {
+      "subdivision": "section",
+      "number": "111"
+    }
+  ],
   "heading": "Jurisdiction to interpret, apply, enforce or determine the validity of corporate instruments and provisions of this title.",
   "content": [
     {
