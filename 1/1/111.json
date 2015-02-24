@@ -1,0 +1,64 @@
+{
+  "section": "111",
+  "heading": "Jurisdiction to interpret, apply, enforce or determine the validity of corporate instruments and provisions of this title.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Any civil action to interpret, apply, enforce or determine the validity of the provisions of:"
+        },
+        {
+          "number": "(1)",
+          "content": "The certificate of incorporation or the bylaws of a corporation;"
+        },
+        {
+          "number": "(2)",
+          "content": "Any instrument, document or agreement by which a corporation creates or sells, or offers to create or sell, any of its stock, or any rights or options respecting its stock;"
+        },
+        {
+          "number": "(3)",
+          "content": "Any written restrictions on the transfer, registration of transfer or ownership of securities under § 202 of this title;"
+        },
+        {
+          "number": "(4)",
+          "content": "Any proxy under § 212 or § 215 of this title;"
+        },
+        {
+          "number": "(5)",
+          "content": "Any voting trust or other voting agreement under § 218 of this title;"
+        },
+        {
+          "number": "(6)",
+          "content": "Any agreement, certificate of merger or consolidation, or certificate of ownership and merger governed by §§ 251-253, §§ 255-258, §§ 263-264, or § 267 of this title;"
+        },
+        {
+          "number": "(7)",
+          "content": "Any certificate of conversion under § 265 or § 266 of this title;"
+        },
+        {
+          "number": "(8)",
+          "content": "Any certificate of domestication, transfer or continuance under § 388, § 389 or § 390 of this title; or"
+        },
+        {
+          "number": "(9)",
+          "content": "Any other instrument, document, agreement, or certificate required by any provision of this title;"
+        },
+        {
+          "type": "paragraph",
+          "text": "may be brought in the Court of Chancery, except to the extent that a statute confers exclusive jurisdiction on a court, agency or tribunal other than the Court of Chancery."
+        }
+      ]
+    },
+    {
+      "number": "(b)",
+      "content": "Any civil action to interpret, apply or enforce any provision of this title may be brought in the Court of Chancery."
+    }
+  ],
+  "history": [
+    "72 Del. Laws, c. 123, § 2",
+    "74 Del. Laws, c. 84, § 1",
+    "77 Del. Laws, c. 290, § 2."
+  ]
+}

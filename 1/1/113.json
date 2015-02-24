@@ -1,0 +1,38 @@
+{
+  "section": "113",
+  "heading": "Proxy expense reimbursement.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The bylaws may provide for the reimbursement by the corporation of expenses incurred by a stockholder in soliciting proxies in connection with an election of directors, subject to such procedures or conditions as the bylaws may prescribe, including:"
+        },
+        {
+          "number": "(1)",
+          "content": "Conditioning eligibility for reimbursement upon the number or proportion of persons nominated by the stockholder seeking reimbursement or whether such stockholder previously sought reimbursement for similar expenses;"
+        },
+        {
+          "number": "(2)",
+          "content": "Limitations on the amount of reimbursement based upon the proportion of votes cast in favor of 1 or more of the persons nominated by the stockholder seeking reimbursement, or upon the amount spent by the corporation in soliciting proxies in connection with the election;"
+        },
+        {
+          "number": "(3)",
+          "content": "Limitations concerning elections of directors by cumulative voting pursuant to § 214 of this title; or"
+        },
+        {
+          "number": "(4)",
+          "content": "Any other lawful condition."
+        }
+      ]
+    },
+    {
+      "number": "(b)",
+      "content": "No bylaw so adopted shall apply to elections for which any record date precedes its adoption."
+    }
+  ],
+  "history": [
+    "77 Del. Laws, c. 14, § 2"
+  ]
+}
