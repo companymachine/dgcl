@@ -62,7 +62,7 @@
         },
         {
           "number": "(1)",
-          "content": "The corporation's original certificate of incorporation contains a provision expressly electing not to be governed by this section;"
+          "content": "The corporation’s original certificate of incorporation contains a provision expressly electing not to be governed by this section;"
         },
         {
           "number": "(2)",
@@ -132,7 +132,7 @@
             },
             {
               "number": "(ii)",
-              "content": "is with or by a person who either was not an interested stockholder during the previous 3 years or who became an interested stockholder with the approval of the corporation's board of directors or during the period described in paragraph (b)(7) of this section; and"
+              "content": "is with or by a person who either was not an interested stockholder during the previous 3 years or who became an interested stockholder with the approval of the corporation’s board of directors or during the period described in paragraph (b)(7) of this section; and"
             },
             {
               "number": "(iii)",
@@ -152,13 +152,13 @@
             },
             {
               "type": "paragraph",
-              "text": "The corporation shall give not less than 20 days' notice to all interested stockholders prior to the consummation of any of the transactions described in clause (x) or (y) of the second sentence of this paragraph; or"
+              "text": "The corporation shall give not less than 20 days’ notice to all interested stockholders prior to the consummation of any of the transactions described in clause (x) or (y) of the second sentence of this paragraph; or"
             }
           ]
         },
         {
           "number": "(7)",
-          "content": "The business combination is with an interested stockholder who became an interested stockholder at a time when the restrictions contained in this section did not apply by reason of any of paragraphs (b)(1) through (4) of this section, provided, however, that this paragraph (b)(7) shall not apply if, at the time such interested stockholder became an interested stockholder, the corporation's certificate of incorporation contained a provision authorized by the last sentence of this subsection (b)."
+          "content": "The business combination is with an interested stockholder who became an interested stockholder at a time when the restrictions contained in this section did not apply by reason of any of paragraphs (b)(1) through (4) of this section, provided, however, that this paragraph (b)(7) shall not apply if, at the time such interested stockholder became an interested stockholder, the corporation’s certificate of incorporation contained a provision authorized by the last sentence of this subsection (b)."
         },
         {
           "type": "paragraph",
@@ -175,14 +175,14 @@
         },
         {
           "number": "(1)",
-          "content": "\"Affiliate\" means a person that directly, or indirectly through 1 or more intermediaries, controls, or is controlled by, or is under common control with, another person."
+          "content": "\"Affiliate” means a person that directly, or indirectly through 1 or more intermediaries, controls, or is controlled by, or is under common control with, another person."
         },
         {
           "number": "(2)",
           "content": [
             {
               "type": "paragraph",
-              "text": "\"Associate,\" when used to indicate a relationship with any person, means:"
+              "text": "\"Associate,” when used to indicate a relationship with any person, means:"
             },
             {
               "number": "(i)",
@@ -200,7 +200,7 @@
         },
         {
           "number": "(3)",
-          "content": "\"Business combination,\" when used in reference to any corporation and any interested stockholder of such corporation, means:"
+          "content": "\"Business combination,” when used in reference to any corporation and any interested stockholder of such corporation, means:"
         },
         {
           "number": "(i)",
@@ -252,7 +252,7 @@
             },
             {
               "type": "paragraph",
-              "text": "provided however, that in no case under items (C)-(E) of this subparagraph shall there be an increase in the interested stockholder's proportionate share of the stock of any class or series of the corporation or of the voting stock of the corporation;"
+              "text": "provided however, that in no case under items (C)-(E) of this subparagraph shall there be an increase in the interested stockholder’s proportionate share of the stock of any class or series of the corporation or of the voting stock of the corporation;"
             }
           ]
         },
@@ -266,14 +266,14 @@
         },
         {
           "number": "(4)",
-          "content": "\"Control,\" including the terms \"controlling,\" \"controlled by\" and \"under common control with,\" means the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of a person, whether through the ownership of voting stock, by contract or otherwise. A person who is the owner of 20% or more of the outstanding voting stock of any corporation, partnership, unincorporated association or other entity shall be presumed to have control of such entity, in the absence of proof by a preponderance of the evidence to the contrary; Notwithstanding the foregoing, a presumption of control shall not apply where such person holds voting stock, in good faith and not for the purpose of circumventing this section, as an agent, bank, broker, nominee, custodian or trustee for 1 or more owners who do not individually or as a group have control of such entity."
+          "content": "\"Control,” including the terms “controlling,” “controlled by” and “under common control with,” means the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of a person, whether through the ownership of voting stock, by contract or otherwise. A person who is the owner of 20% or more of the outstanding voting stock of any corporation, partnership, unincorporated association or other entity shall be presumed to have control of such entity, in the absence of proof by a preponderance of the evidence to the contrary; Notwithstanding the foregoing, a presumption of control shall not apply where such person holds voting stock, in good faith and not for the purpose of circumventing this section, as an agent, bank, broker, nominee, custodian or trustee for 1 or more owners who do not individually or as a group have control of such entity."
         },
         {
           "number": "(5)",
           "content": [
             {
               "type": "paragraph",
-              "text": "\"Interested stockholder\" means any person (other than the corporation and any direct or indirect majority-owned subsidiary of the corporation) that"
+              "text": "\"Interested stockholder” means any person (other than the corporation and any direct or indirect majority-owned subsidiary of the corporation) that"
             },
             {
               "number": "(i)",
@@ -285,7 +285,7 @@
             },
             {
               "type": "paragraph",
-              "text": "provided, however, that the term \"interested stockholder\" shall not include"
+              "text": "provided, however, that the term “interested stockholder” shall not include"
             },
             {
               "number": "(x)",
@@ -325,22 +325,22 @@
         },
         {
           "number": "(6)",
-          "content": "\"Person\" means any individual, corporation, partnership, unincorporated association or other entity."
+          "content": "\"Person” means any individual, corporation, partnership, unincorporated association or other entity."
         },
         {
           "number": "(7)",
-          "content": "\"Stock\" means, with respect to any corporation, capital stock and, with respect to any other entity, any equity interest."
+          "content": "\"Stock” means, with respect to any corporation, capital stock and, with respect to any other entity, any equity interest."
         },
         {
           "number": "(8)",
-          "content": "\"Voting stock\" means, with respect to any corporation, stock of any class or series entitled to vote generally in the election of directors and, with respect to any entity that is not a corporation, any equity interest entitled to vote generally in the election of the governing body of such entity. Every reference to a percentage of voting stock shall refer to such percentage of the votes of such voting stock."
+          "content": "\"Voting stock” means, with respect to any corporation, stock of any class or series entitled to vote generally in the election of directors and, with respect to any entity that is not a corporation, any equity interest entitled to vote generally in the election of the governing body of such entity. Every reference to a percentage of voting stock shall refer to such percentage of the votes of such voting stock."
         },
         {
           "number": "(9)",
           "content": [
             {
               "type": "paragraph",
-              "text": "\"Owner,\" including the terms \"own\" and \"owned,\" when used with respect to any stock, means a person that individually or with or through any of its affiliates or associates:"
+              "text": "\"Owner,” including the terms “own” and “owned,” when used with respect to any stock, means a person that individually or with or through any of its affiliates or associates:"
             },
             {
               "number": "(i)",
@@ -355,11 +355,11 @@
                 },
                 {
                   "number": "(A)",
-                  "content": "the right to acquire such stock (whether such right is exercisable immediately or only after the passage of time) pursuant to any agreement, arrangement or understanding, or upon the exercise of conversion rights, exchange rights, warrants or options, or otherwise; provided, however, that a person shall not be deemed the owner of stock tendered pursuant to a tender or exchange offer made by such person or any of such person's affiliates or associates until such tendered stock is accepted for purchase or exchange; or"
+                  "content": "the right to acquire such stock (whether such right is exercisable immediately or only after the passage of time) pursuant to any agreement, arrangement or understanding, or upon the exercise of conversion rights, exchange rights, warrants or options, or otherwise; provided, however, that a person shall not be deemed the owner of stock tendered pursuant to a tender or exchange offer made by such person or any of such person’s affiliates or associates until such tendered stock is accepted for purchase or exchange; or"
                 },
                 {
                   "number": "(B)",
-                  "content": "the right to vote such stock pursuant to any agreement, arrangement or understanding; provided, however, that a person shall not be deemed the owner of any stock because of such person's right to vote such stock if the agreement, arrangement or understanding to vote such stock arises solely from a revocable proxy or consent given in response to a proxy or consent solicitation made to 10 or more persons; or"
+                  "content": "the right to vote such stock pursuant to any agreement, arrangement or understanding; provided, however, that a person shall not be deemed the owner of any stock because of such person’s right to vote such stock if the agreement, arrangement or understanding to vote such stock arises solely from a revocable proxy or consent given in response to a proxy or consent solicitation made to 10 or more persons; or"
                 }
               ]
             },
