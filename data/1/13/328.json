@@ -1,0 +1,31 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "XIII"
+    },
+    {
+      "subdivision": "section",
+      "number": "328"
+    }
+  ],
+  "heading": "Effect of liability of corporation on impairment of certain transactions.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The liability of a corporation of this State, or the stockholders, directors or officers thereof, or the rights or remedies of the creditors thereof, or of persons doing or transacting business with the corporation, shall not in any way be lessened or impaired by the sale of its assets, or by the increase or decrease in the capital stock of the corporation, or by its merger or consolidation with 1 or more corporations or by any change or amendment in its certificate of incorporation."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 328",
+    "56 Del. Laws, c. 50"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "XIII"
+    },
+    {
+      "subdivision": "section",
+      "number": "330"
+    }
+  ],
+  "heading": "Usury; pleading by corporation.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "No corporation shall plead any statute against usury in any court of law or equity in any suit instituted to enforce the payment of any bond, note or other evidence of indebtedness issued or assumed by it."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 330",
+    "56 Del. Laws, c. 50"
+  ]
+}

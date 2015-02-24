@@ -1,0 +1,36 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "XIII"
+    },
+    {
+      "subdivision": "section",
+      "number": "325"
+    }
+  ],
+  "heading": "Actions against officers, directors or stockholders to enforce liability of corporation; unsatisfied judgment against corporation.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": "When the officers, directors or stockholders of any corporation shall be liable by the provisions of this chapter to pay the debts of the corporation, or any part thereof, any person to whom they are liable may have an action, at law or in equity, against any 1 or more of them, and the complaint shall state the claim against the corporation, and the ground on which the plaintiff expects to charge the defendants personally."
+    },
+    {
+      "number": "(b)",
+      "content": "No suit shall be brought against any officer, director or stockholder for any debt of a corporation of which such person is an officer, director or stockholder, until judgment be obtained therefor against the corporation and execution thereon returned unsatisfied."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 325",
+    "56 Del. Laws, c. 50",
+    "71 Del. Laws, c. 339, § 71"
+  ]
+}
