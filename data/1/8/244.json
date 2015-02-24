@@ -1,0 +1,57 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "VIII"
+    },
+    {
+      "subdivision": "section",
+      "number": "244"
+    }
+  ],
+  "heading": "Reduction of capital.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": "A corporation, by resolution of its board of directors, may reduce its capital in any of the following ways:"
+    },
+    {
+      "number": "(1)",
+      "content": "By reducing or eliminating the capital represented by shares of capital stock which have been retired;"
+    },
+    {
+      "number": "(2)",
+      "content": "By applying to an otherwise authorized purchase or redemption of outstanding shares of its capital stock some or all of the capital represented by the shares being purchased or redeemed, or any capital that has not been allocated to any particular class of its capital stock;"
+    },
+    {
+      "number": "(3)",
+      "content": "By applying to an otherwise authorized conversion or exchange of outstanding shares of its capital stock some or all of the capital represented by the shares being converted or exchanged, or some or all of any capital that has not been allocated to any particular class of its capital stock, or both, to the extent that such capital in the aggregate exceeds the total aggregate par value or the stated capital of any previously unissued shares issuable upon such conversion or exchange; or"
+    },
+    {
+      "number": "(4)",
+      "content": "By transferring to surplus (i) some or all of the capital not represented by any particular class of its capital stock; (ii) some or all of the capital represented by issued shares of its par value capital stock, which capital is in excess of the aggregate par value of such shares; or (iii) some of the capital represented by issued shares of its capital stock without par value."
+    },
+    {
+      "number": "(b)",
+      "content": "Notwithstanding the other provisions of this section, no reduction of capital shall be made or effected unless the assets of the corporation remaining after such reduction shall be sufficient to pay any debts of the corporation for which payment has not been otherwise provided. No reduction of capital shall release any liability of any stockholder whose shares have not been fully paid."
+    },
+    {
+      "number": "(c)",
+      "content": "[Repealed.]"
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 244",
+    "56 Del. Laws, c. 50",
+    "59 Del. Laws, c. 106, § 9",
+    "64 Del. Laws, c. 112, §§ 25, 26.;"
+  ]
+}
