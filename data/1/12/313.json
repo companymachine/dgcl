@@ -1,0 +1,44 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "XII"
+    },
+    {
+      "subdivision": "section",
+      "number": "313"
+    }
+  ],
+  "heading": "Renewal of certificate of incorporation or charter of exempt corporations.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": "Every exempt corporation whose certificate of incorporation or charter has become inoperative and void, by operation of § 510 of this title for failure to file annual franchise tax reports required, and for failure to pay taxes or penalties from which it would have been exempt if the reports had been filed, shall be deemed to have filed all the reports and be relieved of all the taxes and penalties, upon satisfactory proof submitted to the Secretary of State of its right to be classified as an exempt corporation pursuant to § 501(b) of this title, and upon filing with the Secretary of State a certificate of renewal and revival in manner and form as required by § 312 of this title."
+    },
+    {
+      "number": "(b)",
+      "content": "Upon the filing by the corporation of the proof of classification as required by subsection (a) of this section, the filing of the certificate of renewal and revival and payment of the required filing fees, the Secretary of State shall issue a certificate that the corporation's certificate of incorporation or charter has been renewed and revived as of the date of the certificate and the corporation shall be renewed and revived with the same force and effect as provided in § 312(e) of this title for other corporations."
+    },
+    {
+      "number": "(c)",
+      "content": "As used in this section, the term \"exempt corporation\" shall have the meaning given to it in § 501(b) of this title. Nothing contained in this section relieves any exempt corporation from filing the annual report required by § 502 of this title."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 313",
+    "56 Del. Laws, c. 50",
+    "56 Del. Laws, c. 186, § 26",
+    "58 Del. Laws, c. 450, § 8",
+    "70 Del. Laws, c. 587, § 31",
+    "77 Del. Laws, c. 253, § 65",
+    "78 Del. Laws, c. 96, §§ 10-12"
+  ]
+}

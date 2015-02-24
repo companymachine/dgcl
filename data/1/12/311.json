@@ -1,0 +1,104 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "XII"
+    },
+    {
+      "subdivision": "section",
+      "number": "311"
+    }
+  ],
+  "heading": "Revocation of voluntary dissolution.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "At any time prior to the expiration of 3 years following the dissolution of a corporation pursuant to § 275 of this title, or, at any time prior to the expiration of such longer period as the Court of Chancery may have directed pursuant to § 278 of this title, a corporation may revoke the dissolution theretofore effected by it in the following manner:"
+        },
+        {
+          "number": "(1)",
+          "content": "For purposes of this section, the term \"stockholders\" shall mean the stockholders of record on the date the dissolution became effective."
+        },
+        {
+          "number": "(2)",
+          "content": "The board of directors shall adopt a resolution recommending that the dissolution be revoked and directing that the question of the revocation be submitted to a vote at a special meeting of stockholders;"
+        },
+        {
+          "number": "(3)",
+          "content": "Notice of the special meeting of stockholders shall be given in accordance with § 222 of this title to each of the stockholders."
+        },
+        {
+          "number": "(4)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "At the meeting a vote of the stockholders shall be taken on a resolution to revoke the dissolution. If a majority of the stock of the corporation which was outstanding and entitled to vote upon a dissolution at the time of its dissolution shall be voted for the resolution, a certificate of revocation of dissolution shall be executed, and acknowledged in accordance with § 103 of this title, which shall state:"
+            },
+            {
+              "number": "a.",
+              "content": "The name of the corporation;"
+            },
+            {
+              "number": "b.",
+              "content": "The address (which shall be stated in accordance with § 131(c) of this title) of the corporation's registered office in this State, and the name of its registered agent at such address;"
+            },
+            {
+              "number": "c.",
+              "content": "The names and respective addresses of its officers;"
+            },
+            {
+              "number": "d.",
+              "content": "The names and respective addresses of its directors;"
+            },
+            {
+              "number": "e.",
+              "content": "That a majority of the stock of the corporation which was outstanding and entitled to vote upon a dissolution at the time of its dissolution have voted in favor of a resolution to revoke the dissolution; or, if it be the fact, that, in lieu of a meeting and vote of stockholders, the stockholders have given their written consent to the revocation in accordance with § 228 of this title."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "(b)",
+      "content": "Upon the filing in the office of the Secretary of State of the certificate of revocation of dissolution, the Secretary of State, upon being satisfied that the requirements of this section have been complied with, shall issue a certificate that the dissolution has been revoked. Upon the issuance of such certificate by the Secretary of the State, the revocation of the dissolution shall become effective and the corporation may again carry on its business."
+    },
+    {
+      "number": "(c)",
+      "content": "Upon the issuance of the certificate by the Secretary of State to which subsection (b) of this section refers, the provisions of § 211(c) of this title shall govern, and the period of time the corporation was in dissolution shall be included within the calculation of the 30-day and 13-month periods to which § 211(c) of this title refers. An election of directors, however, may be held at the special meeting of stockholders to which subsection (a) of this section refers, and in that event, that meeting of stockholders shall be deemed an annual meeting of stockholders for purposes of § 211(c) of this title."
+    },
+    {
+      "number": "(d)",
+      "content": "If after the dissolution became effective any other corporation organized under the laws of this State shall have adopted the same name as the corporation, or shall have adopted a name so nearly similar thereto as not to distinguish it from the corporation, or any foreign corporation shall have qualified to do business in this State under the same name as the corporation or under a name so nearly similar thereto as not to distinguish it from the corporation, then, in such case, the corporation shall not be reinstated under the same name which it bore when its dissolution became effective, but shall adopt and be reinstated under some other name, and in such case the certificate to be filed under this section shall set forth the name borne by the corporation at the time its dissolution became effective and the new name under which the corporation is to be reinstated."
+    },
+    {
+      "number": "(e)",
+      "content": "Nothing in this section shall be construed to affect the jurisdiction or power of the Court of Chancery under § 279 or § 280 of this title."
+    },
+    {
+      "number": "(f)",
+      "content": "At any time prior to the expiration of 3 years following the dissolution of a nonstock corporation pursuant to § 276 of this title, or, at any time prior to the expiration of such longer period as the Court of Chancery may have directed pursuant to § 278 of this title, a nonstock corporation may revoke the dissolution theretofore effected by it in a manner analogous to that by which the dissolution was authorized, including (i) if applicable, a vote of the members entitled to vote, if any, on the dissolution and (ii) the filing of a certificate of revocation of dissolution containing information comparable to that required by paragraph (a)(4) of this section. Notwithstanding the foregoing, only subsections (b), (d), and (e) of this section shall apply to nonstock corporations."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 311",
+    "56 Del. Laws, c. 50",
+    "56 Del. Laws, c. 186, § 25",
+    "57 Del. Laws, c. 148, § 33",
+    "70 Del. Laws, c. 587, § 28",
+    "73 Del. Laws, c. 82, §§ 33, 34",
+    "73 Del. Laws, c. 298, § 11",
+    "77 Del. Laws, c. 253, § 63",
+    "78 Del. Laws, c. 273, § 5"
+  ]
+}
