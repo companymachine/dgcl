@@ -1,0 +1,31 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "IX"
+    },
+    {
+      "subdivision": "section",
+      "number": "261"
+    }
+  ],
+  "heading": "Effect of merger upon pending actions.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Any action or proceeding, whether civil, criminal or administrative, pending by or against any corporation which is a party to a merger or consolidation shall be prosecuted as if such merger or consolidation had not taken place, or the corporation surviving or resulting from such merger or consolidation may be substituted in such action or proceeding."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 261",
+    "56 Del. Laws, c. 50.;"
+  ]
+}

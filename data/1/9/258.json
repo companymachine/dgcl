@@ -1,0 +1,47 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "IX"
+    },
+    {
+      "subdivision": "section",
+      "number": "258"
+    }
+  ],
+  "heading": "Merger or consolidation of domestic and foreign stock and nonstock corporations.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": "Any 1 or more corporations of this State, whether stock or nonstock corporations and whether or not organized for profit, may merge or consolidate with 1 or more other corporations of any other state or states of the United States or of the District of Columbia whether stock or nonstock corporations and whether or not organized for profit, if the laws under which the other corporation or corporations are formed shall permit such a corporation of such jurisdiction to merge with a corporation of another jurisdiction. The constituent corporations may merge into a single corporation, which may be any 1 of the constituent corporations, or they may consolidate into a new corporation formed by the consolidation, which may be a corporation of the place of incorporation of any 1 of the constituent corporations, pursuant to an agreement of merger or consolidation, as the case may be, complying and approved in accordance with this section. The surviving or new corporation may be either a stock corporation or a nonstock corporation, as shall be specified in the agreement of merger required by subsection (b) of this section."
+    },
+    {
+      "number": "(b)",
+      "content": "The method and procedure to be followed by the constituent corporations so merging or consolidating shall be as prescribed in § 257 of this title in the case of Delaware corporations. The agreement of merger or consolidation shall also set forth such other matters or provisions as shall then be required to be set forth in certificates of incorporation by the laws of the state which are stated in the agreement to be the laws which shall govern the surviving or resulting corporation and that can be stated in the case of a merger or consolidation. The agreement, in the case of foreign corporations, shall be adopted, approved, certified, executed and acknowledged by each of the constituent foreign corporations in accordance with the laws under which each is formed."
+    },
+    {
+      "number": "(c)",
+      "content": "The requirements of § 252(d) of this title as to the appointment of the Secretary of State to receive process and the manner of serving the same in the event the surviving or new corporation is to be governed by the laws of any other state shall also apply to mergers or consolidations effected under this section. Section 251(e) of this title shall apply to mergers effected under this section if the surviving corporation is a corporation of this State; § 251(d) of this title shall apply to any constituent corporation participating in a merger or consolidation under this section (provided, however, that for purposes of a constituent nonstock corporation, references to the board of directors, to stockholders, and to shares shall be deemed to be references to the governing body of the corporation, to members of the corporation, and to memberships or membership interests of the corporation, as applicable, respectively); and § 251(f) of this title shall apply to any constituent stock corporation participating in a merger under this section."
+    },
+    {
+      "number": "(d)",
+      "content": "Nothing in this section shall be deemed to authorize the merger of a charitable nonstock corporation into a stock corporation, if the charitable status of such nonstock corporation would thereby be lost or impaired; but a stock corporation may be merged into a charitable nonstock corporation which shall continue as the surviving corporation."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 258",
+    "56 Del. Laws, c. 50",
+    "56 Del. Laws, c. 186, § 22",
+    "57 Del. Laws, c. 148, § 26",
+    "76 Del. Laws, c. 145, § 10",
+    "77 Del. Laws, c. 253, §§ 45, 46.;"
+  ]
+}

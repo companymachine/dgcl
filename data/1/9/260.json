@@ -1,0 +1,32 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "IX"
+    },
+    {
+      "subdivision": "section",
+      "number": "260"
+    }
+  ],
+  "heading": "Powers of corporation surviving or resulting from merger or consolidation; issuance of stock, bonds or other indebtedness.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "When 2 or more corporations are merged or consolidated, the corporation surviving or resulting from the merger may issue bonds or other obligations, negotiable or otherwise, and with or without coupons or interest certificates thereto attached, to an amount sufficient with its capital stock to provide for all the payments it will be required to make, or obligations it will be required to assume, in order to effect the merger or consolidation. For the purpose of securing the payment of any such bonds and obligations, it shall be lawful for the surviving or resulting corporation to mortgage its corporate franchise, rights, privileges and property, real, personal or mixed. The surviving or resulting corporation may issue certificates of its capital stock or uncertificated stock if authorized to do so and other securities to the stockholders of the constituent corporations in exchange or payment for the original shares, in such amount as shall be necessary in accordance with the terms of the agreement of merger or consolidation in order to effect such merger or consolidation in the manner and on the terms specified in the agreement."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 260",
+    "56 Del. Laws, c. 50",
+    "64 Del. Laws, c. 112, § 45.;"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "IX"
+    },
+    {
+      "subdivision": "section",
+      "number": "253"
+    }
+  ],
+  "heading": "Merger of parent corporation and subsidiary or subsidiaries.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In any case in which at least 90% of the outstanding shares of each class of the stock of a corporation or corporations (other than a corporation which has in its certificate of incorporation the provision required by § 251(g)(7)(i) of this title), of which class there are outstanding shares that, absent this subsection, would be entitled to vote on such merger, is owned by another corporation and 1 of the corporations is a corporation of this State and the other or others are corporations of this State, or any other state or states, or the District of Columbia and the laws of the other state or states, or the District permit a corporation of such jurisdiction to merge with a corporation of another jurisdiction, the corporation having such stock ownership may either merge the other corporation or corporations into itself and assume all of its or their obligations, or merge itself, or itself and 1 or more of such other corporations, into 1 of the other corporations by executing, acknowledging and filing, in accordance with § 103 of this title, a certificate of such ownership and merger setting forth a copy of the resolution of its board of directors to so merge and the date of the adoption; provided, however, that in case the parent corporation shall not own all the outstanding stock of all the subsidiary corporations, parties to a merger as aforesaid, the resolution of the board of directors of the parent corporation shall state the terms and conditions of the merger, including the securities, cash, property, or rights to be issued, paid, delivered or granted by the surviving corporation upon surrender of each share of the subsidiary corporation or corporations not owned by the parent corporation, or the cancellation of some or all of such shares. Any of the terms of the resolution of the board of directors to so merge may be made dependent upon facts ascertainable outside of such resolution, provided that the manner in which such facts shall operate upon the terms of the resolution is clearly and expressly set forth in the resolution. The term \"facts,\" as used in the preceding sentence, includes, but is not limited to, the occurrence of any event, including a determination or action by any person or body, including the corporation. If the parent corporation be not the surviving corporation, the resolution shall include provision for the pro rata issuance of stock of the surviving corporation to the holders of the stock of the parent corporation on surrender of any certificates therefor, and the certificate of ownership and merger shall state that the proposed merger has been approved by a majority of the outstanding stock of the parent corporation entitled to vote thereon at a meeting duly called and held after 20 days' notice of the purpose of the meeting mailed to each such stockholder at the stockholder's address as it appears on the records of the corporation if the parent corporation is a corporation of this State or state that the proposed merger has been adopted, approved, certified, executed and acknowledged by the parent corporation in accordance with the laws under which it is organized if the parent corporation is not a corporation of this State. If the surviving corporation exists under the laws of the District of Columbia or any state or jurisdiction other than this State:"
+        },
+        {
+          "number": "(1)",
+          "content": "Section 252(d) of this title or § 258(c) of this title, as applicable, shall also apply to a merger under this section; and"
+        },
+        {
+          "number": "(2)",
+          "content": "The terms and conditions of the merger shall obligate the surviving corporation to provide the agreement, and take the actions, required by § 252(d) of this title or § 258(c) of this title, as applicable."
+        }
+      ]
+    },
+    {
+      "number": "(b)",
+      "content": "If the surviving corporation is a Delaware corporation, it may change its corporate name by the inclusion of a provision to that effect in the resolution of merger adopted by the directors of the parent corporation and set forth in the certificate of ownership and merger, and upon the effective date of the merger, the name of the corporation shall be so changed."
+    },
+    {
+      "number": "(c)",
+      "content": "Section § 251(d) of this title shall apply to a merger under this section, and § 251(e) of this title shall apply to a merger under this section in which the surviving corporation is the subsidiary corporation and is a corporation of this State. References to \"agreement of merger\" in § 251(d) and (e) of this title shall mean for purposes of this subsection the resolution of merger adopted by the board of directors of the parent corporation. Any merger which effects any changes other than those authorized by this section or made applicable by this subsection shall be accomplished under § 251, § 252, § 257, or § 258 of this title. Section 262 of this title shall not apply to any merger effected under this section, except as provided in subsection (d) of this section."
+    },
+    {
+      "number": "(d)",
+      "content": "In the event all of the stock of a subsidiary Delaware corporation party to a merger effected under this section is not owned by the parent corporation immediately prior to the merger, the stockholders of the subsidiary Delaware corporation party to the merger shall have appraisal rights as set forth in § 262 of this title."
+    },
+    {
+      "number": "(e)",
+      "content": "A merger may be effected under this section although 1 or more of the corporations parties to the merger is a corporation organized under the laws of a jurisdiction other than 1 of the United States; provided that the laws of such jurisdiction permit a corporation of such jurisdiction to merge with a corporation of another jurisdiction."
+    },
+    {
+      "number": "(f)",
+      "content": "This section shall apply to nonstock corporations if the parent corporation is such a corporation and is the surviving corporation of the merger; provided, however, that references to the directors of the parent corporation shall be deemed to be references to members of the governing body of the parent corporation, and references to the board of directors of the parent corporation shall be deemed to be references to the governing body of the parent corporation."
+    },
+    {
+      "number": "(g)",
+      "content": "Nothing in this section shall be deemed to authorize the merger of a corporation with a charitable nonstock corporation, if the charitable status of such charitable nonstock corporation would thereby be lost or impaired."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 253",
+    "56 Del. Laws, c. 50",
+    "56 Del. Laws, c. 186, § 18",
+    "57 Del. Laws, c. 148, § 24",
+    "59 Del. Laws, c. 106, §§ 10, 11",
+    "60 Del. Laws, c. 371, § 2",
+    "63 Del. Laws, c. 25, § 13",
+    "64 Del. Laws, c. 112, §§ 36, 37",
+    "66 Del. Laws, c. 136, § 26",
+    "69 Del. Laws, c. 61, §§ 7, 8",
+    "70 Del. Laws, c. 186, § 1",
+    "70 Del. Laws, c. 299, § 1",
+    "70 Del. Laws, c. 349, § 10",
+    "70 Del. Laws, c. 587, § 20",
+    "72 Del. Laws, c. 123, § 8",
+    "74 Del. Laws, c. 84, § 13",
+    "77 Del. Laws, c. 253, §§ 38-40",
+    "77 Del. Laws, c. 290, § 13.;"
+  ]
+}
