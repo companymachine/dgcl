@@ -1,0 +1,37 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "X"
+    },
+    {
+      "subdivision": "section",
+      "number": "278"
+    }
+  ],
+  "heading": "Continuation of corporation after dissolution for purposes of suit and winding up affairs.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "All corporations, whether they expire by their own limitation or are otherwise dissolved, shall nevertheless be continued, for the term of 3 years from such expiration or dissolution or for such longer period as the Court of Chancery shall in its discretion direct, bodies corporate for the purpose of prosecuting and defending suits, whether civil, criminal or administrative, by or against them, and of enabling them gradually to settle and close their business, to dispose of and convey their property, to discharge their liabilities and to distribute to their stockholders any remaining assets, but not for the purpose of continuing the business for which the corporation was organized. With respect to any action, suit or proceeding begun by or against the corporation either prior to or within 3 years after the date of its expiration or dissolution, the action shall not abate by reason of the dissolution of the corporation; the corporation shall, solely for the purpose of such action, suit or proceeding, be continued as a body corporate beyond the 3-year period and until any judgments, orders or decrees therein shall be fully executed, without the necessity for any special direction to that effect by the Court of Chancery."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sections 279 through 282 of this title shall apply to any corporation that has expired by its own limitation, and when so applied, all references in those sections to a dissolved corporation or dissolution shall include a corporation that has expired by its own limitation and to such expiration, respectively."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 278",
+    "56 Del. Laws, c. 50",
+    "66 Del. Laws, c. 136, § 36",
+    "77 Del. Laws, c. 290, § 26"
+  ]
+}

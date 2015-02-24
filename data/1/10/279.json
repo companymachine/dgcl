@@ -1,0 +1,32 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "X"
+    },
+    {
+      "subdivision": "section",
+      "number": "279"
+    }
+  ],
+  "heading": "Trustees or receivers for dissolved corporations; appointment; powers; duties.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "When any corporation organized under this chapter shall be dissolved in any manner whatever, the Court of Chancery, on application of any creditor, stockholder or director of the corporation, or any other person who shows good cause therefor, at any time, may either appoint 1 or more of the directors of the corporation to be trustees, or appoint 1 or more persons to be receivers, of and for the corporation, to take charge of the corporation's property, and to collect the debts and property due and belonging to the corporation, with power to prosecute and defend, in the name of the corporation, or otherwise, all such suits as may be necessary or proper for the purposes aforesaid, and to appoint an agent or agents under them, and to do all other acts which might be done by the corporation, if in being, that may be necessary for the final settlement of the unfinished business of the corporation. The powers of the trustees or receivers may be continued as long as the Court of Chancery shall think necessary for the purposes aforesaid."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 279",
+    "56 Del. Laws, c. 50",
+    "66 Del. Laws, c. 136, § 37"
+  ]
+}

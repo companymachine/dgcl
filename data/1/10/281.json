@@ -1,0 +1,83 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "X"
+    },
+    {
+      "subdivision": "section",
+      "number": "281"
+    }
+  ],
+  "heading": "Payment and distribution to claimants and stockholders.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A dissolved corporation or successor entity which has followed the procedures described in § 280 of this title:"
+        },
+        {
+          "number": "(1)",
+          "content": "Shall pay the claims made and not rejected in accordance with § 280(a) of this title,"
+        },
+        {
+          "number": "(2)",
+          "content": "Shall post the security offered and not rejected pursuant to § 280(b)(2) of this title,"
+        },
+        {
+          "number": "(3)",
+          "content": "Shall post any security ordered by the Court of Chancery in any proceeding under § 280(c) of this title, and"
+        },
+        {
+          "number": "(4)",
+          "content": "Shall pay or make provision for all other claims that are mature, known and uncontested or that have been finally determined to be owing by the corporation or such successor entity."
+        },
+        {
+          "type": "paragraph",
+          "text": "Such claims or obligations shall be paid in full and any such provision for payment shall be made in full if there are sufficient assets. If there are insufficient assets, such claims and obligations shall be paid or provided for according to their priority, and, among claims of equal priority, ratably to the extent of assets legally available therefor. Any remaining assets shall be distributed to the stockholders of the dissolved corporation; provided, however, that such distribution shall not be made before the expiration of 150 days from the date of the last notice of rejections given pursuant to § 280(a)(3) of this title. In the absence of actual fraud, the judgment of the directors of the dissolved corporation or the governing persons of such successor entity as to the provision made for the payment of all obligations under paragraph (a)(4) of this section shall be conclusive."
+        }
+      ]
+    },
+    {
+      "number": "(b)",
+      "content": "A dissolved corporation or successor entity which has not followed the procedures described in § 280 of this title shall, prior to the expiration of the period described in § 278 of this title, adopt a plan of distribution pursuant to which the dissolved corporation or successor entity (i) shall pay or make reasonable provision to pay all claims and obligations, including all contingent, conditional or unmatured contractual claims known to the corporation or such successor entity, (ii) shall make such provision as will be reasonably likely to be sufficient to provide compensation for any claim against the corporation which is the subject of a pending action, suit or proceeding to which the corporation is a party and (iii) shall make such provision as will be reasonably likely to be sufficient to provide compensation for claims that have not been made known to the corporation or that have not arisen but that, based on facts known to the corporation or successor entity, are likely to arise or to become known to the corporation or successor entity within 10 years after the date of dissolution. The plan of distribution shall provide that such claims shall be paid in full and any such provision for payment made shall be made in full if there are sufficient assets. If there are insufficient assets, such plan shall provide that such claims and obligations shall be paid or provided for according to their priority and, among claims of equal priority, ratably to the extent of assets legally available therefor. Any remaining assets shall be distributed to the stockholders of the dissolved corporation."
+    },
+    {
+      "number": "(c)",
+      "content": "Directors of a dissolved corporation or governing persons of a successor entity which has complied with subsection (a) or (b) of this section shall not be personally liable to the claimants of the dissolved corporation."
+    },
+    {
+      "number": "(d)",
+      "content": "As used in this section, the term \"successor entity\" has the meaning set forth in § 280(e) of this title."
+    },
+    {
+      "number": "(e)",
+      "content": "The term \"priority,\" as used in this section, does not refer either to the order of payments set forth in paragraph (a)(1)-(4) of this section or to the relative times at which any claims mature or are reduced to judgment."
+    },
+    {
+      "number": "(f)",
+      "content": "In the case of a nonprofit nonstock corporation, provisions of this section regarding distributions to members shall not apply to the extent that those provisions conflict with any other applicable law or with that corporation's certificate of incorporation or bylaws."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 281",
+    "56 Del. Laws, c. 50",
+    "66 Del. Laws, c. 136, § 39",
+    "67 Del. Laws, c. 376, §§ 26-28",
+    "68 Del. Laws, c. 163, § 1",
+    "69 Del. Laws, c. 266, §§ 18-21",
+    "70 Del. Laws, c. 299, § 4",
+    "71 Del. Laws, c. 120, §§ 17, 18",
+    "77 Del. Laws, c. 253, § 62"
+  ]
+}

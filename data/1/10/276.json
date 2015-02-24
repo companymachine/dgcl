@@ -1,0 +1,37 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "X"
+    },
+    {
+      "subdivision": "section",
+      "number": "276"
+    }
+  ],
+  "heading": "Dissolution of nonstock corporation; procedure.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": "Whenever it shall be desired to dissolve any nonstock corporation, the governing body shall perform all the acts necessary for dissolution which are required by § 275 of this title to be performed by the board of directors of a corporation having capital stock. If any members of a nonstock corporation are entitled to vote for the election of members of its governing body or are entitled to vote for dissolution under the certificate of incorporation or the bylaws of such corporation, such members shall perform all the acts necessary for dissolution which are contemplated by § 275 of this title to be performed by the stockholders of a corporation having capital stock, including dissolution without action of the members of the governing body if all the members of the corporation entitled to vote thereon shall consent in writing and a certificate of dissolution shall be filed with the Secretary of State pursuant to § 275(d) of this title. If there is no member entitled to vote thereon, the dissolution of the corporation shall be authorized at a meeting of the governing body, upon the adoption of a resolution to dissolve by the vote of a majority of members of its governing body then in office. In all other respects, the method and proceedings for the dissolution of a nonstock corporation shall conform as nearly as may be to the proceedings prescribed by § 275 of this title for the dissolution of corporations having capital stock."
+    },
+    {
+      "number": "(b)",
+      "content": "If a nonstock corporation has not commenced the business for which the corporation was organized, a majority of the governing body or, if none, a majority of the incorporators may surrender all of the corporation rights and franchises by filing in the office of the Secretary of State a certificate, executed and acknowledged by a majority of the incorporators or governing body, conforming as nearly as may be to the certificate prescribed by § 274 of this title."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 276",
+    "56 Del. Laws, c. 50",
+    "66 Del. Laws, c. 136, § 35",
+    "77 Del. Laws, c. 253, § 60"
+  ]
+}

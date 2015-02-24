@@ -1,0 +1,41 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "X"
+    },
+    {
+      "subdivision": "section",
+      "number": "282"
+    }
+  ],
+  "heading": "Liability of stockholders of dissolved corporations.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": "A stockholder of a dissolved corporation the assets of which were distributed pursuant to § 281(a) or (b) of this title shall not be liable for any claim against the corporation in an amount in excess of such stockholder's pro rata share of the claim or the amount so distributed to such stockholder, whichever is less."
+    },
+    {
+      "number": "(b)",
+      "content": "A stockholder of a dissolved corporation the assets of which were distributed pursuant to § 281(a) of this title shall not be liable for any claim against the corporation on which an action, suit or proceeding is not begun prior to the expiration of the period described in § 278 of this title."
+    },
+    {
+      "number": "(c)",
+      "content": "The aggregate liability of any stockholder of a dissolved corporation for claims against the dissolved corporation shall not exceed the amount distributed to such stockholder in dissolution."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 282",
+    "56 Del. Laws, c. 50",
+    "66 Del. Laws, c. 136, § 40",
+    "71 Del. Laws, c. 339, §§ 57, 58"
+  ]
+}
