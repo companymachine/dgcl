@@ -1,0 +1,51 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "XV"
+    },
+    {
+      "subdivision": "section",
+      "number": "362"
+    }
+  ],
+  "heading": "Public benefit corporation defined; contents of certificate of incorporation.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A \"public benefit corporation\" is a for-profit corporation organized under and subject to the requirements of this chapter that is intended to produce a public benefit or public benefits and to operate in a responsible and sustainable manner. To that end, a public benefit corporation shall be managed in a manner that balances the stockholders' pecuniary interests, the best interests of those materially affected by the corporation's conduct, and the public benefit or public benefits identified in its certificate of incorporation. In the certificate of incorporation, a public benefit corporation shall:"
+        },
+        {
+          "number": "(1)",
+          "content": "Identify within its statement of business or purpose pursuant to § 102(a)(3) of this title 1 or more specific public benefits to be promoted by the corporation; and"
+        },
+        {
+          "number": "(2)",
+          "content": "State within its heading that it is a public benefit corporation."
+        }
+      ]
+    },
+    {
+      "number": "(b)",
+      "content": "\"Public benefit\" means a positive effect (or reduction of negative effects) on 1 or more categories of persons, entities, communities or interests (other than stockholders in their capacities as stockholders) including, but not limited to, effects of an artistic, charitable, cultural, economic, educational, environmental, literary, medical, religious, scientific or technological nature. \"Public benefit provisions\" means the provisions of a certificate of incorporation contemplated by this subchapter."
+    },
+    {
+      "number": "(c)",
+      "content": "The name of the public benefit corporation shall, without exception, contain the words \"public benefit corporation,\" or the abbreviation \"P.B.C.,\" or the designation \"PBC,\" which shall be deemed to satisfy the requirements of § 102(a)(l)(i) of this title."
+    }
+  ],
+  "history": [
+    "79 Del. Laws, c. 122, § 8"
+  ]
+}

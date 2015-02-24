@@ -1,0 +1,76 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "XV"
+    },
+    {
+      "subdivision": "section",
+      "number": "366"
+    }
+  ],
+  "heading": "Periodic statements and third-party certification.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": "A public benefit corporation shall include in every notice of a meeting of stockholders a statement to the effect that it is a public benefit corporation formed pursuant to this subchapter."
+    },
+    {
+      "number": "(b)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A public benefit corporation shall no less than biennially provide its stockholders with a statement as to the corporation's promotion of the public benefit or public benefits identified in the certificate of incorporation and of the best interests of those materially affected by the corporation's conduct. The statement shall include:"
+        },
+        {
+          "number": "(1)",
+          "content": "The objectives the board of directors has established to promote such public benefit or public benefits and interests;"
+        },
+        {
+          "number": "(2)",
+          "content": "The standards the board of directors has adopted to measure the corporation's progress in promoting such public benefit or public benefits and interests;"
+        },
+        {
+          "number": "(3)",
+          "content": "Objective factual information based on those standards regarding the corporation's success in meeting the objectives for promoting such public benefit or public benefits and interests; and"
+        },
+        {
+          "number": "(4)",
+          "content": "An assessment of the corporation's success in meeting the objectives and promoting such public benefit or public benefits and interests."
+        }
+      ]
+    },
+    {
+      "number": "(c)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The certificate of incorporation or bylaws of a public benefit corporation may require that the corporation:"
+        },
+        {
+          "number": "(1)",
+          "content": "Provide the statement described in subsection (b) of this section more frequently than biennially;"
+        },
+        {
+          "number": "(2)",
+          "content": "Make the statement described in subsection (b) of this section available to the public; and/or"
+        },
+        {
+          "number": "(3)",
+          "content": "Use a third-party standard in connection with and/or attain a periodic third-party certification addressing the corporation's promotion of the public benefit or public benefits identified in the certificate of incorporation and/or the best interests of those materially affected by the corporation's conduct."
+        }
+      ]
+    }
+  ],
+  "history": [
+    "79 Del. Laws, c. 122, § 8"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "XV"
+    },
+    {
+      "subdivision": "section",
+      "number": "367"
+    }
+  ],
+  "heading": "Derivative suits.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Stockholders of a public benefit corporation owning individually or collectively, as of the date of instituting such derivative suit, at least 2% of the corporation's outstanding shares or, in the case of a corporation with shares listed on a national securities exchange, the lesser of such percentage or shares of at least $2,000,000 in market value, may maintain a derivative lawsuit to enforce the requirements set forth in § 365(a) of this title."
+    }
+  ],
+  "history": [
+    "79 Del. Laws, c. 122, § 8"
+  ]
+}

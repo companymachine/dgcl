@@ -1,0 +1,30 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "XV"
+    },
+    {
+      "subdivision": "section",
+      "number": "368"
+    }
+  ],
+  "heading": "No effect on other corporations.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "This subchapter shall not affect a statute or rule of law that is applicable to a corporation that is not a public benefit corporation, except as provided in § 363 of this title."
+    }
+  ],
+  "history": [
+    "79 Del. Laws, c. 122, § 8"
+  ]
+}
