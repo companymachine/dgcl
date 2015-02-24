@@ -1,0 +1,33 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "XIV"
+    },
+    {
+      "subdivision": "section",
+      "number": "349"
+    }
+  ],
+  "heading": "Corporate option where a restriction on transfer of a security is held invalid.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "If a restriction on transfer of a security of a close corporation is held not to be authorized by § 202 of this title, the corporation shall nevertheless have an option, for a period of 30 days after the judgment setting aside the restriction becomes final, to acquire the restricted security at a price which is agreed upon by the parties, or if no agreement is reached as to price, then at the fair value as determined by the Court of Chancery. In order to determine fair value, the Court may appoint an appraiser to receive evidence and report to the Court such appraiser's findings and recommendation as to fair value."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 349",
+    "56 Del. Laws, c. 50",
+    "65 Del. Laws, c. 127, § 10",
+    "71 Del. Laws, c. 339, § 77"
+  ]
+}

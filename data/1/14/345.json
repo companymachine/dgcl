@@ -1,0 +1,39 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "XIV"
+    },
+    {
+      "subdivision": "section",
+      "number": "345"
+    }
+  ],
+  "heading": "Limitations on continuation of close corporation status.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "A close corporation continues to be such and to be subject to this subchapter until:"
+    },
+    {
+      "number": "(1)",
+      "content": "It files with the Secretary of State a certificate of amendment deleting from its certificate of incorporation the provisions required or permitted by § 342 of this title to be stated in the certificate of incorporation to qualify it as a close corporation; or"
+    },
+    {
+      "number": "(2)",
+      "content": "Any 1 of the provisions or conditions required or permitted by § 342 of this title to be stated in a certificate of incorporation to qualify a corporation as a close corporation has in fact been breached and neither the corporation nor any of its stockholders takes the steps required by § 348 of this title to prevent such loss of status or to remedy such breach."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 345",
+    "56 Del. Laws, c. 50"
+  ]
+}

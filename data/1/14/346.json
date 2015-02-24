@@ -1,0 +1,35 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "XIV"
+    },
+    {
+      "subdivision": "section",
+      "number": "346"
+    }
+  ],
+  "heading": "Voluntary termination of close corporation status by amendment of certificate of incorporation; vote required.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": "A corporation may voluntarily terminate its status as a close corporation and cease to be subject to this subchapter by amending its certificate of incorporation to delete therefrom the additional provisions required or permitted by § 342 of this title to be stated in the certificate of incorporation of a close corporation. Any such amendment shall be adopted and shall become effective in accordance with § 242 of this title, except that it must be approved by a vote of the holders of record of at least 2/3 of the shares of each class of stock of the corporation which are outstanding."
+    },
+    {
+      "number": "(b)",
+      "content": "The certificate of incorporation of a close corporation may provide that on any amendment to terminate its status as a close corporation, a vote greater than 2/3 or a vote of all shares of any class shall be required; and if the certificate of incorporation contains such a provision, that provision shall not be amended, repealed or modified by any vote less than that required to terminate the corporation's status as a close corporation."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 346",
+    "56 Del. Laws, c. 50"
+  ]
+}

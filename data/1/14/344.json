@@ -1,0 +1,33 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "XIV"
+    },
+    {
+      "subdivision": "section",
+      "number": "344"
+    }
+  ],
+  "heading": "Election of existing corporation to become a close corporation.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Any corporation organized under this chapter may become a close corporation under this subchapter by executing, acknowledging and filing, in accordance with § 103 of this title, a certificate of amendment of its certificate of incorporation which shall contain a statement that it elects to become a close corporation, the provisions required by § 342 of this title to appear in the certificate of incorporation of a close corporation, and a heading stating the name of the corporation and that it is a close corporation. Such amendment shall be adopted in accordance with the requirements of § 241 or 242 of this title, except that it must be approved by a vote of the holders of record of at least 2/3 of the shares of each class of stock of the corporation which are outstanding."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 344",
+    "56 Del. Laws, c. 50",
+    "57 Del. Laws, c. 148, § 34",
+    "70 Del. Laws, c. 587, § 32"
+  ]
+}

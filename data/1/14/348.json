@@ -1,0 +1,48 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "XIV"
+    },
+    {
+      "subdivision": "section",
+      "number": "348"
+    }
+  ],
+  "heading": "Involuntary termination of close corporation status; proceeding to prevent loss of status.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "If any event occurs as a result of which 1 or more of the provisions or conditions included in a close corporation's certificate of incorporation pursuant to § 342 of this title to qualify it as a close corporation has been breached, the corporation's status as a close corporation under this subchapter shall terminate unless:"
+        },
+        {
+          "number": "(1)",
+          "content": "Within 30 days after the occurrence of the event, or within 30 days after the event has been discovered, whichever is later, the corporation files with the Secretary of State a certificate, executed and acknowledged in accordance with § 103 of this title, stating that a specified provision or condition included in its certificate of incorporation pursuant to § 342 of this title to qualify it as a close corporation has ceased to be applicable, and furnishes a copy of such certificate to each stockholder; and"
+        },
+        {
+          "number": "(2)",
+          "content": "The corporation concurrently with the filing of such certificate takes such steps as are necessary to correct the situation which threatens its status as a close corporation, including, without limitation, the refusal to register the transfer of stock which has been wrongfully transferred as provided by § 347 of this title, or a proceeding under subsection (b) of this section."
+        }
+      ]
+    },
+    {
+      "number": "(b)",
+      "content": "The Court of Chancery, upon the suit of the corporation or any stockholder, shall have jurisdiction to issue all orders necessary to prevent the corporation from losing its status as a close corporation, or to restore its status as a close corporation by enjoining or setting aside any act or threatened act on the part of the corporation or a stockholder which would be inconsistent with any of the provisions or conditions required or permitted by § 342 of this title to be stated in the certificate of incorporation of a close corporation, unless it is an act approved in accordance with § 346 of this title. The Court of Chancery may enjoin or set aside any transfer or threatened transfer of stock of a close corporation which is contrary to the terms of its certificate of incorporation or of any transfer restriction permitted by § 202 of this title, and may enjoin any public offering, as defined in § 342 of this title, or threatened public offering of stock of the close corporation."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 348",
+    "56 Del. Laws, c. 50"
+  ]
+}

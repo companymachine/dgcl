@@ -1,0 +1,31 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "XIV"
+    },
+    {
+      "subdivision": "section",
+      "number": "354"
+    }
+  ],
+  "heading": "Operating corporation as partnership.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "No written agreement among stockholders of a close corporation, nor any provision of the certificate of incorporation or of the bylaws of the corporation, which agreement or provision relates to any phase of the affairs of such corporation, including but not limited to the management of its business or declaration and payment of dividends or other division of profits or the election of directors or officers or the employment of stockholders by the corporation or the arbitration of disputes, shall be invalid on the ground that it is an attempt by the parties to the agreement or by the stockholders of the corporation to treat the corporation as if it were a partnership or to arrange relations among the stockholders or between the stockholders and the corporation in a manner that would be appropriate only among partners."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 354",
+    "56 Del. Laws, c. 50"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "XIV"
+    },
+    {
+      "subdivision": "section",
+      "number": "342"
+    }
+  ],
+  "heading": "Close corporation defined; contents of certificate of incorporation.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A close corporation is a corporation organized under this chapter whose certificate of incorporation contains the provisions required by § 102 of this title and, in addition, provides that:"
+        },
+        {
+          "number": "(1)",
+          "content": "All of the corporation's issued stock of all classes, exclusive of treasury shares, shall be represented by certificates and shall be held of record by not more than a specified number of persons, not exceeding 30; and"
+        },
+        {
+          "number": "(2)",
+          "content": "All of the issued stock of all classes shall be subject to 1 or more of the restrictions on transfer permitted by § 202 of this title; and"
+        },
+        {
+          "number": "(3)",
+          "content": "The corporation shall make no offering of any of its stock of any class which would constitute a \"public offering\" within the meaning of the United States Securities Act of 1933 [15 U.S.C. § 77a et seq.] as it may be amended from time to time."
+        }
+      ]
+    },
+    {
+      "number": "(b)",
+      "content": "The certificate of incorporation of a close corporation may set forth the qualifications of stockholders, either by specifying classes of persons who shall be entitled to be holders of record of stock of any class, or by specifying classes of persons who shall not be entitled to be holders of stock of any class or both."
+    },
+    {
+      "number": "(c)",
+      "content": "For purposes of determining the number of holders of record of the stock of a close corporation, stock which is held in joint or common tenancy or by the entireties shall be treated as held by 1 stockholder."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 342",
+    "56 Del. Laws, c. 50",
+    "64 Del. Laws, c. 112, § 59"
+  ]
+}

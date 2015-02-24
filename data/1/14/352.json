@@ -1,0 +1,48 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "XIV"
+    },
+    {
+      "subdivision": "section",
+      "number": "352"
+    }
+  ],
+  "heading": "Appointment of custodian for close corporation.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In addition to § 226 of this title respecting the appointment of a custodian for any corporation, the Court of Chancery, upon application of any stockholder, may appoint 1 or more persons to be custodians, and, if the corporation is insolvent, to be receivers, of any close corporation when:"
+        },
+        {
+          "number": "(1)",
+          "content": "Pursuant to § 351 of this title the business and affairs of the corporation are managed by the stockholders and they are so divided that the business of the corporation is suffering or is threatened with irreparable injury and any remedy with respect to such deadlock provided in the certificate of incorporation or bylaws or in any written agreement of the stockholders has failed; or"
+        },
+        {
+          "number": "(2)",
+          "content": "The petitioning stockholder has the right to the dissolution of the corporation under a provision of the certificate of incorporation permitted by § 355 of this title."
+        }
+      ]
+    },
+    {
+      "number": "(b)",
+      "content": "In lieu of appointing a custodian for a close corporation under this section or § 226 of this title the Court of Chancery may appoint a provisional director, whose powers and status shall be as provided in § 353 of this title if the Court determines that it would be in the best interest of the corporation. Such appointment shall not preclude any subsequent order of the Court appointing a custodian for such corporation."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 352",
+    "56 Del. Laws, c. 50"
+  ]
+}

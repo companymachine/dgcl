@@ -1,0 +1,77 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "XIV"
+    },
+    {
+      "subdivision": "section",
+      "number": "347"
+    }
+  ],
+  "heading": "Issuance or transfer of stock of a close corporation in breach of qualifying conditions.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": "If stock of a close corporation is issued or transferred to any person who is not entitled under any provision of the certificate of incorporation permitted by § 342(b) of this title to be a holder of record of stock of such corporation, and if the certificate for such stock conspicuously notes the qualifications of the persons entitled to be holders of record thereof, such person is conclusively presumed to have notice of the fact of such person's ineligibility to be a stockholder."
+    },
+    {
+      "number": "(b)",
+      "content": "If the certificate of incorporation of a close corporation states the number of persons, not in excess of 30, who are entitled to be holders of record of its stock, and if the certificate for such stock conspicuously states such number, and if the issuance or transfer of stock to any person would cause the stock to be held by more than such number of persons, the person to whom such stock is issued or transferred is conclusively presumed to have notice of this fact."
+    },
+    {
+      "number": "(c)",
+      "content": "If a stock certificate of any close corporation conspicuously notes the fact of a restriction on transfer of stock of the corporation, and the restriction is one which is permitted by § 202 of this title, the transferee of the stock is conclusively presumed to have notice of the fact that such person has acquired stock in violation of the restriction, if such acquisition violates the restriction."
+    },
+    {
+      "number": "(d)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Whenever any person to whom stock of a close corporation has been issued or transferred has, or is conclusively presumed under this section to have, notice either:"
+        },
+        {
+          "number": "(1)",
+          "content": "That such person is a person not eligible to be a holder of stock of the corporation, or"
+        },
+        {
+          "number": "(2)",
+          "content": "That transfer of stock to such person would cause the stock of the corporation to be held by more than the number of persons permitted by its certificate of incorporation to hold stock of the corporation, or"
+        },
+        {
+          "number": "(3)",
+          "content": "That the transfer of stock is in violation of a restriction on transfer of stock,"
+        },
+        {
+          "type": "paragraph",
+          "text": "the corporation may, at its option, refuse to register transfer of the stock into the name of the transferee."
+        }
+      ]
+    },
+    {
+      "number": "(e)",
+      "content": "Subsection (d) of this section shall not be applicable if the transfer of stock, even though otherwise contrary to subsection (a), (b) or (c) of this section has been consented to by all the stockholders of the close corporation, or if the close corporation has amended its certificate of incorporation in accordance with § 346 of this title."
+    },
+    {
+      "number": "(f)",
+      "content": "The term \"transfer,\" as used in this section, is not limited to a transfer for value."
+    },
+    {
+      "number": "(g)",
+      "content": "The provisions of this section do not in any way impair any rights of a transferee regarding any right to rescind the transaction or to recover under any applicable warranty express or implied."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 347",
+    "56 Del. Laws, c. 50",
+    "71 Del. Laws, c. 339, §§ 74-76"
+  ]
+}
