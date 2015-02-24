@@ -1,0 +1,73 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "VII"
+    },
+    {
+      "subdivision": "section",
+      "number": "232"
+    }
+  ],
+  "heading": "Notice by electronic transmission.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": "Without limiting the manner by which notice otherwise may be given effectively to stockholders, any notice to stockholders given by the corporation under any provision of this chapter, the certificate of incorporation, or the bylaws shall be effective if given by a form of electronic transmission consented to by the stockholder to whom the notice is given. Any such consent shall be revocable by the stockholder by written notice to the corporation. Any such consent shall be deemed revoked if (1) the corporation is unable to deliver by electronic transmission 2 consecutive notices given by the corporation in accordance with such consent and (2) such inability becomes known to the secretary or an assistant secretary of the corporation or to the transfer agent, or other person responsible for the giving of notice; provided, however, the inadvertent failure to treat such inability as a revocation shall not invalidate any meeting or other action."
+    },
+    {
+      "number": "(b)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Notice given pursuant to subsection (a) of this section shall be deemed given:"
+        },
+        {
+          "number": "(1)",
+          "content": "If by facsimile telecommunication, when directed to a number at which the stockholder has consented to receive notice;"
+        },
+        {
+          "number": "(2)",
+          "content": "If by electronic mail, when directed to an electronic mail address at which the stockholder has consented to receive notice;"
+        },
+        {
+          "number": "(3)",
+          "content": "If by a posting on an electronic network together with separate notice to the stockholder of such specific posting, upon the later of (A) such posting and (B) the giving of such separate notice; and"
+        },
+        {
+          "number": "(4)",
+          "content": "If by any other form of electronic transmission, when directed to the stockholder."
+        },
+        {
+          "type": "paragraph",
+          "text": "An affidavit of the secretary or an assistant secretary or of the transfer agent or other agent of the corporation that the notice has been given by a form of electronic transmission shall, in the absence of fraud, be prima facie evidence of the facts stated therein."
+        }
+      ]
+    },
+    {
+      "number": "(c)",
+      "content": "For purposes of this chapter, \"electronic transmission\" means any form of communication, not directly involving the physical transmission of paper, that creates a record that may be retained, retrieved and reviewed by a recipient thereof, and that may be directly reproduced in paper form by such a recipient through an automated process."
+    },
+    {
+      "number": "(d)",
+      "content": "[Repealed.]"
+    },
+    {
+      "number": "(e)",
+      "content": "This section shall not apply to § 164, § 296, § 311, § 312, or § 324 of this title."
+    }
+  ],
+  "history": [
+    "72 Del. Laws, c. 343, § 19",
+    "73 Del. Laws, c. 82, § 12",
+    "77 Del. Laws, c. 253, § 29.;"
+  ]
+}

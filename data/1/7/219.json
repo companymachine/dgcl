@@ -1,0 +1,43 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "VII"
+    },
+    {
+      "subdivision": "section",
+      "number": "219"
+    }
+  ],
+  "heading": "List of stockholders entitled to vote; penalty for refusal to produce; stock ledger.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": "The officer who has charge of the stock ledger of a corporation shall prepare and make, at least 10 days before every meeting of stockholders, a complete list of the stockholders entitled to vote at the meeting; provided, however, if the record date for determining the stockholders entitled to vote is less than 10 days before the meeting date, the list shall reflect the stockholders entitled to vote as of the tenth day before the meeting date, arranged in alphabetical order, and showing the address of each stockholder and the number of shares registered in the name of each stockholder. Nothing contained in this section shall require the corporation to include electronic mail addresses or other electronic contact information on such list. Such list shall be open to the examination of any stockholder for any purpose germane to the meeting for a period of at least 10 days prior to the meeting: (i) on a reasonably accessible electronic network, provided that the information required to gain access to such list is provided with the notice of the meeting, or (ii) during ordinary business hours, at the principal place of business of the corporation. In the event that the corporation determines to make the list available on an electronic network, the corporation may take reasonable steps to ensure that such information is available only to stockholders of the corporation. If the meeting is to be held at a place, then a list of stockholders entitled to vote at the meeting shall be produced and kept at the time and place of the meeting during the whole time thereof and may be examined by any stockholder who is present. If the meeting is to be held solely by means of remote communication, then such list shall also be open to the examination of any stockholder during the whole time of the meeting on a reasonably accessible electronic network, and the information required to access such list shall be provided with the notice of the meeting."
+    },
+    {
+      "number": "(b)",
+      "content": "If the corporation, or an officer or agent thereof, refuses to permit examination of the list by a stockholder, such stockholder may apply to the Court of Chancery for an order to compel the corporation to permit such examination. The burden of proof shall be on the corporation to establish that the examination such stockholder seeks is for a purpose not germane to the meeting. The Court may summarily order the corporation to permit examination of the list upon such conditions as the Court may deem appropriate, and may make such additional orders as may be appropriate, including, without limitation, postponing the meeting or voiding the results of the meeting."
+    },
+    {
+      "number": "(c)",
+      "content": "The stock ledger shall be the only evidence as to who are the stockholders entitled by this section to examine the list required by this section or to vote in person or by proxy at any meeting of stockholders."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 219",
+    "56 Del. Laws, c. 50",
+    "72 Del. Laws, c. 343, §§ 9, 10",
+    "74 Del. Laws, c. 84, § 4",
+    "76 Del. Laws, c. 252, §§ 1, 2",
+    "77 Del. Laws, c. 14, § 6.;"
+  ]
+}

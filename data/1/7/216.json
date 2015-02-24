@@ -1,0 +1,57 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "VII"
+    },
+    {
+      "subdivision": "section",
+      "number": "216"
+    }
+  ],
+  "heading": "Quorum and required vote for stock corporations.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Subject to this chapter in respect of the vote that shall be required for a specified action, the certificate of incorporation or bylaws of any corporation authorized to issue stock may specify the number of shares and/or the amount of other securities having voting power the holders of which shall be present or represented by proxy at any meeting in order to constitute a quorum for, and the votes that shall be necessary for, the transaction of any business, but in no event shall a quorum consist of less than 1/3 of the shares entitled to vote at the meeting, except that, where a separate vote by a class or series or classes or series is required, a quorum shall consist of no less than 1/3 of the shares of such class or series or classes or series. In the absence of such specification in the certificate of incorporation or bylaws of the corporation:"
+    },
+    {
+      "number": "(1)",
+      "content": "A majority of the shares entitled to vote, present in person or represented by proxy, shall constitute a quorum at a meeting of stockholders;"
+    },
+    {
+      "number": "(2)",
+      "content": "In all matters other than the election of directors, the affirmative vote of the majority of shares present in person or represented by proxy at the meeting and entitled to vote on the subject matter shall be the act of the stockholders;"
+    },
+    {
+      "number": "(3)",
+      "content": "Directors shall be elected by a plurality of the votes of the shares present in person or represented by proxy at the meeting and entitled to vote on the election of directors; and"
+    },
+    {
+      "number": "(4)",
+      "content": "Where a separate vote by a class or series or classes or series is required, a majority of the outstanding shares of such class or series or classes or series, present in person or represented by proxy, shall constitute a quorum entitled to take action with respect to that vote on that matter and, in all matters other than the election of directors, the affirmative vote of the majority of shares of such class or series or classes or series present in person or represented by proxy at the meeting shall be the act of such class or series or classes or series."
+    },
+    {
+      "type": "paragraph",
+      "text": "A bylaw amendment adopted by stockholders which specifies the votes that shall be necessary for the election of directors shall not be further amended or repealed by the board of directors."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 216",
+    "56 Del. Laws, c. 50",
+    "63 Del. Laws, c. 25, § 7",
+    "64 Del. Laws, c. 112, § 21",
+    "66 Del. Laws, c. 136, §§ 10, 11",
+    "71 Del. Laws, c. 339, §§ 34, 35",
+    "75 Del. Laws, c. 306, § 5",
+    "76 Del. Laws, c. 145, § 3"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "VII"
+    },
+    {
+      "subdivision": "section",
+      "number": "224"
+    }
+  ],
+  "heading": "Form of records.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Any records maintained by a corporation in the regular course of its business, including its stock ledger, books of account, and minute books, may be kept on, or by means of, or be in the form of, any information storage device, or method provided that the records so kept can be converted into clearly legible paper form within a reasonable time. Any corporation shall so convert any records so kept upon the request of any person entitled to inspect such records pursuant to any provision of this chapter. When records are kept in such manner, a clearly legible paper form produced from or by means of the information storage device or method shall be admissible in evidence, and accepted for all other purposes, to the same extent as an original paper record of the same information would have been, provided the paper form accurately portrays the record."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 224",
+    "56 Del. Laws, c. 50",
+    "57 Del. Laws, c. 148, § 15",
+    "72 Del. Laws, c. 343, § 14.;"
+  ]
+}

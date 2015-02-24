@@ -1,0 +1,64 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "VII"
+    },
+    {
+      "subdivision": "section",
+      "number": "212"
+    }
+  ],
+  "heading": "Voting rights of stockholders; proxies; limitations.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": "Unless otherwise provided in the certificate of incorporation and subject to § 213 of this title, each stockholder shall be entitled to 1 vote for each share of capital stock held by such stockholder. If the certificate of incorporation provides for more or less than 1 vote for any share, on any matter, every reference in this chapter to a majority or other proportion of stock, voting stock or shares shall refer to such majority or other proportion of the votes of such stock, voting stock or shares."
+    },
+    {
+      "number": "(b)",
+      "content": "Each stockholder entitled to vote at a meeting of stockholders or to express consent or dissent to corporate action in writing without a meeting may authorize another person or persons to act for such stockholder by proxy, but no such proxy shall be voted or acted upon after 3 years from its date, unless the proxy provides for a longer period."
+    },
+    {
+      "number": "(c)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Without limiting the manner in which a stockholder may authorize another person or persons to act for such stockholder as proxy pursuant to subsection (b) of this section, the following shall constitute a valid means by which a stockholder may grant such authority:"
+        },
+        {
+          "number": "(1)",
+          "content": "A stockholder may execute a writing authorizing another person or persons to act for such stockholder as proxy. Execution may be accomplished by the stockholder or such stockholder's authorized officer, director, employee or agent signing such writing or causing such person's signature to be affixed to such writing by any reasonable means including, but not limited to, by facsimile signature."
+        },
+        {
+          "number": "(2)",
+          "content": "A stockholder may authorize another person or persons to act for such stockholder as proxy by transmitting or authorizing the transmission of a telegram, cablegram, or other means of electronic transmission to the person who will be the holder of the proxy or to a proxy solicitation firm, proxy support service organization or like agent duly authorized by the person who will be the holder of the proxy to receive such transmission, provided that any such telegram, cablegram or other means of electronic transmission must either set forth or be submitted with information from which it can be determined that the telegram, cablegram or other electronic transmission was authorized by the stockholder. If it is determined that such telegrams, cablegrams or other electronic transmissions are valid, the inspectors or, if there are no inspectors, such other persons making that determination shall specify the information upon which they relied."
+        }
+      ]
+    },
+    {
+      "number": "(d)",
+      "content": "Any copy, facsimile telecommunication or other reliable reproduction of the writing or transmission created pursuant to subsection (c) of this section may be substituted or used in lieu of the original writing or transmission for any and all purposes for which the original writing or transmission could be used, provided that such copy, facsimile telecommunication or other reproduction shall be a complete reproduction of the entire original writing or transmission."
+    },
+    {
+      "number": "(e)",
+      "content": "A duly executed proxy shall be irrevocable if it states that it is irrevocable and if, and only as long as, it is coupled with an interest sufficient in law to support an irrevocable power. A proxy may be made irrevocable regardless of whether the interest with which it is coupled is an interest in the stock itself or an interest in the corporation generally."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 212",
+    "56 Del. Laws, c. 50",
+    "57 Del. Laws, c. 148, § 12",
+    "67 Del. Laws, c. 376, § 6",
+    "71 Del. Laws, c. 339, §§ 28-31",
+    "73 Del. Laws, c. 298, § 7.;"
+  ]
+}

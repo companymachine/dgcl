@@ -1,0 +1,52 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "VII"
+    },
+    {
+      "subdivision": "section",
+      "number": "226"
+    }
+  ],
+  "heading": "Appointment of custodian or receiver of corporation on deadlock or for other cause.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": "The Court of Chancery, upon application of any stockholder, may appoint 1 or more persons to be custodians, and, if the corporation is insolvent, to be receivers, of and for any corporation when:"
+    },
+    {
+      "number": "(1)",
+      "content": "At any meeting held for the election of directors the stockholders are so divided that they have failed to elect successors to directors whose terms have expired or would have expired upon qualification of their successors; or"
+    },
+    {
+      "number": "(2)",
+      "content": "The business of the corporation is suffering or is threatened with irreparable injury because the directors are so divided respecting the management of the affairs of the corporation that the required vote for action by the board of directors cannot be obtained and the stockholders are unable to terminate this division; or"
+    },
+    {
+      "number": "(3)",
+      "content": "The corporation has abandoned its business and has failed within a reasonable time to take steps to dissolve, liquidate or distribute its assets."
+    },
+    {
+      "number": "(b)",
+      "content": "A custodian appointed under this section shall have all the powers and title of a receiver appointed under § 291 of this title, but the authority of the custodian is to continue the business of the corporation and not to liquidate its affairs and distribute its assets, except when the Court shall otherwise order and except in cases arising under paragraph (a)(3) of this section or § 352(a)(2) of this title."
+    },
+    {
+      "number": "(c)",
+      "content": "In the case of a charitable nonstock corporation, the applicant shall provide a copy of any application referred to in subsection (a) of this section to the Attorney General of the State of Delaware within 1 week of its filing with the Court of Chancery."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 226",
+    "56 Del. Laws, c. 50",
+    "77 Del. Laws, c. 253, § 27.;"
+  ]
+}

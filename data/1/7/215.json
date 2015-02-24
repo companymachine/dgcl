@@ -1,0 +1,76 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "VII"
+    },
+    {
+      "subdivision": "section",
+      "number": "215"
+    }
+  ],
+  "heading": "Voting rights of members of nonstock corporations; quorum; proxies.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": "Sections 211 through 214 and 216 of this title shall not apply to nonstock corporations, except that § 211(a) and (d) of this title and § 212(c), (d), and (e) of this title shall apply to such corporations, and, when so applied, all references therein to stockholders and to the board of directors shall be deemed to refer to the members and the governing body of a nonstock corporation, respectively; and all references to stock, capital stock, or shares thereof shall be deemed to refer to memberships of a nonprofit nonstock corporation and to membership interests of any other nonstock corporation."
+    },
+    {
+      "number": "(b)",
+      "content": "Unless otherwise provided in the certificate of incorporation or the bylaws of a nonstock corporation, and subject to subsection (f) of this section, each member shall be entitled at every meeting of members to 1 vote on each matter submitted to a vote of members. A member may exercise such voting rights in person or by proxy, but no proxy shall be voted on after 3 years from its date, unless the proxy provides for a longer period."
+    },
+    {
+      "number": "(c)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Unless otherwise provided in this chapter, the certificate of incorporation or bylaws of a nonstock corporation may specify the number of members having voting power who shall be present or represented by proxy at any meeting in order to constitute a quorum for, and the votes that shall be necessary for, the transaction of any business. In the absence of such specification in the certificate of incorporation or bylaws of a nonstock corporation:"
+        },
+        {
+          "number": "(1)",
+          "content": "One-third of the members of such corporation shall constitute a quorum at a meeting of such members;"
+        },
+        {
+          "number": "(2)",
+          "content": "In all matters other than the election of the governing body of such corporation, the affirmative vote of a majority of such members present in person or represented by proxy at the meeting and entitled to vote on the subject matter shall be the act of the members, unless the vote of a greater number is required by this chapter;"
+        },
+        {
+          "number": "(3)",
+          "content": "Members of the governing body shall be elected by a plurality of the votes of the members of the corporation present in person or represented by proxy at the meeting and entitled to vote thereon; and"
+        },
+        {
+          "number": "(4)",
+          "content": "Where a separate vote by a class or group or classes or groups is required, a majority of the members of such class or group or classes or groups, present in person or represented by proxy, shall constitute a quorum entitled to take action with respect to that vote on that matter and, in all matters other than the election of members of the governing body, the affirmative vote of the majority of the members of such class or group or classes or groups present in person or represented by proxy at the meeting shall be the act of such class or group or classes or groups."
+        }
+      ]
+    },
+    {
+      "number": "(d)",
+      "content": "If the election of the governing body of any nonstock corporation shall not be held on the day designated by the bylaws, the governing body shall cause the election to be held as soon thereafter as convenient. The failure to hold such an election at the designated time shall not work any forfeiture or dissolution of the corporation, but the Court of Chancery may summarily order such an election to be held upon the application of any member of the corporation. At any election pursuant to such order the persons entitled to vote in such election who shall be present at such meeting, either in person or by proxy, shall constitute a quorum for such meeting, notwithstanding any provision of the certificate of incorporation or the bylaws of the corporation to the contrary."
+    },
+    {
+      "number": "(e)",
+      "content": "If authorized by the governing body, any requirement of a written ballot shall be satisfied by a ballot submitted by electronic transmission, provided that any such electronic transmission must either set forth or be submitted with information from which it can be determined that the electronic transmission was authorized by the member or proxy holder."
+    },
+    {
+      "number": "(f)",
+      "content": "Except as otherwise provided in the certificate of incorporation, in the bylaws, or by resolution of the governing body, the record date for any meeting or corporate action shall be deemed to be the date of such meeting or corporate action; provided, however, that no record date may precede any action by the governing body fixing such record date."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 215",
+    "56 Del. Laws, c. 50",
+    "63 Del. Laws, c. 25, §§ 5, 6",
+    "71 Del. Laws, c. 339, § 33",
+    "73 Del. Laws, c. 82, §§ 8, 9",
+    "77 Del. Laws, c. 253, § 19.;"
+  ]
+}

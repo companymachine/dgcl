@@ -1,0 +1,53 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "VII"
+    },
+    {
+      "subdivision": "section",
+      "number": "217"
+    }
+  ],
+  "heading": "Voting rights of fiduciaries, pledgors and joint owners of stock.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": "Persons holding stock in a fiduciary capacity shall be entitled to vote the shares so held. Persons whose stock is pledged shall be entitled to vote, unless in the transfer by the pledgor on the books of the corporation such person has expressly empowered the pledgee to vote thereon, in which case only the pledgee, or such pledgee's proxy, may represent such stock and vote thereon."
+    },
+    {
+      "number": "(b)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "If shares or other securities having voting power stand of record in the names of 2 or more persons, whether fiduciaries, members of a partnership, joint tenants, tenants in common, tenants by the entirety or otherwise, or if 2 or more persons have the same fiduciary relationship respecting the same shares, unless the secretary of the corporation is given written notice to the contrary and is furnished with a copy of the instrument or order appointing them or creating the relationship wherein it is so provided, their acts with respect to voting shall have the following effect:"
+        },
+        {
+          "number": "(1)",
+          "content": "If only 1 votes, such person's act binds all;"
+        },
+        {
+          "number": "(2)",
+          "content": "If more than 1 vote, the act of the majority so voting binds all;"
+        },
+        {
+          "number": "(3)",
+          "content": "If more than 1 vote, but the vote is evenly split on any particular matter, each faction may vote the securities in question proportionally, or any person voting the shares, or a beneficiary, if any, may apply to the Court of Chancery or such other court as may have jurisdiction to appoint an additional person to act with the persons so voting the shares, which shall then be voted as determined by a majority of such persons and the person appointed by the Court. If the instrument so filed shows that any such tenancy is held in unequal interests, a majority or even split for the purpose of this subsection shall be a majority or even split in interest."
+        }
+      ]
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 217",
+    "56 Del. Laws, c. 50",
+    "71 Del. Laws, c. 339, §§ 36, 37.;"
+  ]
+}

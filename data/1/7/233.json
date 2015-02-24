@@ -1,0 +1,43 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "VII"
+    },
+    {
+      "subdivision": "section",
+      "number": "233"
+    }
+  ],
+  "heading": "Notice to stockholders sharing an address.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": "Without limiting the manner by which notice otherwise may be given effectively to stockholders, any notice to stockholders given by the corporation under any provision of this chapter, the certificate of incorporation, or the bylaws shall be effective if given by a single written notice to stockholders who share an address if consented to by the stockholders at that address to whom such notice is given. Any such consent shall be revocable by the stockholder by written notice to the corporation."
+    },
+    {
+      "number": "(b)",
+      "content": "Any stockholder who fails to object in writing to the corporation, within 60 days of having been given written notice by the corporation of its intention to send the single notice permitted under subsection (a) of this section, shall be deemed to have consented to receiving such single written notice."
+    },
+    {
+      "number": "(c)",
+      "content": "[Repealed.]"
+    },
+    {
+      "number": "(d)",
+      "content": "This section shall not apply to § 164, § 296, § 311, § 312 or § 324 of this title."
+    }
+  ],
+  "history": [
+    "73 Del. Laws, c. 298, § 9",
+    "77 Del. Laws, c. 253, § 30.;"
+  ]
+}

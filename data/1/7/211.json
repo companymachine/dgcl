@@ -1,0 +1,74 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "VII"
+    },
+    {
+      "subdivision": "section",
+      "number": "211"
+    }
+  ],
+  "heading": "Meetings of stockholders.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": [
+        {
+          "number": "(1)",
+          "content": "Meetings of stockholders may be held at such place, either within or without this State as may be designated by or in the manner provided in the certificate of incorporation or bylaws, or if not so designated, as determined by the board of directors. If, pursuant to this paragraph or the certificate of incorporation or the bylaws of the corporation, the board of directors is authorized to determine the place of a meeting of stockholders, the board of directors may, in its sole discretion, determine that the meeting shall not be held at any place, but may instead be held solely by means of remote communication as authorized by paragraph (a)(2) of this section."
+        },
+        {
+          "number": "(2)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "If authorized by the board of directors in its sole discretion, and subject to such guidelines and procedures as the board of directors may adopt, stockholders and proxyholders not physically present at a meeting of stockholders may, by means of remote communication:"
+            },
+            {
+              "number": "a.",
+              "content": "Participate in a meeting of stockholders; and"
+            },
+            {
+              "number": "b.",
+              "content": "Be deemed present in person and vote at a meeting of stockholders, whether such meeting is to be held at a designated place or solely by means of remote communication, provided that (i) the corporation shall implement reasonable measures to verify that each person deemed present and permitted to vote at the meeting by means of remote communication is a stockholder or proxyholder, (ii) the corporation shall implement reasonable measures to provide such stockholders and proxyholders a reasonable opportunity to participate in the meeting and to vote on matters submitted to the stockholders, including an opportunity to read or hear the proceedings of the meeting substantially concurrently with such proceedings, and (iii) if any stockholder or proxyholder votes or takes other action at the meeting by means of remote communication, a record of such vote or other action shall be maintained by the corporation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "(b)",
+      "content": "Unless directors are elected by written consent in lieu of an annual meeting as permitted by this subsection, an annual meeting of stockholders shall be held for the election of directors on a date and at a time designated by or in the manner provided in the bylaws. Stockholders may, unless the certificate of incorporation otherwise provides, act by written consent to elect directors; provided, however, that, if such consent is less than unanimous, such action by written consent may be in lieu of holding an annual meeting only if all of the directorships to which directors could be elected at an annual meeting held at the effective time of such action are vacant and are filled by such action. Any other proper business may be transacted at the annual meeting."
+    },
+    {
+      "number": "(c)",
+      "content": "A failure to hold the annual meeting at the designated time or to elect a sufficient number of directors to conduct the business of the corporation shall not affect otherwise valid corporate acts or work a forfeiture or dissolution of the corporation except as may be otherwise specifically provided in this chapter. If the annual meeting for election of directors is not held on the date designated therefor or action by written consent to elect directors in lieu of an annual meeting has not been taken, the directors shall cause the meeting to be held as soon as is convenient. If there be a failure to hold the annual meeting or to take action by written consent to elect directors in lieu of an annual meeting for a period of 30 days after the date designated for the annual meeting, or if no date has been designated, for a period of 13 months after the latest to occur of the organization of the corporation, its last annual meeting or the last action by written consent to elect directors in lieu of an annual meeting, the Court of Chancery may summarily order a meeting to be held upon the application of any stockholder or director. The shares of stock represented at such meeting, either in person or by proxy, and entitled to vote thereat, shall constitute a quorum for the purpose of such meeting, notwithstanding any provision of the certificate of incorporation or bylaws to the contrary. The Court of Chancery may issue such orders as may be appropriate, including, without limitation, orders designating the time and place of such meeting, the record date or dates for determination of stockholders entitled to notice of the meeting and to vote thereat, and the form of notice of such meeting."
+    },
+    {
+      "number": "(d)",
+      "content": "Special meetings of the stockholders may be called by the board of directors or by such person or persons as may be authorized by the certificate of incorporation or by the bylaws."
+    },
+    {
+      "number": "(e)",
+      "content": "All elections of directors shall be by written ballot unless otherwise provided in the certificate of incorporation; if authorized by the board of directors, such requirement of a written ballot shall be satisfied by a ballot submitted by electronic transmission, provided that any such electronic transmission must either set forth or be submitted with information from which it can be determined that the electronic transmission was authorized by the stockholder or proxy holder."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 211",
+    "56 Del. Laws, c. 50",
+    "56 Del. Laws, c. 186, § 12",
+    "63 Del. Laws, c. 25, § 4",
+    "71 Del. Laws, c. 120, §§ 12, 13",
+    "72 Del. Laws, c. 343, §§ 7, 8",
+    "77 Del. Laws, c. 14, § 4.;"
+  ]
+}

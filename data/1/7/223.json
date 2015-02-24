@@ -1,0 +1,63 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "VII"
+    },
+    {
+      "subdivision": "section",
+      "number": "223"
+    }
+  ],
+  "heading": "Vacancies and newly created directorships.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Unless otherwise provided in the certificate of incorporation or bylaws:"
+        },
+        {
+          "number": "(1)",
+          "content": "Vacancies and newly created directorships resulting from any increase in the authorized number of directors elected by all of the stockholders having the right to vote as a single class may be filled by a majority of the directors then in office, although less than a quorum, or by a sole remaining director;"
+        },
+        {
+          "number": "(2)",
+          "content": "Whenever the holders of any class or classes of stock or series thereof are entitled to elect 1 or more directors by the certificate of incorporation, vacancies and newly created directorships of such class or classes or series may be filled by a majority of the directors elected by such class or classes or series thereof then in office, or by a sole remaining director so elected."
+        },
+        {
+          "type": "paragraph",
+          "text": "If at any time, by reason of death or resignation or other cause, a corporation should have no directors in office, then any officer or any stockholder or an executor, administrator, trustee or guardian of a stockholder, or other fiduciary entrusted with like responsibility for the person or estate of a stockholder, may call a special meeting of stockholders in accordance with the certificate of incorporation or the bylaws, or may apply to the Court of Chancery for a decree summarily ordering an election as provided in § 211 or § 215 of this title."
+        }
+      ]
+    },
+    {
+      "number": "(b)",
+      "content": "In the case of a corporation the directors of which are divided into classes, any directors chosen under subsection (a) of this section shall hold office until the next election of the class for which such directors shall have been chosen, and until their successors shall be elected and qualified."
+    },
+    {
+      "number": "(c)",
+      "content": "If, at the time of filling any vacancy or any newly created directorship, the directors then in office shall constitute less than a majority of the whole board (as constituted immediately prior to any such increase), the Court of Chancery may, upon application of any stockholder or stockholders holding at least 10 percent of the voting stock at the time outstanding having the right to vote for such directors, summarily order an election to be held to fill any such vacancies or newly created directorships, or to replace the directors chosen by the directors then in office as aforesaid, which election shall be governed by § 211 or § 215 of this title as far as applicable."
+    },
+    {
+      "number": "(d)",
+      "content": "Unless otherwise provided in the certificate of incorporation or bylaws, when 1 or more directors shall resign from the board, effective at a future date, a majority of the directors then in office, including those who have so resigned, shall have power to fill such vacancy or vacancies, the vote thereon to take effect when such resignation or resignations shall become effective, and each director so chosen shall hold office as provided in this section in the filling of other vacancies."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 223",
+    "56 Del. Laws, c. 50",
+    "63 Del. Laws, c. 25, § 10",
+    "73 Del. Laws, c. 298, § 8",
+    "77 Del. Laws, c. 253, §§ 24, 25.;"
+  ]
+}

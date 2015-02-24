@@ -1,0 +1,66 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "VII"
+    },
+    {
+      "subdivision": "section",
+      "number": "228"
+    }
+  ],
+  "heading": "Consent of stockholders or members in lieu of meeting.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": "Unless otherwise provided in the certificate of incorporation, any action required by this chapter to be taken at any annual or special meeting of stockholders of a corporation, or any action which may be taken at any annual or special meeting of such stockholders, may be taken without a meeting, without prior notice and without a vote, if a consent or consents in writing, setting forth the action so taken, shall be signed by the holders of outstanding stock having not less than the minimum number of votes that would be necessary to authorize or take such action at a meeting at which all shares entitled to vote thereon were present and voted and shall be delivered to the corporation by delivery to its registered office in this State, its principal place of business or an officer or agent of the corporation having custody of the book in which proceedings of meetings of stockholders are recorded. Delivery made to a corporation's registered office shall be by hand or by certified or registered mail, return receipt requested."
+    },
+    {
+      "number": "(b)",
+      "content": "Unless otherwise provided in the certificate of incorporation, any action required by this chapter to be taken at a meeting of the members of a nonstock corporation, or any action which may be taken at any meeting of the members of a nonstock corporation, may be taken without a meeting, without prior notice and without a vote, if a consent or consents in writing, setting forth the action so taken, shall be signed by members having not less than the minimum number of votes that would be necessary to authorize or take such action at a meeting at which all members having a right to vote thereon were present and voted and shall be delivered to the corporation by delivery to its registered office in this State, its principal place of business or an officer or agent of the corporation having custody of the book in which proceedings of meetings of members are recorded. Delivery made to a corporation's registered office shall be by hand or by certified or registered mail, return receipt requested."
+    },
+    {
+      "number": "(c)",
+      "content": "Every written consent shall bear the date of signature of each stockholder or member who signs the consent, and no written consent shall be effective to take the corporate action referred to therein unless, within 60 days of the earliest dated consent delivered in the manner required by this section to the corporation, written consents signed by a sufficient number of holders or members to take action are delivered to the corporation by delivery to its registered office in this State, its principal place of business or an officer or agent of the corporation having custody of the book in which proceedings of meetings of stockholders or members are recorded. Delivery made to a corporation's registered office shall be by hand or by certified or registered mail, return receipt requested. Any person executing a consent may provide, whether through instruction to an agent or otherwise, that such a consent will be effective at a future time (including a time determined upon the happening of an event), no later than 60 days after such instruction is given or such provision is made, and, for the purposes of this section, if evidence of such instruction or provision is provided to the corporation, such later effective time shall serve as the date of signature. Unless otherwise provided, any such consent shall be revocable prior to its becoming effective."
+    },
+    {
+      "number": "(d)",
+      "content": [
+        {
+          "number": "(1)",
+          "content": "A telegram, cablegram or other electronic transmission consenting to an action to be taken and transmitted by a stockholder, member or proxyholder, or by a person or persons authorized to act for a stockholder, member or proxyholder, shall be deemed to be written, signed and dated for the purposes of this section, provided that any such telegram, cablegram or other electronic transmission sets forth or is delivered with information from which the corporation can determine (A) that the telegram, cablegram or other electronic transmission was transmitted by the stockholder, member or proxyholder or by a person or persons authorized to act for the stockholder, member or proxyholder and (B) the date on which such stockholder, member or proxyholder or authorized person or persons transmitted such telegram, cablegram or electronic transmission. The date on which such telegram, cablegram or electronic transmission is transmitted shall be deemed to be the date on which such consent was signed. No consent given by telegram, cablegram or other electronic transmission shall be deemed to have been delivered until such consent is reproduced in paper form and until such paper form shall be delivered to the corporation by delivery to its registered office in this State, its principal place of business or an officer or agent of the corporation having custody of the book in which proceedings of meetings of stockholders or members are recorded. Delivery made to a corporation's registered office shall be made by hand or by certified or registered mail, return receipt requested. Notwithstanding the foregoing limitations on delivery, consents given by telegram, cablegram or other electronic transmission, may be otherwise delivered to the principal place of business of the corporation or to an officer or agent of the corporation having custody of the book in which proceedings of meetings of stockholders or members are recorded if, to the extent and in the manner provided by resolution of the board of directors or governing body of the corporation."
+        },
+        {
+          "number": "(2)",
+          "content": "Any copy, facsimile or other reliable reproduction of a consent in writing may be substituted or used in lieu of the original writing for any and all purposes for which the original writing could be used, provided that such copy, facsimile or other reproduction shall be a complete reproduction of the entire original writing."
+        }
+      ]
+    },
+    {
+      "number": "(e)",
+      "content": "Prompt notice of the taking of the corporate action without a meeting by less than unanimous written consent shall be given to those stockholders or members who have not consented in writing and who, if the action had been taken at a meeting, would have been entitled to notice of the meeting if the record date for notice of such meeting had been the date that written consents signed by a sufficient number of holders or members to take the action were delivered to the corporation as provided in subsection (c) of this section. In the event that the action which is consented to is such as would have required the filing of a certificate under any other section of this title, if such action had been voted on by stockholders or by members at a meeting thereof, the certificate filed under such other section shall state, in lieu of any statement required by such section concerning any vote of stockholders or members, that written consent has been given in accordance with this section."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 228",
+    "56 Del. Laws, c. 50",
+    "56 Del. Laws, c. 186, § 14",
+    "57 Del. Laws, c. 148, § 16",
+    "58 Del. Laws, c. 235, § 4",
+    "66 Del. Laws, c. 136, §§ 12-14",
+    "67 Del. Laws, c. 376, §§ 7, 8",
+    "70 Del. Laws, c. 349, § 4",
+    "72 Del. Laws, c. 343, § 15",
+    "73 Del. Laws, c. 82, § 11",
+    "77 Del. Laws, c. 14, § 11",
+    "79 Del. Laws, c. 327, § 5.;"
+  ]
+}

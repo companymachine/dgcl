@@ -1,0 +1,43 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "VII"
+    },
+    {
+      "subdivision": "section",
+      "number": "222"
+    }
+  ],
+  "heading": "Notice of meetings and adjourned meetings.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": "Whenever stockholders are required or permitted to take any action at a meeting, a written notice of the meeting shall be given which shall state the place, if any, date and hour of the meeting, the means of remote communications, if any, by which stockholders and proxy holders may be deemed to be present in person and vote at such meeting, the record date for determining the stockholders entitled to vote at the meeting, if such date is different from the record date for determining stockholders entitled to notice of the meeting, and, in the case of a special meeting, the purpose or purposes for which the meeting is called."
+    },
+    {
+      "number": "(b)",
+      "content": "Unless otherwise provided in this chapter, the written notice of any meeting shall be given not less than 10 nor more than 60 days before the date of the meeting to each stockholder entitled to vote at such meeting as of the record date for determining the stockholders entitled to notice of the meeting. If mailed, notice is given when deposited in the United States mail, postage prepaid, directed to the stockholder at such stockholder's address as it appears on the records of the corporation. An affidavit of the secretary or an assistant secretary or of the transfer agent or other agent of the corporation that the notice has been given shall, in the absence of fraud, be prima facie evidence of the facts stated therein."
+    },
+    {
+      "number": "(c)",
+      "content": "When a meeting is adjourned to another time or place, unless the bylaws otherwise require, notice need not be given of the adjourned meeting if the time, place, if any, thereof, and the means of remote communications, if any, by which stockholders and proxy holders may be deemed to be present in person and vote at such adjourned meeting are announced at the meeting at which the adjournment is taken. At the adjourned meeting the corporation may transact any business which might have been transacted at the original meeting. If the adjournment is for more than 30 days, a notice of the adjourned meeting shall be given to each stockholder of record entitled to vote at the meeting. If after the adjournment a new record date for stockholders entitled to vote is fixed for the adjourned meeting, the board of directors shall fix a new record date for notice of such adjourned meeting in accordance with § 213(a) of this title, and shall give notice of the adjourned meeting to each stockholder of record entitled to vote at such adjourned meeting as of the record date fixed for notice of such adjourned meeting."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 222",
+    "56 Del. Laws, c. 50",
+    "58 Del. Laws, c. 235, § 3",
+    "71 Del. Laws, c. 339, § 40",
+    "72 Del. Laws, c. 343, §§ 11-13",
+    "77 Del. Laws, c. 14, §§ 7-9.;"
+  ]
+}
