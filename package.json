@@ -1,0 +1,14 @@
+{
+  "name": "DGCL",
+  "version": "0.0.0-prerelease",
+  "devDependencies": {
+    "chai": "^2.1.0",
+    "glob": "^4.4.0",
+    "jsonschema": "^1.0.0",
+    "mocha": "^2.1.0"
+  },
+  "scripts":{
+    "pre-commit": "mocha",
+    "test":"mocha"
+  }
+}
