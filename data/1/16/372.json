@@ -1,0 +1,72 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "XVI"
+    },
+    {
+      "subdivision": "section",
+      "number": "372"
+    }
+  ],
+  "heading": "Additional requirements in case of change of name, change of business purpose or merger or consolidation.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Every foreign corporation admitted to do business in this State which shall change its corporate name, or enlarge, limit or otherwise change the business which it proposes to do in this State, shall, within 30 days after the time said change becomes effective, file with the Secretary of State a certificate, which shall set forth:"
+        },
+        {
+          "number": "(1)",
+          "content": "The name of the foreign corporation as it appears on the records of the Secretary of State of this State;"
+        },
+        {
+          "number": "(2)",
+          "content": "The jurisdiction of its incorporation;"
+        },
+        {
+          "number": "(3)",
+          "content": "The date it was authorized to do business in this State;"
+        },
+        {
+          "number": "(4)",
+          "content": "If the name of the foreign corporation has been changed, a statement of the name relinquished, a statement of the new name and a statement that the change of name has been effected under the laws of the jurisdiction of its incorporation and the date the change was effected;"
+        },
+        {
+          "number": "(5)",
+          "content": "If the business it proposes to do in this State is to be enlarged, limited or otherwise changed, a statement reflecting such change and a statement that it is authorized to do in the jurisdiction of its incorporation the business which it proposes to do in this State."
+        }
+      ]
+    },
+    {
+      "number": "(b)",
+      "content": "Whenever a foreign corporation authorized to transact business in this State shall be the survivor of a merger permitted by the laws of the state or country in which it is incorporated, it shall, within 30 days after the merger becomes effective, file a certificate, issued by the proper officer of the state or country of its incorporation, attesting to the occurrence of such event. If the merger has changed the corporate name of such foreign corporation or has enlarged, limited or otherwise changed the business it proposes to do in this State, it shall also comply with subsection (a) of this section."
+    },
+    {
+      "number": "(c)",
+      "content": "Whenever a foreign corporation authorized to transact business in this State ceases to exist because of a statutory merger or consolidation, it shall comply with § 381 of this title."
+    },
+    {
+      "number": "(d)",
+      "content": "The Secretary of State shall be paid, for the use of the State, $50 for filing and indexing each certificate required by subsection (a) or (b) of this section, and in the event of a change of name an additional $50 shall be paid for a certificate to be issued as evidence of filing the change of name."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 372",
+    "56 Del. Laws, c. 50",
+    "57 Del. Laws, c. 421, § 13",
+    "67 Del. Laws, c. 229, § 13",
+    "77 Del. Laws, c. 78, § 38",
+    "79 Del. Laws, c. 122, § 9.;"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "XVI"
+    },
+    {
+      "subdivision": "section",
+      "number": "381"
+    }
+  ],
+  "heading": "Withdrawal of foreign corporation from State; procedure; service of process on Secretary of State.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Any foreign corporation which shall have qualified to do business in this State under § 371 of this title, may surrender its authority to do business in this State and may withdraw therefrom by filing with the Secretary of State:"
+        },
+        {
+          "number": "(1)",
+          "content": "A certificate executed in accordance with § 103 of this title, stating that it surrenders its authority to transact business in the state and withdraws therefrom; and stating the address to which the Secretary of State may mail any process against the corporation that may be served upon the Secretary of State, or"
+        },
+        {
+          "number": "(2)",
+          "content": "A copy of an order or decree of dissolution made by any court of competent jurisdiction or other competent authority of the State or other jurisdiction of its incorporation, certified to be a true copy under the hand of the clerk of the court or other official body, and the official seal of the court or official body or clerk thereof, together with a certificate executed in accordance with paragraph (a)(1) of this section, stating the address to which the Secretary of State may mail any process against the corporation that may be served upon the Secretary of State."
+        }
+      ]
+    },
+    {
+      "number": "(b)",
+      "content": "The Secretary of State shall, upon payment to the Secretary of State of the fees prescribed in § 391 of this title, issue a sufficient number of certificates, under the Secretary of State's hand and official seal, evidencing the surrender of the authority of the corporation to do business in this State and its withdrawal therefrom. One of the certificates shall be furnished to the corporation withdrawing and surrendering its right to do business in this State."
+    },
+    {
+      "number": "(c)",
+      "content": "Upon the issuance of the certificates by the Secretary of State, the appointment of the registered agent of the corporation in this State, upon whom process against the corporation may be served, shall be revoked, and the corporation shall be deemed to have consented that service of process in any action, suit or proceeding based upon any cause of action arising in this State, during the time the corporation was authorized to transact business in this State, may thereafter be made by service upon the Secretary of State. Process may be served upon the Secretary of State under this subsection by means of electronic transmission but only as prescribed by the Secretary of State. The Secretary of State is authorized to issue such rules and regulations with respect to such service as the Secretary of State deems necessary or appropriate."
+    },
+    {
+      "number": "(d)",
+      "content": "In the event of service upon the Secretary of State in accordance with subsection (c) of this section, the Secretary of State shall forthwith notify the corporation by letter, directed to the corporation at the address stated in the certificate which was filed by the corporation with the Secretary of State pursuant to subsection (a) of this section. Such letter shall be sent by a mail or courier service that includes a record of mailing or deposit with the courier and a record of delivery evidenced by the signature of the recipient. Such letter shall enclose a copy of the process and any other papers served upon the Secretary of State. It shall be the duty of the plaintiff in the event of such service to serve process and any other papers in duplicate, to notify the Secretary of State that service is being made pursuant to this subsection, and to pay the Secretary of State the sum of $50 for the use of the State, which sum shall be taxed as part of the cost of the action, suit or proceeding if the plaintiff shall prevail therein. The Secretary of State shall maintain an alphabetical record of such service setting forth the name of the plaintiff and defendant, the title, docket number and nature of the proceeding in which the process has been served upon the Secretary of State, the fact that service has been effected pursuant to this subsection, the return date thereof, and the day and hour when the service was made. The Secretary of State shall not be required to retain such information for a period longer than 5 years from receipt of the service of process."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 381",
+    "56 Del. Laws, c. 50",
+    "58 Del. Laws, c. 235, § 7",
+    "64 Del. Laws, c. 112, § 62",
+    "67 Del. Laws, c. 190, § 9",
+    "70 Del. Laws, c. 79, § 18",
+    "71 Del. Laws, c. 339, §§ 82-85",
+    "77 Del. Laws, c. 290, §§ 31, 32",
+    "78 Del. Laws, c. 273, §§ 9, 10",
+    "79 Del. Laws, c. 122, § 9.;"
+  ]
+}

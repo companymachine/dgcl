@@ -1,0 +1,34 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "XVI"
+    },
+    {
+      "subdivision": "section",
+      "number": "380"
+    }
+  ],
+  "heading": "Foreign corporation as fiduciary in this State.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "A corporation organized and doing business under the laws of the District of Columbia or of any state of the United States other than Delaware, duly authorized by its certificate of incorporation or bylaws so to act, may be appointed by any last will and testament or other testamentary writing, probated within this State, or by a deed of trust, mortgage or other agreement, as executor, guardian, trustee or other fiduciary, and may act as such within this State, when and to the extent that the laws of the District of Columbia or of the state in which the foreign corporation is organized confer like powers upon corporations organized and doing business under the laws of this State."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 380",
+    "56 Del. Laws, c. 50",
+    "56 Del. Laws, c. 186, § 29",
+    "64 Del. Laws, c. 353, § 1",
+    "79 Del. Laws, c. 122, § 9.;"
+  ]
+}

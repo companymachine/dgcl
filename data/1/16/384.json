@@ -1,0 +1,33 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "XVI"
+    },
+    {
+      "subdivision": "section",
+      "number": "384"
+    }
+  ],
+  "heading": "Foreign corporations doing business without having qualified; injunctions.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The Court of Chancery shall have jurisdiction to enjoin any foreign corporation, or any agent thereof, from transacting any business in this State if such corporation has failed to comply with any section of this subchapter applicable to it or if such corporation has secured a certificate of the Secretary of State under § 371 of this title on the basis of false or misleading representations. The Attorney General shall, upon the Attorney General's own motion or upon the relation of proper parties, proceed for this purpose by complaint in any county in which such corporation is doing business."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 384",
+    "56 Del. Laws, c. 50",
+    "71 Del. Laws, c. 339, § 87",
+    "79 Del. Laws, c. 122, § 9.;"
+  ]
+}

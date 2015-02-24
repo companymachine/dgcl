@@ -1,0 +1,86 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "XVI"
+    },
+    {
+      "subdivision": "section",
+      "number": "377"
+    }
+  ],
+  "heading": "Change of registered agent.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Any foreign corporation, which has qualified to do business in this State, may change its registered agent and substitute another registered agent by filing a certificate with the Secretary of State, acknowledged in accordance with § 103 of this title, setting forth:"
+        },
+        {
+          "number": "(1)",
+          "content": "The name and address of its registered agent designated in this State upon whom process directed to said corporation may be served; and"
+        },
+        {
+          "number": "(2)",
+          "content": "A revocation of all previous appointments of agent for such purposes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Such registered agent shall comply with § 371(b)(2)(i) of this title."
+        }
+      ]
+    },
+    {
+      "number": "(b)",
+      "content": "Any individual or entity designated by a foreign corporation as its registered agent for service of process may resign by filing with the Secretary of State a signed statement that the registered agent is unwilling to continue to act as the registered agent of the corporation for service of process, including in the statement the post-office address of the main or headquarters office of the foreign corporation, but such resignation shall not become effective until 30 days after the statement is filed. The statement shall be acknowledged by the registered agent and shall contain a representation that written notice of resignation was given to the corporation at least 30 days prior to the filing of the statement by mailing or delivering such notice to the corporation at its address given in the statement."
+    },
+    {
+      "number": "(c)",
+      "content": "If any agent designated and certified as required by § 371 of this title shall die or remove from this State, or resign, then the foreign corporation for which the agent had been so designated and certified shall, within 10 days after the death, removal or resignation of its agent, substitute, designate and certify to the Secretary of State, the name of another registered agent for the purposes of this subchapter, and all process, orders, rules and notices mentioned in § 376 of this title may be served on or given to the substituted agent with like effect as is prescribed in that section."
+    },
+    {
+      "number": "(d)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A foreign corporation whose qualification to do business in this State has been forfeited pursuant to § 132(f)(4) or § 136(b) of this title may be reinstated by filing a certificate of reinstatement with the Secretary of State, acknowledged in accordance with § 103 of this title, setting forth:"
+        },
+        {
+          "number": "(1)",
+          "content": "The name of the foreign corporation;"
+        },
+        {
+          "number": "(2)",
+          "content": "The effective date of the forfeiture; and"
+        },
+        {
+          "number": "(3)",
+          "content": "The name and address of the foreign corporation's registered agent required to be maintained by § 132 of this title."
+        }
+      ]
+    },
+    {
+      "number": "(e)",
+      "content": "Upon the filing of a certificate of reinstatement in accordance with subsection (d) of this section, the qualification of the foreign corporation to do business in this State shall be reinstated with the same force and effect as if it had not been forfeited pursuant to this title."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 377",
+    "56 Del. Laws, c. 50",
+    "63 Del. Laws, c. 25, § 15",
+    "71 Del. Laws, c. 120, § 19",
+    "78 Del. Laws, c. 273, §§ 7, 8",
+    "79 Del. Laws, c. 72, § 21",
+    "79 Del. Laws, c. 122, § 9.;"
+  ]
+}

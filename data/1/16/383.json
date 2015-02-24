@@ -1,0 +1,37 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "XVI"
+    },
+    {
+      "subdivision": "section",
+      "number": "383"
+    }
+  ],
+  "heading": "Actions by and against unqualified foreign corporations.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": "A foreign corporation which is required to comply with §§ 371 and 372 of this title and which has done business in this State without authority shall not maintain any action or special proceeding in this State unless and until such corporation has been authorized to do business in this State and has paid to the State all fees, penalties and franchise taxes for the years or parts thereof during which it did business in this State without authority. This prohibition shall not apply to any successor in interest of such foreign corporation."
+    },
+    {
+      "number": "(b)",
+      "content": "The failure of a foreign corporation to obtain authority to do business in this State shall not impair the validity of any contract or act of the foreign corporation or the right of any other party to the contract to maintain any action or special proceeding thereon, and shall not prevent the foreign corporation from defending any action or special proceeding in this State."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 383",
+    "56 Del. Laws, c. 50",
+    "56 Del. Laws, c. 186, § 30",
+    "79 Del. Laws, c. 122, § 9.;"
+  ]
+}
