@@ -1,0 +1,32 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "XVIII"
+    },
+    {
+      "subdivision": "section",
+      "number": "393"
+    }
+  ],
+  "heading": "Rights, liabilities and duties under prior statutes.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "All rights, privileges and immunities vested or accrued by and under any laws enacted prior to the adoption or amendment of this chapter, all suits pending, all rights of action conferred, and all duties, restrictions, liabilities and penalties imposed or required by and under laws enacted prior to the adoption or amendment of this chapter, shall not be impaired, diminished or affected by this chapter."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 393",
+    "56 Del. Laws, c. 50",
+    "79 Del. Laws, c. 122, § 11"
+  ]
+}

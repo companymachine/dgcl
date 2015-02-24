@@ -1,0 +1,66 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "XVIII"
+    },
+    {
+      "subdivision": "section",
+      "number": "395"
+    }
+  ],
+  "heading": "Corporations using \"trust\" in name, advertisements and otherwise; restrictions; violations and penalties; exceptions.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": "Except as provided below in subsection (d) of this section, every corporation of this State using the word \"trust\" as part of its name, except a corporation regulated under the Bank Holding Company Act of 1956, 12 U.S.C. § 1841 et seq., or § 10 of the Home Owners' Loan Act, 12 U.S.C. § 1467a et seq., as those statutes shall from time to time be amended, shall be under the supervision of the State Bank Commissioner of this State and shall make not less than 2 reports during each year to the Commissioner, according to the form which shall be prescribed by the Commissioner, verified by the oaths or affirmations of the president or vice-president, and the treasurer or secretary of the corporation, and attested by the signatures of at least 3 directors."
+    },
+    {
+      "number": "(b)",
+      "content": "Except as provided below in subsection (d) of this section, no corporation of this State shall use the word \"trust\" as part of its name, except a corporation reporting to and under the supervision of the State Bank Commissioner of this State or a corporation regulated under the Bank Holding Company Act of 1956, 12 U.S.C. § 1841 et seq., or § 10 of the Home Owners' Loan Act, 12 U.S.C. § 1467a et seq., as those statutes shall from time to time be amended. Except as provided below in subsection (d) of this section, the name of any such corporation shall not be amended so as to include the word \"trust\" unless such corporation shall report to and be under the supervision of the Commissioner, or unless it is regulated under the Bank Holding Company Act of 1956 or the Savings and Loan Holding Company Act."
+    },
+    {
+      "number": "(c)",
+      "content": "No corporation of this State, except corporations reporting to and under the supervision of the State Bank Commissioner of this State or corporations regulated under the Bank Holding Company Act of 1956, 12 U.S.C. § 1841 et seq., or § 10 of the Home Owners' Loan Act, 12 U.S.C. § 1467a et seq., as those statutes shall from time to time be amended, shall advertise or put forth any sign as a trust company, or in any way solicit or receive deposits or transact business as a trust company."
+    },
+    {
+      "number": "(d)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The requirements and restrictions set forth above in subsections (a) and (b) of this section shall not apply to, and shall not be construed to prevent the use of the word \"trust\" as part of the name of, a corporation that is not subject to the supervision of the State Bank Commissioner of this State and that is not regulated under the Bank Holding Company Act of 1956, 12 U.S.C. § 1841 et seq., or § 10 of the Home Owners' Loan Act, 12 U.S.C. § 1467a et seq., where use of the word \"trust\" as part of such corporation's name clearly:"
+        },
+        {
+          "number": "(1)",
+          "content": "Does not refer to a trust business;"
+        },
+        {
+          "number": "(2)",
+          "content": "Is not likely to mislead the public into believing that the nature of the business of the corporation includes activities that fall under the supervision of the State Bank Commissioner of this State or that are regulated under the Bank Holding Company Act of 1956, 12 U.S.C. § 1841 et seq., or § 10 of the Home Owners' Loan Act, 12 U.S.C. § 1467a et seq.; and"
+        },
+        {
+          "number": "(3)",
+          "content": "Will not otherwise lead to a pattern and practice of abuse that might cause harm to the interests of the public or the State, as determined by the Director of the Division of Corporations and the State Bank Commissioner."
+        }
+      ]
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 395",
+    "56 Del. Laws, c. 50",
+    "59 Del. Laws, c. 443, § 1",
+    "64 Del. Laws, c. 112, § 68",
+    "71 Del. Laws, c. 339, §§ 92, 93",
+    "73 Del. Laws, c. 298, §§ 13, 14",
+    "78 Del. Laws, c. 96, §§ 16-19",
+    "79 Del. Laws, c. 122, § 11"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "XVIII"
+    },
+    {
+      "subdivision": "section",
+      "number": "394"
+    }
+  ],
+  "heading": "Reserved power of State to amend or repeal chapter; chapter part of corporation's charter or certificate of incorporation.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "This chapter may be amended or repealed, at the pleasure of the General Assembly, but any amendment or repeal shall not take away or impair any remedy under this chapter against any corporation or its officers for any liability which shall have been previously incurred. This chapter and all amendments thereof shall be a part of the charter or certificate of incorporation of every corporation except so far as the same are inapplicable and inappropriate to the objects of the corporation."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 394",
+    "56 Del. Laws, c. 50",
+    "79 Del. Laws, c. 122, § 11"
+  ]
+}

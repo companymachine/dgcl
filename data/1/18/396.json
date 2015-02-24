@@ -1,0 +1,33 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "XVIII"
+    },
+    {
+      "subdivision": "section",
+      "number": "396"
+    }
+  ],
+  "heading": "Publication of chapter by Secretary of State; distribution.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The Secretary of State may have printed, from time to time as the Secretary of State deems necessary, pamphlet copies of this chapter, and the Secretary of State shall dispose of the copies to persons and corporations desiring the same for a sum not exceeding the cost of printing. The money received from the sale of the copies shall be disposed of as are other fees of the office of the Secretary of State. Nothing in this section shall prevent the free distribution of single pamphlet copies of this chapter by the Secretary of State, for the printing of which provision is made from time to time by joint resolution of the General Assembly."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 396",
+    "56 Del. Laws, c. 50",
+    "71 Del. Laws, c. 339, § 94",
+    "79 Del. Laws, c. 122, § 11"
+  ]
+}
