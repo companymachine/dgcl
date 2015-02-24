@@ -1,0 +1,51 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "IV"
+    },
+    {
+      "subdivision": "section",
+      "number": "142"
+    }
+  ],
+  "heading": "Officers; titles, duties, selection, term; failure to elect; vacancies.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": "Every corporation organized under this chapter shall have such officers with such titles and duties as shall be stated in the bylaws or in a resolution of the board of directors which is not inconsistent with the bylaws and as may be necessary to enable it to sign instruments and stock certificates which comply with §§ 103(a)(2) and 158 of this title. One of the officers shall have the duty to record the proceedings of the meetings of the stockholders and directors in a book to be kept for that purpose. Any number of offices may be held by the same person unless the certificate of incorporation or bylaws otherwise provide."
+    },
+    {
+      "number": "(b)",
+      "content": "Officers shall be chosen in such manner and shall hold their offices for such terms as are prescribed by the bylaws or determined by the board of directors or other governing body. Each officer shall hold office until such officer's successor is elected and qualified or until such officer's earlier resignation or removal. Any officer may resign at any time upon written notice to the corporation."
+    },
+    {
+      "number": "(c)",
+      "content": "The corporation may secure the fidelity of any or all of its officers or agents by bond or otherwise."
+    },
+    {
+      "number": "(d)",
+      "content": "A failure to elect officers shall not dissolve or otherwise affect the corporation."
+    },
+    {
+      "number": "(e)",
+      "content": "Any vacancy occurring in any office of the corporation by death, resignation, removal or otherwise, shall be filled as the bylaws provide. In the absence of such provision, the vacancy shall be filled by the board of directors or other governing body."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 142",
+    "56 Del. Laws, c. 50",
+    "56 Del. Laws, c. 186, § 4",
+    "57 Del. Laws, c. 649, § 2",
+    "59 Del. Laws, c. 437, § 6",
+    "71 Del. Laws, c. 339, § 14"
+  ]
+}
