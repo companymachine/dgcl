@@ -1,0 +1,33 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "V"
+    },
+    {
+      "subdivision": "section",
+      "number": "167"
+    }
+  ],
+  "heading": "Lost, stolen or destroyed stock certificates; issuance of new certificate or uncertificated shares.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "A corporation may issue a new certificate of stock or uncertificated shares in place of any certificate theretofore issued by it, alleged to have been lost, stolen or destroyed, and the corporation may require the owner of the lost, stolen or destroyed certificate, or such owner's legal representative to give the corporation a bond sufficient to indemnify it against any claim that may be made against it on account of the alleged loss, theft or destruction of any such certificate or the issuance of such new certificate or uncertificated shares."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 167",
+    "56 Del. Laws, c. 50",
+    "64 Del. Laws, c. 112, § 15",
+    "71 Del. Laws, c. 339, § 24"
+  ]
+}

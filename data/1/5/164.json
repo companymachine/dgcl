@@ -1,0 +1,41 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "V"
+    },
+    {
+      "subdivision": "section",
+      "number": "164"
+    }
+  ],
+  "heading": "Failure to pay for stock; remedies.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "When any stockholder fails to pay any installment or call upon such stockholder's stock which may have been properly demanded by the directors, at the time when such payment is due, the directors may collect the amount of any such installment or call or any balance thereof remaining unpaid, from the said stockholder by an action at law, or they shall sell at public sale such part of the shares of such delinquent stockholder as will pay all demands then due from such stockholder with interest and all incidental expenses, and shall transfer the shares so sold to the purchaser, who shall be entitled to a certificate therefor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Notice of the time and place of such sale and of the sum due on each share shall be given by advertisement at least 1 week before the sale, in a newspaper of the county in this State where such corporation's registered office is located, and such notice shall be mailed by the corporation to such delinquent stockholder at such stockholder's last known post-office address, at least 20 days before such sale."
+    },
+    {
+      "type": "paragraph",
+      "text": "If no bidder can be had to pay the amount due on the stock, and if the amount is not collected by an action at law, which may be brought within the county where the corporation has its registered office, within 1 year from the date of the bringing of such action at law, the said stock and the amount previously paid in by the delinquent stockholder on the stock shall be forfeited to the corporation."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 164",
+    "56 Del. Laws, c. 50",
+    "59 Del. Laws, c. 106, § 4",
+    "71 Del. Laws, c. 339, § 22"
+  ]
+}

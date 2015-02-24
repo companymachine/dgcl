@@ -1,0 +1,28 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "V"
+    },
+    {"subdivision":"section","number":"171"}
+  ],
+  "heading": "Special purpose reserves.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The directors of a corporation may set apart out of any of the funds of the corporation available for dividends a reserve or reserves for any proper purpose and may abolish any such reserve."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 171",
+    "56 Del. Laws, c. 50"
+  ]
+}

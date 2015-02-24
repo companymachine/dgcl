@@ -1,0 +1,37 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "V"
+    },
+    {
+      "subdivision": "section",
+      "number": "158"
+    }
+  ],
+  "heading": "Stock certificates; uncertificated shares.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The shares of a corporation shall be represented by certificates, provided that the board of directors of the corporation may provide by resolution or resolutions that some or all of any or all classes or series of its stock shall be uncertificated shares. Any such resolution shall not apply to shares represented by a certificate until such certificate is surrendered to the corporation. Every holder of stock represented by certificates shall be entitled to have a certificate signed by, or in the name of the corporation by the chairperson or vice-chairperson of the board of directors, or the president or vice-president, and by the treasurer or an assistant treasurer, or the secretary or an assistant secretary of such corporation representing the number of shares registered in certificate form. Any or all the signatures on the certificate may be a facsimile. In case any officer, transfer agent or registrar who has signed or whose facsimile signature has been placed upon a certificate shall have ceased to be such officer, transfer agent or registrar before such certificate is issued, it may be issued by the corporation with the same effect as if such person were such officer, transfer agent or registrar at the date of issue. A corporation shall not have power to issue a certificate in bearer form."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 158",
+    "56 Del. Laws, c. 50",
+    "56 Del. Laws, c. 186, § 8",
+    "58 Del. Laws, c. 235, § 2",
+    "64 Del. Laws, c. 112, § 13",
+    "71 Del. Laws, c. 339, § 19",
+    "73 Del. Laws, c. 298, § 3",
+    "75 Del. Laws, c. 30, § 2"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "V"
+    },
+    {
+      "subdivision": "section",
+      "number": "159"
+    }
+  ],
+  "heading": "Shares of stock; personal property, transfer and taxation.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The shares of stock in every corporation shall be deemed personal property and transferable as provided in Article 8 of subtitle I of Title 6. No stock or bonds issued by any corporation organized under this chapter shall be taxed by this State when the same shall be owned by nonresidents of this State, or by foreign corporations. Whenever any transfer of shares shall be made for collateral security, and not absolutely, it shall be so expressed in the entry of transfer if, when the certificates are presented to the corporation for transfer or uncertificated shares are requested to be transferred, both the transferor and transferee request the corporation to do so."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 159",
+    "56 Del. Laws, c. 50",
+    "64 Del. Laws, c. 112, § 14"
+  ]
+}

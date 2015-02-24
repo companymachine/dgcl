@@ -1,0 +1,31 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "V"
+    },
+    {
+      "subdivision": "section",
+      "number": "165"
+    }
+  ],
+  "heading": "Revocability of preincorporation subscriptions.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Unless otherwise provided by the terms of the subscription, a subscription for stock of a corporation to be formed shall be irrevocable, except with the consent of all other subscribers or the corporation, for a period of 6 months from its date."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 165",
+    "56 Del. Laws, c. 50"
+  ]
+}

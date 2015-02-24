@@ -1,0 +1,56 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "V"
+    },
+    {"subdivision":"section","number":"170"}
+  ],
+  "heading": "Dividends; payment; wasting asset corporations.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The directors of every corporation, subject to any restrictions contained in its certificate of incorporation, may declare and pay dividends upon the shares of its capital stock either:"
+        },
+        {
+          "number": "(1)",
+          "content": "Out of its surplus, as defined in and computed in accordance with §§ 154 and 244 of this title; or"
+        },
+        {
+          "number": "(2)",
+          "content": "In case there shall be no such surplus, out of its net profits for the fiscal year in which the dividend is declared and/or the preceding fiscal year."
+        },
+        {
+          "type": "paragraph",
+          "text": "If the capital of the corporation, computed in accordance with §§ 154 and 244 of this title, shall have been diminished by depreciation in the value of its property, or by losses, or otherwise, to an amount less than the aggregate amount of the capital represented by the issued and outstanding stock of all classes having a preference upon the distribution of assets, the directors of such corporation shall not declare and pay out of such net profits any dividends upon any shares of any classes of its capital stock until the deficiency in the amount of capital represented by the issued and outstanding stock of all classes having a preference upon the distribution of assets shall have been repaired. Nothing in this subsection shall invalidate or otherwise affect a note, debenture or other obligation of the corporation paid by it as a dividend on shares of its stock, or any payment made thereon, if at the time such note, debenture or obligation was delivered by the corporation, the corporation had either surplus or net profits as provided in (a)(1) or (2) of this section from which the dividend could lawfully have been paid."
+        }
+      ]
+    },
+    {
+      "number": "(b)",
+      "content": "Subject to any restrictions contained in its certificate of incorporation, the directors of any corporation engaged in the exploitation of wasting assets (including but not limited to a corporation engaged in the exploitation of natural resources or other wasting assets, including patents, or engaged primarily in the liquidation of specific assets) may determine the net profits derived from the exploitation of such wasting assets or the net proceeds derived from such liquidation without taking into consideration the depletion of such assets resulting from lapse of time, consumption, liquidation or exploitation of such assets."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 170",
+    "56 Del. Laws, c. 50",
+    "56 Del. Laws, c. 186, § 9",
+    "59 Del. Laws, c. 106, § 5",
+    "64 Del. Laws, c. 112, § 17",
+    "67 Del. Laws, c. 376, § 5",
+    "69 Del. Laws, c. 61, § 3",
+    "72 Del. Laws, c. 123, § 3",
+    "77 Del. Laws, c. 253, § 18"
+  ]
+}

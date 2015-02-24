@@ -1,0 +1,44 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "V"
+    },
+    {
+      "subdivision": "section",
+      "number": "153"
+    }
+  ],
+  "heading": "Consideration for stock.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": "Shares of stock with par value may be issued for such consideration, having a value not less than the par value thereof, as determined from time to time by the board of directors, or by the stockholders if the certificate of incorporation so provides."
+    },
+    {
+      "number": "(b)",
+      "content": "Shares of stock without par value may be issued for such consideration as is determined from time to time by the board of directors, or by the stockholders if the certificate of incorporation so provides."
+    },
+    {
+      "number": "(c)",
+      "content": "Treasury shares may be disposed of by the corporation for such consideration as may be determined from time to time by the board of directors, or by the stockholders if the certificate of incorporation so provides."
+    },
+    {
+      "number": "(d)",
+      "content": "If the certificate of incorporation reserves to the stockholders the right to determine the consideration for the issue of any shares, the stockholders shall, unless the certificate requires a greater vote, do so by a vote of a majority of the outstanding stock entitled to vote thereon."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 153",
+    "56 Del. Laws, c. 50",
+    "57 Del. Laws, c. 148, § 10"
+  ]
+}

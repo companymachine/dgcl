@@ -1,0 +1,52 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "V"
+    },
+    {
+      "subdivision": "section",
+      "number": "162"
+    }
+  ],
+  "heading": "Liability of stockholder or subscriber for stock not paid in full.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": "When the whole of the consideration payable for shares of a corporation has not been paid in, and the assets shall be insufficient to satisfy the claims of its creditors, each holder of or subscriber for such shares shall be bound to pay on each share held or subscribed for by such holder or subscriber the sum necessary to complete the amount of the unpaid balance of the consideration for which such shares were issued or are to be issued by the corporation."
+    },
+    {
+      "number": "(b)",
+      "content": "The amounts which shall be payable as provided in subsection (a) of this section may be recovered as provided in § 325 of this title, after a writ of execution against the corporation has been returned unsatisfied as provided in said § 325."
+    },
+    {
+      "number": "(c)",
+      "content": "Any person becoming an assignee or transferee of shares or of a subscription for shares in good faith and without knowledge or notice that the full consideration therefor has not been paid shall not be personally liable for any unpaid portion of such consideration, but the transferor shall remain liable therefor."
+    },
+    {
+      "number": "(d)",
+      "content": "No person holding shares in any corporation as collateral security shall be personally liable as a stockholder but the person pledging such shares shall be considered the holder thereof and shall be so liable. No executor, administrator, guardian, trustee or other fiduciary shall be personally liable as a stockholder, but the estate or funds held by such executor, administrator, guardian, trustee or other fiduciary in such fiduciary capacity shall be liable."
+    },
+    {
+      "number": "(e)",
+      "content": "No liability under this section or under § 325 of this title shall be asserted more than 6 years after the issuance of the stock or the date of the subscription upon which the assessment is sought."
+    },
+    {
+      "number": "(f)",
+      "content": "In any action by a receiver or trustee of an insolvent corporation or by a judgment creditor to obtain an assessment under this section, any stockholder or subscriber for stock of the insolvent corporation may appear and contest the claim or claims of such receiver or trustee."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 162",
+    "56 Del. Laws, c. 50",
+    "71 Del. Laws, c. 339, § 20"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "V"
+    },
+    {"subdivision":"section","number":"169"}
+  ],
+  "heading": "Situs of ownership of stock.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "For all purposes of title, action, attachment, garnishment and jurisdiction of all courts held in this State, but not for the purpose of taxation, the situs of the ownership of the capital stock of all corporations existing under the laws of this State, whether organized under this chapter or otherwise, shall be regarded as in this State."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 169",
+    "56 Del. Laws, c. 50"
+  ]
+}

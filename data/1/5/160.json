@@ -1,0 +1,69 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "V"
+    },
+    {
+      "subdivision": "section",
+      "number": "160"
+    }
+  ],
+  "heading": "Corporation's powers respecting ownership, voting, etc., of its own stock; rights of stock called for redemption.",
+  "content": [
+    {
+      "number": "(a)",
+      "content": "Every corporation may purchase, redeem, receive, take or otherwise acquire, own and hold, sell, lend, exchange, transfer or otherwise dispose of, pledge, use and otherwise deal in and with its own shares; provided, however, that no corporation shall:"
+    },
+    {
+      "number": "(1)",
+      "content": "Purchase or redeem its own shares of capital stock for cash or other property when the capital of the corporation is impaired or when such purchase or redemption would cause any impairment of the capital of the corporation, except that a corporation other than a nonstock corporation may purchase or redeem out of capital any of its own shares which are entitled upon any distribution of its assets, whether by dividend or in liquidation, to a preference over another class or series of its stock, or, if no shares entitled to such a preference are outstanding, any of its own shares, if such shares will be retired upon their acquisition and the capital of the corporation reduced in accordance with §§ 243 and 244 of this title. Nothing in this subsection shall invalidate or otherwise affect a note, debenture or other obligation of a corporation given by it as consideration for its acquisition by purchase, redemption or exchange of its shares of stock if at the time such note, debenture or obligation was delivered by the corporation its capital was not then impaired or did not thereby become impaired;"
+    },
+    {
+      "number": "(2)",
+      "content": "Purchase, for more than the price at which they may then be redeemed, any of its shares which are redeemable at the option of the corporation; or"
+    },
+    {
+      "number": "(3)",
+      "content": [
+        {
+          "number": "a.",
+          "content": "In the case of a corporation other than a nonstock corporation, redeem any of its shares, unless their redemption is authorized by § 151(b) of this title and then only in accordance with such section and the certificate of incorporation, or"
+        },
+        {
+          "number": "b.",
+          "content": "In the case of a nonstock corporation, redeem any of its membership interests, unless their redemption is authorized by the certificate of incorporation and then only in accordance with the certificate of incorporation."
+        }
+      ]
+    },
+    {
+      "number": "(b)",
+      "content": "Nothing in this section limits or affects a corporation's right to resell any of its shares theretofore purchased or redeemed out of surplus and which have not been retired, for such consideration as shall be fixed by the board of directors."
+    },
+    {
+      "number": "(c)",
+      "content": "Shares of its own capital stock belonging to the corporation or to another corporation, if a majority of the shares entitled to vote in the election of directors of such other corporation is held, directly or indirectly, by the corporation, shall neither be entitled to vote nor be counted for quorum purposes. Nothing in this section shall be construed as limiting the right of any corporation to vote stock, including but not limited to its own stock, held by it in a fiduciary capacity."
+    },
+    {
+      "number": "(d)",
+      "content": "Shares which have been called for redemption shall not be deemed to be outstanding shares for the purpose of voting or determining the total number of shares entitled to vote on any matter on and after the date on which written notice of redemption has been sent to holders thereof and a sum sufficient to redeem such shares has been irrevocably deposited or set aside to pay the redemption price to the holders of the shares upon surrender of certificates therefor."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 160",
+    "56 Del. Laws, c. 50",
+    "57 Del. Laws, c. 649, § 1",
+    "59 Del. Laws, c. 106, § 3",
+    "59 Del. Laws, c. 437, § 9",
+    "70 Del. Laws, c. 349, § 3",
+    "77 Del. Laws, c. 253, §§ 16, 17"
+  ]
+}

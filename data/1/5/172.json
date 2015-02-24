@@ -1,0 +1,30 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "V"
+    },
+    {"subdivision":"section","number":"172"}
+  ],
+  "heading": "Liability of directors and committee members as to dividends or stock redemption.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "A member of the board of directors, or a member of any committee designated by the board of directors, shall be fully protected in relying in good faith upon the records of the corporation and upon such information, opinions, reports or statements presented to the corporation by any of its officers or employees, or committees of the board of directors, or by any other person as to matters the director reasonably believes are within such other person's professional or expert competence and who has been selected with reasonable care by or on behalf of the corporation, as to the value and amount of the assets, liabilities and/or net profits of the corporation or any other facts pertinent to the existence and amount of surplus or other funds from which dividends might properly be declared and paid, or with which the corporation's stock might properly be purchased or redeemed."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 172",
+    "56 Del. Laws, c. 50",
+    "56 Del. Laws, c. 186, § 10",
+    "66 Del. Laws, c. 136, § 5"
+  ]
+}

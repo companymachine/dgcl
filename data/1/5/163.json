@@ -1,0 +1,32 @@
+{
+  "provision": [
+    {
+      "subdivision": "title",
+      "number": "8"
+    },
+    {
+      "subdivision": "chapter",
+      "number": "1"
+    },
+    {
+      "subdivision": "subchapter",
+      "number": "V"
+    },
+    {
+      "subdivision": "section",
+      "number": "163"
+    }
+  ],
+  "heading": "Payment for stock not paid in full.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The capital stock of a corporation shall be paid for in such amounts and at such times as the directors may require. The directors may, from time to time, demand payment, in respect of each share of stock not fully paid, of such sum of money as the necessities of the business may, in the judgment of the board of directors, require, not exceeding in the whole the balance remaining unpaid on said stock, and such sum so demanded shall be paid to the corporation at such times and by such installments as the directors shall direct. The directors shall give written notice of the time and place of such payments, which notice shall be mailed at least 30 days before the time for such payment, to each holder of or subscriber for stock which is not fully paid at such holder's or subscriber's last known post-office address."
+    }
+  ],
+  "history": [
+    "8 Del. C. 1953, § 163",
+    "56 Del. Laws, c. 50",
+    "71 Del. Laws, c. 339, § 21"
+  ]
+}
