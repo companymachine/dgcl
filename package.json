@@ -4,6 +4,7 @@
   "devDependencies": {
     "chai": "^2.1.0",
     "glob": "^4.4.0",
+    "json": "^9.0.3",
     "jsonschema": "^1.0.0",
     "mocha": "^2.1.0",
     "romanize": "^0.1.0"
