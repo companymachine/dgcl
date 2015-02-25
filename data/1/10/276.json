@@ -2,6 +2,10 @@
   "jurisdiction": "US-DE",
   "provision": [
     {
+      "subdivision": "code",
+      "number": "Delaware Code"
+    },
+    {
       "subdivision": "title",
       "number": "8"
     },
