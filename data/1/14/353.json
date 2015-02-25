@@ -25,7 +25,28 @@
     },
     {
       "number": "(b)",
-      "content": "An application for relief under this section must be filed (1) by at least one half of the number of directors then in office, (2) by the holders of at least one third of all stock then entitled to elect directors, or, (3) if there be more than 1 class of stock then entitled to elect 1 or more directors, by the holders of two thirds of the stock of any such class; but the certificate of incorporation of a close corporation may provide that a lesser proportion of the directors or of the stockholders or of a class of stockholders may apply for relief under this section."
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "An application for relief under this section must be filed"
+        },
+        {
+          "number": "(1)",
+          "content": "by at least one half of the number of directors then in office,"
+        },
+        {
+          "number": "(2)",
+          "content": "by the holders of at least one third of all stock then entitled to elect directors, or,"
+        },
+        {
+          "number": "(3)",
+          "content": "if there be more than 1 class of stock then entitled to elect 1 or more directors, by the holders of two thirds of the stock of any such class;"
+        },
+        {
+          "type": "paragraph",
+          "text": "but the certificate of incorporation of a close corporation may provide that a lesser proportion of the directors or of the stockholders or of a class of stockholders may apply for relief under this section."
+        }
+      ]
     },
     {
       "number": "(c)",

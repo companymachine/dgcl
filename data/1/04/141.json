@@ -36,7 +36,20 @@
         },
         {
           "number": "(2)",
-          "content": "The board of directors may designate 1 or more committees, each committee to consist of 1 or more of the directors of the corporation. The board may designate 1 or more directors as alternate members of any committee, who may replace any absent or disqualified member at any meeting of the committee. The bylaws may provide that in the absence or disqualification of a member of a committee, the member or members present at any meeting and not disqualified from voting, whether or not such member or members constitute a quorum, may unanimously appoint another member of the board of directors to act at the meeting in the place of any such absent or disqualified member. Any such committee, to the extent provided in the resolution of the board of directors, or in the bylaws of the corporation, shall have and may exercise all the powers and authority of the board of directors in the management of the business and affairs of the corporation, and may authorize the seal of the corporation to be affixed to all papers which may require it; but no such committee shall have the power or authority in reference to the following matter: (i) approving or adopting, or recommending to the stockholders, any action or matter (other than the election or removal of directors) expressly required by this chapter to be submitted to stockholders for approval or (ii) adopting, amending or repealing any bylaw of the corporation."
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The board of directors may designate 1 or more committees, each committee to consist of 1 or more of the directors of the corporation. The board may designate 1 or more directors as alternate members of any committee, who may replace any absent or disqualified member at any meeting of the committee. The bylaws may provide that in the absence or disqualification of a member of a committee, the member or members present at any meeting and not disqualified from voting, whether or not such member or members constitute a quorum, may unanimously appoint another member of the board of directors to act at the meeting in the place of any such absent or disqualified member. Any such committee, to the extent provided in the resolution of the board of directors, or in the bylaws of the corporation, shall have and may exercise all the powers and authority of the board of directors in the management of the business and affairs of the corporation, and may authorize the seal of the corporation to be affixed to all papers which may require it; but no such committee shall have the power or authority in reference to the following matter:"
+            },
+            {
+              "number": "(i)",
+              "content": "approving or adopting, or recommending to the stockholders, any action or matter (other than the election or removal of directors) expressly required by this chapter to be submitted to stockholders for approval or"
+            },
+            {
+              "number": "(ii)",
+              "content": "adopting, amending or repealing any bylaw of the corporation."
+            }
+          ]
         },
         {
           "number": "(3)",

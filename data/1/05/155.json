@@ -21,7 +21,23 @@
   "content": [
     {
       "type": "paragraph",
-      "text": "A corporation may, but shall not be required to, issue fractions of a share. If it does not issue fractions of a share, it shall (1) arrange for the disposition of fractional interests by those entitled thereto, (2) pay in cash the fair value of fractions of a share as of the time when those entitled to receive such fractions are determined or (3) issue scrip or warrants in registered form (either represented by a certificate or uncertificated) or in bearer form (represented by a certificate) which shall entitle the holder to receive a full share upon the surrender of such scrip or warrants aggregating a full share. A certificate for a fractional share or an uncertificated fractional share shall, but scrip or warrants shall not unless otherwise provided therein, entitle the holder to exercise voting rights, to receive dividends thereon and to participate in any of the assets of the corporation in the event of liquidation. The board of directors may cause scrip or warrants to be issued subject to the conditions that they shall become void if not exchanged for certificates representing the full shares or uncertificated full shares before a specified date, or subject to the conditions that the shares for which scrip or warrants are exchangeable may be sold by the corporation and the proceeds thereof distributed to the holders of scrip or warrants, or subject to any other conditions which the board of directors may impose."
+      "text": "A corporation may, but shall not be required to, issue fractions of a share. If it does not issue fractions of a share, it shall"
+    },
+    {
+      "number": "(1)",
+      "content": "arrange for the disposition of fractional interests by those entitled thereto,"
+    },
+    {
+      "number": "(2)",
+      "content": "pay in cash the fair value of fractions of a share as of the time when those entitled to receive such fractions are determined or"
+    },
+    {
+      "number": "(3)",
+      "content": "issue scrip or warrants in registered form (either represented by a certificate or uncertificated) or in bearer form (represented by a certificate) which shall entitle the holder to receive a full share upon the surrender of such scrip or warrants aggregating a full share."
+    },
+    {
+      "type": "paragraph",
+      "text": "A certificate for a fractional share or an uncertificated fractional share shall, but scrip or warrants shall not unless otherwise provided therein, entitle the holder to exercise voting rights, to receive dividends thereon and to participate in any of the assets of the corporation in the event of liquidation. The board of directors may cause scrip or warrants to be issued subject to the conditions that they shall become void if not exchanged for certificates representing the full shares or uncertificated full shares before a specified date, or subject to the conditions that the shares for which scrip or warrants are exchangeable may be sold by the corporation and the proceeds thereof distributed to the holders of scrip or warrants, or subject to any other conditions which the board of directors may impose."
     }
   ],
   "history": [

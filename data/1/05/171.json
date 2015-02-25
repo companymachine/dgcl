@@ -12,7 +12,10 @@
       "subdivision": "subchapter",
       "number": "V"
     },
-    {"subdivision":"section","number":"171"}
+    {
+      "subdivision": "section",
+      "number": "171"
+    }
   ],
   "heading": "Special purpose reserves",
   "content": [

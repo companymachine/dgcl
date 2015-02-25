@@ -25,7 +25,24 @@
     },
     {
       "number": "(b)",
-      "content": "Whenever notice is required to be given, under any provision of this title or the certificate of incorporation or bylaws of any corporation, to any stockholder or, if the corporation is a nonstock corporation, to any member, to whom (1) notice of 2 consecutive annual meetings, and all notices of meetings or of the taking of action by written consent without a meeting to such person during the period between such 2 consecutive annual meetings, or (2) all, and at least 2, payments (if sent by first-class mail) of dividends or interest on securities during a 12-month period, have been mailed addressed to such person at such person’s address as shown on the records of the corporation and have been returned undeliverable, the giving of such notice to such person shall not be required. Any action or meeting which shall be taken or held without notice to such person shall have the same force and effect as if such notice had been duly given. If any such person shall deliver to the corporation a written notice setting forth such person’s then current address, the requirement that notice be given to such person shall be reinstated. In the event that the action taken by the corporation is such as to require the filing of a certificate under any of the other sections of this title, the certificate need not state that notice was not given to persons to whom notice was not required to be given pursuant to this subsection."
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Whenever notice is required to be given, under any provision of this title or the certificate of incorporation or bylaws of any corporation, to any stockholder or, if the corporation is a nonstock corporation, to any member, to whom"
+        },
+        {
+          "number": "(1)",
+          "content": "notice of 2 consecutive annual meetings, and all notices of meetings or of the taking of action by written consent without a meeting to such person during the period between such 2 consecutive annual meetings, or"
+        },
+        {
+          "number": "(2)",
+          "content": "all, and at least 2, payments (if sent by first-class mail) of dividends or interest on securities during a 12-month period, have been mailed addressed to such person at such person’s address as shown on the records of the corporation and have been returned undeliverable,"
+        },
+        {
+          "type": "paragraph",
+          "text": "the giving of such notice to such person shall not be required. Any action or meeting which shall be taken or held without notice to such person shall have the same force and effect as if such notice had been duly given. If any such person shall deliver to the corporation a written notice setting forth such person’s then current address, the requirement that notice be given to such person shall be reinstated. In the event that the action taken by the corporation is such as to require the filing of a certificate under any of the other sections of this title, the certificate need not state that notice was not given to persons to whom notice was not required to be given pursuant to this subsection."
+        }
+      ]
     },
     {
       "number": "(c)",

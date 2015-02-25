@@ -87,7 +87,24 @@
     },
     {
       "number": "(f)",
-      "content": "At any time prior to the expiration of 3 years following the dissolution of a nonstock corporation pursuant to § 276 of this title, or, at any time prior to the expiration of such longer period as the Court of Chancery may have directed pursuant to § 278 of this title, a nonstock corporation may revoke the dissolution theretofore effected by it in a manner analogous to that by which the dissolution was authorized, including (i) if applicable, a vote of the members entitled to vote, if any, on the dissolution and (ii) the filing of a certificate of revocation of dissolution containing information comparable to that required by paragraph (a)(4) of this section. Notwithstanding the foregoing, only subsections (b), (d), and (e) of this section shall apply to nonstock corporations."
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "At any time prior to the expiration of 3 years following the dissolution of a nonstock corporation pursuant to § 276 of this title, or, at any time prior to the expiration of such longer period as the Court of Chancery may have directed pursuant to § 278 of this title, a nonstock corporation may revoke the dissolution theretofore effected by it in a manner analogous to that by which the dissolution was authorized, including"
+        },
+        {
+          "number": "(i)",
+          "content": "if applicable, a vote of the members entitled to vote, if any, on the dissolution and"
+        },
+        {
+          "number": "(ii)",
+          "content": "the filing of a certificate of revocation of dissolution containing information comparable to that required by paragraph (a)(4) of this section."
+        },
+        {
+          "type": "paragraph",
+          "text": "Notwithstanding the foregoing, only subsections (b), (d), and (e) of this section shall apply to nonstock corporations."
+        }
+      ]
     }
   ],
   "history": [

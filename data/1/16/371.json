@@ -36,7 +36,28 @@
         },
         {
           "number": "(2)",
-          "content": "A statement executed by an authorized officer of each corporation setting forth (i) the name and address of its registered agent in this State, which agent may be any of the foreign corporation itself, an individual resident in this State, a domestic corporation, a domestic partnership (whether general (including a limited liability partnership) or limited (including a limited liability limited partnership)), a domestic limited liability company, a domestic statutory trust, a foreign corporation (other than the foreign corporation itself), a foreign partnership (whether general (including a limited liability partnership) or limited (including a limited liability limited partnership)), a foreign limited liability company or a foreign statutory trust, (ii) a statement, as of a date not earlier than 6 months prior to the filing date, of the assets and liabilities of the corporation, and (iii) the business it proposes to do in this State, and a statement that it is authorized to do that business in the jurisdiction of its incorporation. The statement shall be acknowledged in accordance with § 103 of this title."
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A statement executed by an authorized officer of each corporation setting forth"
+            },
+            {
+              "number": "(i)",
+              "content": "the name and address of its registered agent in this State, which agent may be any of the foreign corporation itself, an individual resident in this State, a domestic corporation, a domestic partnership (whether general (including a limited liability partnership) or limited (including a limited liability limited partnership)), a domestic limited liability company, a domestic statutory trust, a foreign corporation (other than the foreign corporation itself), a foreign partnership (whether general (including a limited liability partnership) or limited (including a limited liability limited partnership)), a foreign limited liability company or a foreign statutory trust,"
+            },
+            {
+              "number": "(ii)",
+              "content": "a statement, as of a date not earlier than 6 months prior to the filing date, of the assets and liabilities of the corporation, and"
+            },
+            {
+              "number": "(iii)",
+              "content": "the business it proposes to do in this State, and a statement that it is authorized to do that business in the jurisdiction of its incorporation."
+            },
+            {
+              "type": "paragraph",
+              "text": "The statement shall be acknowledged in accordance with § 103 of this title."
+            }
+          ]
         }
       ]
     },

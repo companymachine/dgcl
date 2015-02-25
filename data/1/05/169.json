@@ -12,7 +12,10 @@
       "subdivision": "subchapter",
       "number": "V"
     },
-    {"subdivision":"section","number":"169"}
+    {
+      "subdivision": "section",
+      "number": "169"
+    }
   ],
   "heading": "Situs of ownership of stock",
   "content": [

@@ -21,7 +21,24 @@
   "content": [
     {
       "number": "(a)",
-      "content": "Without limiting the manner by which notice otherwise may be given effectively to stockholders, any notice to stockholders given by the corporation under any provision of this chapter, the certificate of incorporation, or the bylaws shall be effective if given by a form of electronic transmission consented to by the stockholder to whom the notice is given. Any such consent shall be revocable by the stockholder by written notice to the corporation. Any such consent shall be deemed revoked if (1) the corporation is unable to deliver by electronic transmission 2 consecutive notices given by the corporation in accordance with such consent and (2) such inability becomes known to the secretary or an assistant secretary of the corporation or to the transfer agent, or other person responsible for the giving of notice; provided, however, the inadvertent failure to treat such inability as a revocation shall not invalidate any meeting or other action."
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Without limiting the manner by which notice otherwise may be given effectively to stockholders, any notice to stockholders given by the corporation under any provision of this chapter, the certificate of incorporation, or the bylaws shall be effective if given by a form of electronic transmission consented to by the stockholder to whom the notice is given. Any such consent shall be revocable by the stockholder by written notice to the corporation. Any such consent shall be deemed revoked if"
+        },
+        {
+          "number": "(1)",
+          "content": "the corporation is unable to deliver by electronic transmission 2 consecutive notices given by the corporation in accordance with such consent and"
+        },
+        {
+          "number": "(2)",
+          "content": "such inability becomes known to the secretary or an assistant secretary of the corporation or to the transfer agent, or other person responsible for the giving of notice;"
+        },
+        {
+          "type": "paragraph",
+          "text": "provided, however, the inadvertent failure to treat such inability as a revocation shall not invalidate any meeting or other action."
+        }
+      ]
     },
     {
       "number": "(b)",
@@ -40,7 +57,20 @@
         },
         {
           "number": "(3)",
-          "content": "If by a posting on an electronic network together with separate notice to the stockholder of such specific posting, upon the later of (A) such posting and (B) the giving of such separate notice; and"
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "If by a posting on an electronic network together with separate notice to the stockholder of such specific posting, upon the later of"
+            },
+            {
+              "number": "(A)",
+              "content": "such posting and"
+            },
+            {
+              "number": "(B)",
+              "content": "the giving of such separate notice; and"
+            }
+          ]
         },
         {
           "number": "(4)",

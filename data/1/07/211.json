@@ -39,7 +39,24 @@
             },
             {
               "number": "b.",
-              "content": "Be deemed present in person and vote at a meeting of stockholders, whether such meeting is to be held at a designated place or solely by means of remote communication, provided that (i) the corporation shall implement reasonable measures to verify that each person deemed present and permitted to vote at the meeting by means of remote communication is a stockholder or proxyholder, (ii) the corporation shall implement reasonable measures to provide such stockholders and proxyholders a reasonable opportunity to participate in the meeting and to vote on matters submitted to the stockholders, including an opportunity to read or hear the proceedings of the meeting substantially concurrently with such proceedings, and (iii) if any stockholder or proxyholder votes or takes other action at the meeting by means of remote communication, a record of such vote or other action shall be maintained by the corporation."
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "Be deemed present in person and vote at a meeting of stockholders, whether such meeting is to be held at a designated place or solely by means of remote communication, provided that"
+                },
+                {
+                  "number": "(i)",
+                  "content": "the corporation shall implement reasonable measures to verify that each person deemed present and permitted to vote at the meeting by means of remote communication is a stockholder or proxyholder,"
+                },
+                {
+                  "number": "(ii)",
+                  "content": "the corporation shall implement reasonable measures to provide such stockholders and proxyholders a reasonable opportunity to participate in the meeting and to vote on matters submitted to the stockholders, including an opportunity to read or hear the proceedings of the meeting substantially concurrently with such proceedings, and"
+                },
+                {
+                  "number": "(iii)",
+                  "content": "if any stockholder or proxyholder votes or takes other action at the meeting by means of remote communication, a record of such vote or other action shall be maintained by the corporation."
+                }
+              ]
             }
           ]
         }

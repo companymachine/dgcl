@@ -29,7 +29,24 @@
     },
     {
       "number": "(c)",
-      "content": "The board of directors may, by a resolution adopted by the board, authorize 1 or more officers of the corporation to do 1 or both of the following: (i) designate officers and employees of the corporation or of any of its subsidiaries to be recipients of such rights or options created by the corporation, and (ii) determine the number of such rights or options to be received by such officers and employees; provided, however, that the resolution so authorizing such officer or officers shall specify the total number of rights or options such officer or officers may so award. The board of directors may not authorize an officer to designate himself or herself as a recipient of any such rights or options."
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The board of directors may, by a resolution adopted by the board, authorize 1 or more officers of the corporation to do 1 or both of the following:"
+        },
+        {
+          "number": "(i)",
+          "content": "designate officers and employees of the corporation or of any of its subsidiaries to be recipients of such rights or options created by the corporation, and"
+        },
+        {
+          "number": "(ii)",
+          "content": "determine the number of such rights or options to be received by such officers and employees;"
+        },
+        {
+          "type": "paragraph",
+          "text": "provided, however, that the resolution so authorizing such officer or officers shall specify the total number of rights or options such officer or officers may so award. The board of directors may not authorize an officer to designate himself or herself as a recipient of any such rights or options."
+        }
+      ]
     },
     {
       "number": "(d)",

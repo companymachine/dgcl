@@ -28,7 +28,32 @@
         },
         {
           "number": "(1)",
-          "content": "The name of the corporation, which (i) shall contain 1 of the words “association,” “company,” “corporation,” “club,” “foundation,” “fund,” “incorporated,” “institute,” “society,” “union,” “syndicate,” or “limited,” (or abbreviations thereof, with or without punctuation), or words (or abbreviations thereof, with or without punctuation) of like import of foreign countries or jurisdictions (provided they are written in roman characters or letters); provided, however, that the Division of Corporations in the Department of State may waive such requirement (unless it determines that such name is, or might otherwise appear to be, that of a natural person) if such corporation executes, acknowledges and files with the Secretary of State in accordance with § 103 of this title a certificate stating that its total assets, as defined in § 503(i) of this title, are not less than $10,000,000, or, in the sole discretion of the Division of Corporations in the Department of State, if the corporation is both a nonprofit nonstock corporation and an association of professionals, (ii) shall be such as to distinguish it upon the records in the office of the Division of Corporations in the Department of State from the names that are reserved on such records and from the names on such records of each other corporation, partnership, limited partnership, limited liability company or statutory trust organized or registered as a domestic or foreign corporation, partnership, limited partnership, limited liability company or statutory trust under the laws of this State, except with the written consent of the person who has reserved such name or such other foreign corporation or domestic or foreign partnership, limited partnership, limited liability company or statutory trust, executed, acknowledged and filed with the Secretary of State in accordance with § 103 of this title, (iii) except as permitted by § 395 of this title, shall not contain the word “trust,” and (iv) shall not contain the word “bank,” or any variation thereof, except for the name of a bank reporting to and under the supervision of the State Bank Commissioner of this State or a subsidiary of a bank or savings association (as those terms are defined in the Federal Deposit Insurance Act, as amended, at 12 U.S.C. § 1813), or a corporation regulated under the Bank Holding Company Act of 1956, as amended, 12 U.S.C. § 1841 et seq., or the Home Owners’ Loan Act, as amended, 12 U.S.C. § 1461 et seq.; provided, however, that this section shall not be construed to prevent the use of the word “bank,” or any variation thereof, in a context clearly not purporting to refer to a banking business or otherwise likely to mislead the public about the nature of the business of the corporation or to lead to a pattern and practice of abuse that might cause harm to the interests of the public or the State as determined by the Division of Corporations in the Department of State;"
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The name of the corporation, which"
+            },
+            {
+              "number": "(i)",
+              "content": "shall contain 1 of the words “association,” “company,” “corporation,” “club,” “foundation,” “fund,” “incorporated,” “institute,” “society,” “union,” “syndicate,” or “limited,” (or abbreviations thereof, with or without punctuation), or words (or abbreviations thereof, with or without punctuation) of like import of foreign countries or jurisdictions (provided they are written in roman characters or letters); provided, however, that the Division of Corporations in the Department of State may waive such requirement (unless it determines that such name is, or might otherwise appear to be, that of a natural person) if such corporation executes, acknowledges and files with the Secretary of State in accordance with § 103 of this title a certificate stating that its total assets, as defined in § 503(i) of this title, are not less than $10,000,000, or, in the sole discretion of the Division of Corporations in the Department of State, if the corporation is both a nonprofit nonstock corporation and an association of professionals,"
+            },
+            {
+              "number": "(ii)",
+              "content": "shall be such as to distinguish it upon the records in the office of the Division of Corporations in the Department of State from the names that are reserved on such records and from the names on such records of each other corporation, partnership, limited partnership, limited liability company or statutory trust organized or registered as a domestic or foreign corporation, partnership, limited partnership, limited liability company or statutory trust under the laws of this State, except with the written consent of the person who has reserved such name or such other foreign corporation or domestic or foreign partnership, limited partnership, limited liability company or statutory trust, executed, acknowledged and filed with the Secretary of State in accordance with § 103 of this title,"
+            },
+            {
+              "number": "(iii)",
+              "content": "except as permitted by § 395 of this title, shall not contain the word “trust,” and"
+            },
+            {
+              "number": "(iv)",
+              "content": "shall not contain the word “bank,” or any variation thereof, except for the name of a bank reporting to and under the supervision of the State Bank Commissioner of this State or a subsidiary of a bank or savings association (as those terms are defined in the Federal Deposit Insurance Act, as amended, at 12 U.S.C. § 1813), or a corporation regulated under the Bank Holding Company Act of 1956, as amended, 12 U.S.C. § 1841 et seq., or the Home Owners’ Loan Act, as amended, 12 U.S.C. § 1461 et seq.;"
+            },
+            {
+              "type": "paragraph",
+              "text": "provided, however, that this section shall not be construed to prevent the use of the word “bank,” or any variation thereof, in a context clearly not purporting to refer to a banking business or otherwise likely to mislead the public about the nature of the business of the corporation or to lead to a pattern and practice of abuse that might cause harm to the interests of the public or the State as determined by the Division of Corporations in the Department of State;"
+            }
+          ]
         },
         {
           "number": "(2)",
@@ -68,24 +93,33 @@
           "content": [
             {
               "type": "paragraph",
-              "text": "The following provisions, in haec verba, (i), for a corporation other than a nonstock corporation, viz:"
+              "text": "The following provisions, in haec verba,"
             },
             {
-              "type": "blockquote",
-              "text": "\"Whenever a compromise or arrangement is proposed between this corporation and its creditors or any class of them and/or between this corporation and its stockholders or any class of them, any court of equitable jurisdiction within the State of Delaware may, on the application in a summary way of this corporation or of any creditor or stockholder thereof or on the application of any receiver or receivers appointed for this corporation under § 291 of Title 8 of the Delaware Code or on the application of trustees in dissolution or of any receiver or receivers appointed for this corporation under § 279 of Title 8 of the Delaware Code order a meeting of the creditors or class of creditors, and/or of the stockholders or class of stockholders of this corporation, as the case may be, to be summoned in such manner as the said court directs. If a majority in number representing three fourths in value of the creditors or class of creditors, and/or of the stockholders or class of stockholders of this corporation, as the case may be, agree to any compromise or arrangement and to any reorganization of this corporation as consequence of such compromise or arrangement, the said compromise or arrangement and the said reorganization shall, if sanctioned by the court to which the said application has been made, be binding on all the creditors or class of creditors, and/or on all the stockholders or class of stockholders, of this corporation, as the case may be, and also on this corporation\"; or"
-            }
-          ]
-        },
-        {
-          "number": "(ii)",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": ", for a nonstock corporation, viz:"
+              "number": "(i)",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ", for a corporation other than a nonstock corporation, viz:"
+                },
+                {
+                  "type": "blockquote",
+                  "text": "\"Whenever a compromise or arrangement is proposed between this corporation and its creditors or any class of them and/or between this corporation and its stockholders or any class of them, any court of equitable jurisdiction within the State of Delaware may, on the application in a summary way of this corporation or of any creditor or stockholder thereof or on the application of any receiver or receivers appointed for this corporation under § 291 of Title 8 of the Delaware Code or on the application of trustees in dissolution or of any receiver or receivers appointed for this corporation under § 279 of Title 8 of the Delaware Code order a meeting of the creditors or class of creditors, and/or of the stockholders or class of stockholders of this corporation, as the case may be, to be summoned in such manner as the said court directs. If a majority in number representing three fourths in value of the creditors or class of creditors, and/or of the stockholders or class of stockholders of this corporation, as the case may be, agree to any compromise or arrangement and to any reorganization of this corporation as consequence of such compromise or arrangement, the said compromise or arrangement and the said reorganization shall, if sanctioned by the court to which the said application has been made, be binding on all the creditors or class of creditors, and/or on all the stockholders or class of stockholders, of this corporation, as the case may be, and also on this corporation\"; or"
+                }
+              ]
             },
             {
-              "type": "blockquote",
-              "text": "\"Whenever a compromise or arrangement is proposed between this corporation and its creditors or any class of them and/or between this corporation and its members or any class of them, any court of equitable jurisdiction within the State of Delaware may, on the application in a summary way of this corporation or of any creditor or member thereof or on the application of any receiver or receivers appointed for this corporation under § 291 of Title 8 of the Delaware Code or on the application of trustees in dissolution or of any receiver or receivers appointed for this corporation under § 279 of Title 8 of the Delaware Code order a meeting of the creditors or class of creditors, and/or of the members or class of members of this corporation, as the case may be, to be summoned in such manner as the said court directs. If a majority in number representing three fourths in value of the creditors or class of creditors, and/or of the members or class of members of this corporation, as the case may be, agree to any compromise or arrangement and to any reorganization of this corporation as consequence of such compromise or arrangement, the said compromise or arrangement and the said reorganization shall, if sanctioned by the court to which the said application has been made, be binding on all the creditors or class of creditors, and/or on all the members or class of members, of this corporation, as the case may be, and also on this corporation\";"
+              "number": "(ii)",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": ", for a nonstock corporation, viz:"
+                },
+                {
+                  "type": "blockquote",
+                  "text": "\"Whenever a compromise or arrangement is proposed between this corporation and its creditors or any class of them and/or between this corporation and its members or any class of them, any court of equitable jurisdiction within the State of Delaware may, on the application in a summary way of this corporation or of any creditor or member thereof or on the application of any receiver or receivers appointed for this corporation under § 291 of Title 8 of the Delaware Code or on the application of trustees in dissolution or of any receiver or receivers appointed for this corporation under § 279 of Title 8 of the Delaware Code order a meeting of the creditors or class of creditors, and/or of the members or class of members of this corporation, as the case may be, to be summoned in such manner as the said court directs. If a majority in number representing three fourths in value of the creditors or class of creditors, and/or of the members or class of members of this corporation, as the case may be, agree to any compromise or arrangement and to any reorganization of this corporation as consequence of such compromise or arrangement, the said compromise or arrangement and the said reorganization shall, if sanctioned by the court to which the said application has been made, be binding on all the creditors or class of creditors, and/or on all the members or class of members, of this corporation, as the case may be, and also on this corporation\";"
+                }
+              ]
             }
           ]
         },
@@ -107,7 +141,32 @@
         },
         {
           "number": "(7)",
-          "content": "A provision eliminating or limiting the personal liability of a director to the corporation or its stockholders for monetary damages for breach of fiduciary duty as a director, provided that such provision shall not eliminate or limit the liability of a director: (i) For any breach of the director’s duty of loyalty to the corporation or its stockholders; (ii) for acts or omissions not in good faith or which involve intentional misconduct or a knowing violation of law; (iii) under § 174 of this title; or (iv) for any transaction from which the director derived an improper personal benefit. No such provision shall eliminate or limit the liability of a director for any act or omission occurring prior to the date when such provision becomes effective. All references in this paragraph to a director shall also be deemed to refer to such other person or persons, if any, who, pursuant to a provision of the certificate of incorporation in accordance with § 141(a) of this title, exercise or perform any of the powers or duties otherwise conferred or imposed upon the board of directors by this title."
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A provision eliminating or limiting the personal liability of a director to the corporation or its stockholders for monetary damages for breach of fiduciary duty as a director, provided that such provision shall not eliminate or limit the liability of a director:"
+            },
+            {
+              "number": "(i)",
+              "content": "For any breach of the director’s duty of loyalty to the corporation or its stockholders;"
+            },
+            {
+              "number": "(ii)",
+              "content": "for acts or omissions not in good faith or which involve intentional misconduct or a knowing violation of law;"
+            },
+            {
+              "number": "(iii)",
+              "content": "under § 174 of this title; or"
+            },
+            {
+              "number": "(iv)",
+              "content": "for any transaction from which the director derived an improper personal benefit."
+            },
+            {
+              "type": "paragraph",
+              "text": "No such provision shall eliminate or limit the liability of a director for any act or omission occurring prior to the date when such provision becomes effective. All references in this paragraph to a director shall also be deemed to refer to such other person or persons, if any, who, pursuant to a provision of the certificate of incorporation in accordance with § 141(a) of this title, exercise or perform any of the powers or duties otherwise conferred or imposed upon the board of directors by this title."
+            }
+          ]
         }
       ]
     },

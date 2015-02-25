@@ -37,15 +37,28 @@
     },
     {
       "number": "(4)",
-      "content": "By transferring to surplus (i) some or all of the capital not represented by any particular class of its capital stock; (ii) some or all of the capital represented by issued shares of its par value capital stock, which capital is in excess of the aggregate par value of such shares; or (iii) some of the capital represented by issued shares of its capital stock without par value."
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "By transferring to surplus"
+        },
+        {
+          "number": "(i)",
+          "content": "some or all of the capital not represented by any particular class of its capital stock;"
+        },
+        {
+          "number": "(ii)",
+          "content": "some or all of the capital represented by issued shares of its par value capital stock, which capital is in excess of the aggregate par value of such shares; or"
+        },
+        {
+          "number": "(iii)",
+          "content": "some of the capital represented by issued shares of its capital stock without par value."
+        }
+      ]
     },
     {
       "number": "(b)",
       "content": "Notwithstanding the other provisions of this section, no reduction of capital shall be made or effected unless the assets of the corporation remaining after such reduction shall be sufficient to pay any debts of the corporation for which payment has not been otherwise provided. No reduction of capital shall release any liability of any stockholder whose shares have not been fully paid."
-    },
-    {
-      "number": "(c)",
-      "content": "[Repealed.]"
     }
   ],
   "history": [

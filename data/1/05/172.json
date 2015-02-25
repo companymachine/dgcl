@@ -12,7 +12,10 @@
       "subdivision": "subchapter",
       "number": "V"
     },
-    {"subdivision":"section","number":"172"}
+    {
+      "subdivision": "section",
+      "number": "172"
+    }
   ],
   "heading": "Liability of directors and committee members as to dividends or stock redemption",
   "content": [

@@ -12,7 +12,10 @@
       "subdivision": "subchapter",
       "number": "V"
     },
-    {"subdivision":"section","number":"170"}
+    {
+      "subdivision": "section",
+      "number": "170"
+    }
   ],
   "heading": "Dividends; payment; wasting asset corporations",
   "content": [

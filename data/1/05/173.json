@@ -12,7 +12,10 @@
       "subdivision": "subchapter",
       "number": "V"
     },
-    {"subdivision":"section","number":"173"}
+    {
+      "subdivision": "section",
+      "number": "173"
+    }
   ],
   "heading": "Declaration and payment of dividends",
   "content": [
