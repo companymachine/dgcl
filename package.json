@@ -10,7 +10,8 @@
     "romanize": "^0.1.0"
   },
   "scripts": {
-    "pre-commit": "mocha",
+    "build": "make",
+    "pre-commit": "mocha && npm run build",
     "test": "mocha",
     "travis-ci": "npm run pre-commit"
   }

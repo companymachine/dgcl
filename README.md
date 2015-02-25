@@ -1,6 +1,6 @@
 Delaware General Corporation Law
 ================================
 
-In JSON format
+The Delaware General Corporation Law, in Markdown and JSON formats
 
-This is not an official version of the code. It is not guaranteed to be up-to-date or correct.
+This is not an official version of the code. It may not be up-to-date or correct.
