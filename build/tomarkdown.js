@@ -17,7 +17,7 @@ var renderElement = function(depth, element) {
     out.write(element.text);
   } else if ('number' in element) {
     out.write('\n\n' + indentation(depth));
-    out.write('- ' + element.number + ' ');
+    out.write('- ' + element.number.replace('.', '\\.') + ' ');
     if (typeof element.content === 'string') {
       out.write(element.content);
     } else {
