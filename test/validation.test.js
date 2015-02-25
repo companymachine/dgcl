@@ -24,7 +24,7 @@ describe('files', function() {
 
       it('is correctly numbered', function() {
         expect(json.provision[json.provision.length - 1].number)
-          .to.equal(parsedPath.base.replace('.json',''));
+          .to.equal(parsedPath.base.replace('.json', ''));
       });
 
       it('is in the right directory', function() {

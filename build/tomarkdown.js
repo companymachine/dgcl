@@ -2,7 +2,7 @@ var fs = require('fs');
 var jsonFile = process.argv[2];
 var json = JSON.parse(fs.readFileSync(jsonFile));
 
-var out = fs.createWriteStream(jsonFile.replace(/\.json$/,'.md'));
+var out = fs.createWriteStream(jsonFile.replace(/\.json$/, '.md'));
 
 var indentation = function(level) {
   return level < 1 ? '' : new Array((level * 2) + 1).join(' ');
