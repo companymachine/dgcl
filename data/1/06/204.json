@@ -145,18 +145,18 @@
         },
         {
           "number": "(1)",
-          "content": "\"Defective corporate act” means an overissue, an election or appointment of directors that is void or voidable due to a failure of authorization, or any act or transaction purportedly taken by or on behalf of the corporation that is, and at the time such act or transaction was purportedly taken would have been, within the power of a corporation under subchapter II of this chapter, but is void or voidable due to a failure of authorization;"
+          "content": "“Defective corporate act” means an overissue, an election or appointment of directors that is void or voidable due to a failure of authorization, or any act or transaction purportedly taken by or on behalf of the corporation that is, and at the time such act or transaction was purportedly taken would have been, within the power of a corporation under subchapter II of this chapter, but is void or voidable due to a failure of authorization;"
         },
         {
           "number": "(2)",
-          "content": "\"Failure of authorization” means the failure to authorize or effect an act or transaction in compliance with the provisions of this title, the certificate of incorporation or bylaws of the corporation, or any plan or agreement to which the corporation is a party, if and to the extent such failure would render such act or transaction void or voidable;"
+          "content": "“Failure of authorization” means the failure to authorize or effect an act or transaction in compliance with the provisions of this title, the certificate of incorporation or bylaws of the corporation, or any plan or agreement to which the corporation is a party, if and to the extent such failure would render such act or transaction void or voidable;"
         },
         {
           "number": "(3)",
           "content": [
             {
               "type": "paragraph",
-              "text": "\"Overissue” means the purported issuance of:"
+              "text": "“Overissue” means the purported issuance of:"
             },
             {
               "number": "a.",
@@ -173,7 +173,7 @@
           "content": [
             {
               "type": "paragraph",
-              "text": "\"Putative stock” means the shares of any class or series of capital stock of the corporation (including shares issued upon exercise of options, rights, warrants or other securities convertible into shares of capital stock of the corporation, or interests with respect thereto that were created or issued pursuant to a defective corporate act) that:"
+              "text": "“Putative stock” means the shares of any class or series of capital stock of the corporation (including shares issued upon exercise of options, rights, warrants or other securities convertible into shares of capital stock of the corporation, or interests with respect thereto that were created or issued pursuant to a defective corporate act) that:"
             },
             {
               "number": "a.",
@@ -187,14 +187,14 @@
         },
         {
           "number": "(5)",
-          "content": "\"Time of the defective corporate act” means the date and time the defective corporate act was purported to have been taken;"
+          "content": "“Time of the defective corporate act” means the date and time the defective corporate act was purported to have been taken;"
         },
         {
           "number": "(6)",
           "content": [
             {
               "type": "paragraph",
-              "text": "\"Validation effective time” with respect to any defective corporate act ratified pursuant to this section means the later of:"
+              "text": "“Validation effective time” with respect to any defective corporate act ratified pursuant to this section means the later of:"
             },
             {
               "number": "a.",
@@ -208,7 +208,7 @@
         },
         {
           "number": "(7)",
-          "content": "\"Valid stock” means the shares of any class or series of capital stock of the corporation that have been duly authorized and validly issued in accordance with this title;"
+          "content": "“Valid stock” means the shares of any class or series of capital stock of the corporation that have been duly authorized and validly issued in accordance with this title;"
         },
         {
           "type": "paragraph",
